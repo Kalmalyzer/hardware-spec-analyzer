@@ -2,28 +2,28 @@ Configuration,GPU Description,Popularity,G3D mark (performance metric),CS2 Minsp
 RTX PRO 5000 Blackwell,,,45357,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 5090 D,,,42384,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 6000 Blackwell Server Edition,,,42223,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 5090,,0.27%,39236,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 5090,,0.25%,39236,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 4000 Blackwell,,,38635,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4090,"Compute: 73.07264 SP TFLOPs, VRAM: 24.0 GB GDDR6X",0.93%,38172,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 5080,,0.78%,36245,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4090,"Compute: 73.07264 SP TFLOPs, VRAM: 24.0 GB GDDR6X",0.85%,38172,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 5080,,0.71%,36245,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 4500 Blackwell,,,35649,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 6000 Blackwell Workstation Edition,,,34500,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4080,"Compute: 42.99776 SP TFLOPs, VRAM: 16.0 GB GDDR6X",0.72%,34470,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4080 SUPER,,0.80%,34281,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4080,"Compute: 42.99776 SP TFLOPs, VRAM: 16.0 GB GDDR6X",0.66%,34470,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4080 SUPER,,0.73%,34281,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon AI PRO R9700,,,32860,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 5070 Ti,,0.79%,32823,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 5070 Ti,,0.72%,32823,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 6000 Blackwell Max-Q Workstation Edition,,,32813,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 4090 D,,,32260,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4070 Ti SUPER,,0.91%,31809,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4070 Ti,"Compute: 35.4816 SP TFLOPs, VRAM: 12.0 GB GDDR6X",1.16%,31597,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 7900 XTX,,0.56%,31291,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4070 Ti SUPER,,0.83%,31809,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4070 Ti,"Compute: 35.4816 SP TFLOPs, VRAM: 12.0 GB GDDR6X",1.06%,31597,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 7900 XTX,,0.51%,31291,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 5000 Ada Generation,,,30127,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 4000 Blackwell SFF Edition,,,30020,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4070 SUPER,,1.95%,29984,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4070 SUPER,,1.78%,29984,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 5090 Laptop GPU,,,29582,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 3090 Ti,"Compute: 33.54624 SP TFLOPs, VRAM: 24.0 GB GDDR6X",,29425,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 7900 XT,,,29027,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 5070,,1.65%,29004,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 5070,,1.50%,29004,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 6000 Ada Generation,,,28889,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon PRO W7900,,,28261,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6950 XT,,,28082,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
@@ -32,56 +32,56 @@ NVIDIA GeForce RTX 5080 Laptop GPU,,,27201,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Ye
 NVIDIA GeForce RTX 4090 Laptop GPU,,,27140,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 7900 GRE,,,27082,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon PRO W7800,,,27061,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4070,"Compute: 22.60992 SP TFLOPs, VRAM: 12.0 GB GDDR6X",2.40%,26927,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4070,"Compute: 22.60992 SP TFLOPs, VRAM: 12.0 GB GDDR6X",2.19%,26927,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 9070 XT,,,26902,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3080 Ti,"Compute: 27.9552 SP TFLOPs, VRAM: 12.0 GB GDDR6X",0.70%,26871,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 6900 XT,"Compute: 18.688 SP TFLOPs, VRAM: 16.0 GB GDDR6",0.20%,26735,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3090,"Compute: 29.3888 SP TFLOPs, VRAM: 24.0 GB GDDR6X",0.47%,26636,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3080 Ti,"Compute: 27.9552 SP TFLOPs, VRAM: 12.0 GB GDDR6X",0.64%,26871,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 6900 XT,"Compute: 18.688 SP TFLOPs, VRAM: 16.0 GB GDDR6",0.18%,26735,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3090,"Compute: 29.3888 SP TFLOPs, VRAM: 24.0 GB GDDR6X",0.43%,26636,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 3080 12GB,,,26558,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 9070,,,25342,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 5090 D v2,,,25283,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 5000 Blackwell Generation Laptop GPU,,,25281,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 3500 Ada Generation Embedded GPU,,,25189,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 5880 Ada Generation,,,25096,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3080,"Compute: 25.06752 SP TFLOPs, VRAM: 10.0 GB GDDR6X",1.84%,25087,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 6800 XT,"Compute: 16.8192 SP TFLOPs, VRAM: 16.0 GB GDDR6",0.30%,24967,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4080 Laptop GPU,,0.23%,24827,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3080,"Compute: 25.06752 SP TFLOPs, VRAM: 10.0 GB GDDR6X",1.68%,25087,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 6800 XT,"Compute: 16.8192 SP TFLOPs, VRAM: 16.0 GB GDDR6",0.27%,24967,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4080 Laptop GPU,,0.21%,24827,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 4000 Blackwell Generation Laptop GPU,,,24661,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 Virtual Desktop Monitor,,,24610,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 3000 Blackwell Generation Laptop GPU,,,24516,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 7800 XT,,0.67%,24216,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 7800 XT,,0.61%,24216,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 4000 Ada Generation,,,23981,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 5000 Ada Generation Laptop GPU,,,23621,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 5070 Ti Laptop GPU,,0.20%,23384,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3070 Ti,"Compute: 19.3536 SP TFLOPs, VRAM: 8.0 GB GDDR6X",1.24%,23315,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 5070 Ti Laptop GPU,,0.18%,23384,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3070 Ti,"Compute: 19.3536 SP TFLOPs, VRAM: 8.0 GB GDDR6X",1.13%,23315,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon PRO W7700,,,23184,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 5060 Ti 16GB,,,22846,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 4060 Ti 16GB,,,22752,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX A5000,,,22742,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 Racer-Tech USB Display Device,,,22706,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4060 Ti,,3.18%,22687,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4060 Ti,,2.90%,22687,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 5060 Ti 8GB,,,22676,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX A6000,,,22657,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 7700 XT,,0.27%,22609,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 7700 XT,,0.25%,22609,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 9070 GRE,,,22579,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 nVidia L40,,,22466,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3070,"Compute: 17.664 SP TFLOPs, VRAM: 8.0 GB GDDR6",2.72%,22187,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3070,"Compute: 17.664 SP TFLOPs, VRAM: 8.0 GB GDDR6",2.48%,22187,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 7900M,,,22179,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 6800,"Compute: 13.056 SP TFLOPs, VRAM: 16.0 GB GDDR6",0.23%,22047,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 6800,"Compute: 13.056 SP TFLOPs, VRAM: 16.0 GB GDDR6",0.21%,22047,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 4000 Ada Generation Laptop GPU,,,21999,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 GRID RTX6000-6Q,,,21987,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA A10,,,21687,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 Meta Virtual Monitor,,,21569,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 2080 Ti,"Compute: 11.7504 SP TFLOPs, VRAM: 11.0 GB GDDR6",0.32%,21519,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 2080 Ti,"Compute: 11.7504 SP TFLOPs, VRAM: 11.0 GB GDDR6",0.29%,21519,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX A4500,,,21134,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX A5500,,,21049,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 5060,,1.06%,20773,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 6750 XT,,0.38%,20707,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 5060,,0.97%,20773,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 6750 XT,,0.35%,20707,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 4000 SFF Ada Generation,,,20628,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 SudoMaker Virtual Display Adapter,,,20530,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 TITAN RTX,,,20445,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 6750 GRE 12GB,,0.16%,20333,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3060 Ti,"Compute: 13.71648 SP TFLOPs, VRAM: 8.0 GB GDDR6",3.01%,20323,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 6750 GRE 12GB,,0.15%,20333,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3060 Ti,"Compute: 13.71648 SP TFLOPs, VRAM: 8.0 GB GDDR6",2.74%,20323,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 5000 Ada Generation Embedded GPU,,,20312,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon PRO W6800,,,20240,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 TITAN V,,,20084,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
@@ -90,12 +90,12 @@ L40S,,,20023,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 5070 Laptop GPU,,,19987,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 9060 XT 8GB,,,19828,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 Quadro RTX 8000,,,19799,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 6700 XT,"Compute: 11.8784 SP TFLOPs, VRAM: 12.0 GB GDDR6",0.68%,19772,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 6700 XT,"Compute: 11.8784 SP TFLOPs, VRAM: 12.0 GB GDDR6",0.62%,19772,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 3500 Ada Generation Laptop GPU,,,19757,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4070 Laptop GPU,,1.17%,19573,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4060,,5.11%,19553,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4070 Laptop GPU,,1.07%,19573,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4060,,4.66%,19553,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX A4000,,,19496,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 2080 SUPER,"Compute: 10.1376 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.38%,19466,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 2080 SUPER,"Compute: 10.1376 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.35%,19466,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 Quadro GV100,,,19456,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 USB Mobile Monitor Virtual Display,,,19302,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 3080 Ti Laptop GPU,,,19153,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
@@ -104,42 +104,42 @@ AMD Radeon RX 6700,,,18915,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 OrayIddDriver Device,,,18852,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA TITAN Xp,,,18776,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 TITAN Xp COLLECTORS EDITION,,,18731,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 2080,"Compute: 8.92032 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.35%,18699,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 6750 GRE 10GB,,0.18%,18631,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1080 Ti,"Compute: 10.60864 SP TFLOPs, VRAM: 11.0 GB GDDR5X",0.43%,18604,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 2080,"Compute: 8.92032 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.32%,18699,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 6750 GRE 10GB,,0.16%,18631,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1080 Ti,"Compute: 10.60864 SP TFLOPs, VRAM: 11.0 GB GDDR5X",0.39%,18604,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 Parsec Virtual Display Adapter,,,18573,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 2070 SUPER,"Compute: 8.2176 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.98%,18168,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 2070 SUPER,"Compute: 8.2176 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.89%,18168,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 Quadro RTX 6000,,,18102,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon 8060S,,,17769,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3070 Ti Laptop GPU,,0.30%,17673,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3070 Ti Laptop GPU,,0.27%,17673,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA A10G,,,17660,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro W5700X,,,17591,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 5060 Laptop GPU,,0.72%,17579,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4060 Laptop GPU,,4.86%,17443,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 5060 Laptop GPU,,0.66%,17579,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4060 Laptop GPU,,4.43%,17443,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro W6900X,,,17413,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 7650 GRE,,,17250,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 7600 XT,,0.29%,17198,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 6650 XT,,0.33%,17180,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 7600 XT,,0.26%,17198,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 6650 XT,,0.30%,17180,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 2000 Ada Generation,,,17158,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6650M XT,,,17071,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX A5500 Laptop GPU,,,17049,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6850M XT,,,17047,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 EIZO Quadro MED-XN92,,,17036,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 TITAN V CEO Edition,,,16988,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3060,"Compute: 9.46176 SP TFLOPs, VRAM: 12.0 GB GDDR6",5.07%,16969,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3060,"Compute: 9.46176 SP TFLOPs, VRAM: 12.0 GB GDDR6",4.62%,16969,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 2000 Blackwell Generation Laptop GPU,,,16968,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 5050,,,16909,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 3060 12GB,,,16793,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 7600,,,16619,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX A4500 Laptop GPU,,,16585,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 5700 XT 50th Anniversary,,,16538,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 2060 SUPER,"Compute: 6.39744 SP TFLOPs, VRAM: 8.0 GB GDDR6",1.00%,16469,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 6600 XT,"Compute: 8.060928 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.39%,16446,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 2060 SUPER,"Compute: 6.39744 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.91%,16469,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 6600 XT,"Compute: 8.060928 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.36%,16446,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon PRO W7600,,,16413,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon VII,,,16315,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 3080 Laptop GPU,,,16271,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 5700 XT,"Compute: 8.2176 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.66%,16230,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 2070,"Compute: 6.49728 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.70%,16086,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 5700 XT,"Compute: 8.2176 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.60%,16230,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 2070,"Compute: 6.49728 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.64%,16086,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 3000 Ada Generation Laptop GPU,,,15969,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX A5000 Laptop GPU,,,15946,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 2060 12GB,,,15940,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
@@ -150,17 +150,17 @@ AMD Radeon RX 6800S,,,15834,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 7800M,,,15711,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro V620 MxGPU,,,15633,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro Vega II,,,15597,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1080,"Compute: 8.22784 SP TFLOPs, VRAM: 8.0 GB GDDR5X",0.57%,15595,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1080,"Compute: 8.22784 SP TFLOPs, VRAM: 8.0 GB GDDR5X",0.52%,15595,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 Quadro RTX 5000,,,15587,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 Quadro P6000,,,15535,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 2000 Ada Generation Embedded GPU,,,15505,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 7700S,,,15503,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 7600S,,,15465,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon 610M Ryzen 9 8940HX,,,15281,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3070 Laptop GPU,,0.58%,15252,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3070 Laptop GPU,,0.53%,15252,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 3060 8GB,,,15206,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon PRO W6600,,,15092,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 6600,,0.93%,15084,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 6600,,0.85%,15084,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 Quadro RTX 4000,,,15029,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6700S,,,15026,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6650M,,,15018,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
@@ -169,17 +169,17 @@ RTX 2000 Ada Generation Laptop GPU,,,15011,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,
 Quadro RTX 5000 (Mobile),,,14832,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX A4000 Laptop GPU,,,14757,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro W6800X Duo,,,14742,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1070 Ti,"Compute: 7.816448 SP TFLOPs, VRAM: 8.0 GB GDDR5",0.27%,14684,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1070 Ti,"Compute: 7.816448 SP TFLOPs, VRAM: 8.0 GB GDDR5",0.25%,14684,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX 2000E Ada Generation,,,14639,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 RadeonT RX 6850M XT,,,14632,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 7600M XT,,,14625,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 1000 Blackwell Generation Laptop GPU,,,14603,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro W5700,,,14558,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 4050 Laptop GPU,,1.48%,14395,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 4050 Laptop GPU,,1.35%,14395,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 2000 Blackwell,,,14363,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 5700,"Compute: 6.75072 SP TFLOPs, VRAM: 8.0 GB GDDR6",,14304,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 Intel Arc B570,,,14227,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 2060,"Compute: 5.2416 SP TFLOPs, VRAM: 6.0 GB GDDR6",2.44%,14114,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 2060,"Compute: 5.2416 SP TFLOPs, VRAM: 6.0 GB GDDR6",2.22%,14114,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro Vega II Duo,,,14018,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX Vega 64,"Compute: 10.215424 SP TFLOPs, VRAM: 8.0 GB HBM2",,13992,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 CXDisplay Device,,,13988,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
@@ -193,11 +193,11 @@ RTX A2000 12GB,,,13701,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA TITAN X,,,13660,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 2070 Super with Max-Q Design,,,13533,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 2080 Super with Max-Q Design,,,13523,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1070,"Compute: 5.78304 SP TFLOPs, VRAM: 8.0 GB GDDR5",0.88%,13507,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1070,"Compute: 5.78304 SP TFLOPs, VRAM: 8.0 GB GDDR5",0.80%,13507,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6600 LE,,,13490,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 RTX A2000,,,13486,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6700M,,,13457,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 5600 XT,"Compute: 5.20704 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.18%,13454,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 5600 XT,"Compute: 5.20704 SP TFLOPs, VRAM: 8.0 GB GDDR6",0.16%,13454,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 nVidia L20,,,13430,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 RTX 1000 Ada Generation Laptop GPU,,,13430,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 RTX PRO 500 Blackwell Generation Laptop GPU,,,13378,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
@@ -207,7 +207,7 @@ A100-SXM4-40GB,,,13326,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro VII,,,13310,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 Intel Arc A770,,,13288,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6800M,,,13287,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3060 Laptop GPU,,2.47%,13197,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3060 Laptop GPU,,2.25%,13197,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon PRO W7900 Dual Slot,,,13182,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon PRO V710 MxGPU,,,13130,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon PRO W6600X,,,13113,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
@@ -216,11 +216,11 @@ A10G,,,12907,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro Vega 64,,,12891,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 RTX A3000 Laptop GPU,,,12842,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 Quadro RTX 5000 with Max-Q Design,,,12826,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1660 Ti,"Compute: 4.608 SP TFLOPs, VRAM: 6.0 GB GDDR6",1.16%,12802,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1660 Ti,"Compute: 4.608 SP TFLOPs, VRAM: 6.0 GB GDDR6",1.06%,12802,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Vega Frontier Edition,"Compute: 11.321344 SP TFLOPs, VRAM: 16.0 GB HBM2",,12802,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 2080 with Max-Q Design,,,12794,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro WX 8200,,,12755,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1660 SUPER,"Compute: 4.30848 SP TFLOPs, VRAM: 6.0 GB GDDR6",1.87%,12693,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1660 SUPER,"Compute: 4.30848 SP TFLOPs, VRAM: 6.0 GB GDDR6",1.70%,12693,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 Quadro P5000,,,12682,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6600S,,,12678,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce GTX TITAN X,,,12640,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
@@ -237,7 +237,7 @@ Quadro P5200 with Max-Q Design,,,12308,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Y
 AMD Radeon RX 6850M,,,12274,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro V520 MxGPU,,,12258,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro WX 9100,,,12249,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3050 Laptop GPU,,0.49%,12144,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3050 Laptop GPU,,0.45%,12144,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 Quadro RTX 4000 with Max-Q Design,,,12125,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 Intel Arc A580,,,12043,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 Tesla P40,,,12021,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
@@ -251,7 +251,7 @@ Quadro P5200,,,11771,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 5600,,,11740,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 Quadro RTX 4000 (Mobile),,,11716,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 L40-8Q,,,11670,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1660,,0.65%,11643,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1660,,0.59%,11643,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 Quadro P4200 with Max-Q Design,,,11562,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce GTX 1080 with Max-Q Design,,,11515,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 spacedesk Adapter,,,11505,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
@@ -280,11 +280,11 @@ A40-48Q,,,10436,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 7600M,,,10397,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 SuperDisplay Virtual Adapter,,,10390,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 Tesla M40,,,10220,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1650 SUPER,"Compute: 3.9168 SP TFLOPs, VRAM: 4.0 GB GDDR6",0.36%,10187,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3050 6GB Laptop GPU,,0.43%,10165,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1650 SUPER,"Compute: 3.9168 SP TFLOPs, VRAM: 4.0 GB GDDR6",0.33%,10187,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3050 6GB Laptop GPU,,0.39%,10165,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce GTX 1660 Ti (Mobile),,,10133,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 3050 Ti Laptop GPU,,0.80%,10094,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1060,,2.16%,10072,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 3050 Ti Laptop GPU,,0.73%,10094,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1060,,1.97%,10072,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 RTX A1000 6GB Laptop GPU,,,10047,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 GRID P40-2B,,,9842,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce GTX 1070 with Max-Q Design,,,9839,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
@@ -295,8 +295,8 @@ AMD Radeon R9 Fury + Fury X,,,9741,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6550M,,,9733,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 L4,,,9719,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce RTX 2060 with Max-Q Design,,,9694,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 970,"Compute: 3.4944 SP TFLOPs, VRAM: 4.0 GB GDDR5",0.27%,9638,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 6500 XT,,0.21%,9599,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 970,"Compute: 3.4944 SP TFLOPs, VRAM: 4.0 GB GDDR5",0.25%,9638,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 6500 XT,,0.19%,9599,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 RTX A2000 Laptop GPU,,,9592,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX Vega Ryzen 5 5600GT,,,9558,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon R9 Fury,"Compute: 7.168 SP TFLOPs, VRAM: 4.0 GB HBM",,9539,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
@@ -327,7 +327,7 @@ AMD Radeon R9 390,"Compute: 5.12 SP TFLOPs, VRAM: 4.0 GB GDDR5",,8864,Yes,No,Yes
 AMD Radeon RX 5600M,,,8861,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 5500,,,8818,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce GTX TITAN Z,,,8811,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 580,"Compute: 5.792256 SP TFLOPs, VRAM: 8.0 GB GDDR5",0.70%,8802,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 580,"Compute: 5.792256 SP TFLOPs, VRAM: 8.0 GB GDDR5",0.64%,8802,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon R9 295X2,"Compute: 5.333504 SP TFLOPs, VRAM: 8.0 GB GDDR5",,8715,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce GTX 1660 Ti with Max-Q Design,,,8589,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 480,"Compute: 5.16096 SP TFLOPs, VRAM: 8.0 GB GDDR5",,8562,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
@@ -358,25 +358,25 @@ NVIDIA GeForce GTX 780,"Compute: 3.976704 SP TFLOPs, VRAM: 3.0 GB GDDR5",,7961,Y
 AMD Radeon RX 470/570,,,7940,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 Quadro M5500,,,7915,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro 5500 XT,,,7883,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1650,"Compute: 2.66112 SP TFLOPs, VRAM: 4.0 GB GDDR5",3.24%,7872,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1650,"Compute: 2.66112 SP TFLOPs, VRAM: 4.0 GB GDDR5",2.95%,7872,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 L4-8Q,,,7847,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 NVIDIA GeForce GTX 1060 with Max-Q Design,,,7845,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro 580,,,7753,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 T1200 Laptop GPU,,,7751,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 FirePro W9100,,,7748,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce RTX 2050,,0.48%,7734,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce RTX 2050,,0.44%,7734,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro WX 7100,,,7724,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon 880M,,,7714,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6400,,,7700,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 T1000 8GB,,,7667,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 780,,,7658,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-AMD Radeon RX 580 2048SP,,0.64%,7648,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+AMD Radeon RX 580 2048SP,,0.58%,7648,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 T1000,,,7644,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 580X,,,7624,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 5300,,,7597,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro 580X,,,7540,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6500,,,7524,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1650 Ti,,0.48%,7514,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1650 Ti,,0.44%,7514,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 GRID P40-8Q,,,7507,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6500M,,,7486,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 GRID P40-24Q,,,7438,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
@@ -416,7 +416,7 @@ Quadro T1000,,,6473,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 T600,,,6432,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon RX 6300M,,,6421,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro WX 7130,,,6406,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1050 Ti,"Compute: 1.98144 SP TFLOPs, VRAM: 4.0 GB GDDR5",1.60%,6343,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1050 Ti,"Compute: 1.98144 SP TFLOPs, VRAM: 4.0 GB GDDR5",1.46%,6343,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes
 AMD Radeon Pro 570,,,6337,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 Intel Arc 130T GPU,,,6323,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 Intel Arc A380E,,,6290,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
@@ -430,7 +430,7 @@ Quadro K5200,,,6188,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 Ryzen 9 PRO 6950H with Radeon Graphics,,,6176,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 FirePro W9000,,,6157,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 AMD Radeon R9 380X,"Compute: 3.97312 SP TFLOPs, VRAM: 4.0 GB GDDR5",,6141,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 960,"Compute: 2.308096 SP TFLOPs, VRAM: 2.0 GB GDDR5",0.24%,6123,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 960,"Compute: 2.308096 SP TFLOPs, VRAM: 2.0 GB GDDR5",0.22%,6123,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 Quadro M4000M,,,6122,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 Ryzen 9 6900HS with Radeon Graphics,,,6110,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 AMD Radeon R9 280X,"Compute: 3.4816 SP TFLOPs, VRAM: 3.0 GB GDDR5",,6104,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
@@ -520,7 +520,7 @@ AMD Radeon Ryzen 7 PRO 6850U,,,5058,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 AMD Radeon Ryzen 7 PRO 6850HS,,,5057,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 EIZO MED-XN44,,,5049,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 VNC Mirror Driver,,,5043,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 1050,"Compute: 1.73312 SP TFLOPs, VRAM: 2.0 GB GDDR5",0.76%,5029,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 1050,"Compute: 1.73312 SP TFLOPs, VRAM: 2.0 GB GDDR5",0.69%,5029,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 Ryzen 7 6800U,,,5006,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 AMD Radeon Ryzen Z2 Go,,,5000,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
 Intel Arc A310 LP,,,4987,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
@@ -627,7 +627,7 @@ NVIDIA GeForce GTX 1050 with Max-Q Design,,,3973,Yes,No,Yes,Yes,No,No,No,No,No,Y
 GRID RTX8000-4Q,,,3961,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
 NVIDIA GeForce GTX 570,,,3932,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
 GRID P6-2Q,,,3926,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
-NVIDIA GeForce GTX 750 Ti,"Compute: 1.3056 SP TFLOPs, VRAM: 2.0 GB GDDR5",0.24%,3901,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
+NVIDIA GeForce GTX 750 Ti,"Compute: 1.3056 SP TFLOPs, VRAM: 2.0 GB GDDR5",0.22%,3901,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon HD 7850,"Compute: 1.76128 SP TFLOPs, VRAM: 2.0 GB GDDR5",,3891,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon Ryzen 7 Pro 7735U,,,3891,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
 GRID M60-8Q,,,3884,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
@@ -813,7 +813,7 @@ Ryzen 7 Pro 4750G with Radeon Graphics,,,2682,Yes,No,No,No,No,No,No,No,No,Yes,Ye
 AMD Radeon Ryzen 5 PRO 6650H,,,2679,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 DisplayLink USB Device Ryzen 7 Pro 7735U,,,2678,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 Ryzen 7 5700GE with Radeon Graphics,,,2678,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
-AMD Radeon RX 550,"Compute: 1.408 SP TFLOPs, VRAM: 2.0 GB GDDR5",0.25%,2675,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
+AMD Radeon RX 550,"Compute: 1.408 SP TFLOPs, VRAM: 2.0 GB GDDR5",0.23%,2675,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 NVIDIA GeForce GTX 465,,,2654,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 FirePro R5000,,,2647,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon 660M Ryzen 5 7533HS,,,2641,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
@@ -862,7 +862,7 @@ MirrorOp Virtual Adaptor Ryzen 5 Pro 7535U,,,2430,Yes,No,No,No,No,No,No,No,No,Ye
 Ryzen 7 PRO 5750GE with Radeon Graphics,,,2430,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 Meta Virtual Monitor Ryzen 5 5500U,,,2423,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon Ryzen 7 5825U,,,2416,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
-NVIDIA GeForce GT 1030,,0.29%,2415,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
+NVIDIA GeForce GT 1030,,0.26%,2415,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon Ryzen 5 PRO 5655G,,,2415,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon Ryzen 5 5600GT,,,2414,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon Eng Sample: 100-000000252-50_Y,,,2411,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
@@ -1302,7 +1302,7 @@ NVIDIA GeForce GT 745A,,,1238,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon HD 7660D + 6670 Dual,,,1238,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon HD 7560D + HD 6570 Dual,,,1237,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon R7 + R5 340 Dual,,,1235,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
-Intel UHD Graphics 630,,0.32%,1232,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
+Intel UHD Graphics 630,,0.29%,1232,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 FirePro 3D V5800,,,1232,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 FirePro V5900,,,1232,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon R7 + R7 250 Dual,,,1232,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
@@ -1397,7 +1397,7 @@ AMD Radeon HD 8750M,,,1046,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon 535,,,1045,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon R7 + R7 240 Dual,,,1045,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon Vega 3 Athlon 300GE,,,1044,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
-Intel UHD Graphics 620,,0.49%,1042,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
+Intel UHD Graphics 620,,0.45%,1042,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon HD 8570D + 6670 Dual,,,1040,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon 530,,,1033,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon HD 8570D + HD 8570 Dual,,,1033,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
@@ -1477,7 +1477,7 @@ NVIDIA GeForce GT 640M,,,927,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 Intel Iris Pro 6100,,,925,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon R7 PRO A12-8870,,,925,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon R7 PRO A10-8770,,,922,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
-Intel HD Graphics 620,,0.24%,920,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
+Intel HD Graphics 620,,0.22%,920,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon Vega 3 Athlon Gold PRO 3150GE,,,920,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon R7 240 + HD 8570D Dual,,,918,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
 AMD Radeon R7 PRO A10-9700E,,,916,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes
@@ -1515,7 +1515,7 @@ AMD Radeon R7 G,,,870,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
 AMD Radeon HD 8570D + HD 6570 Dual,,,868,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
 Mobility Radeon HD 4850,,,866,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
 AMD Radeon HD 8470D + HD 6450 Dual,,,863,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
-Intel HD Graphics 520,,0.24%,861,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
+Intel HD Graphics 520,,0.22%,861,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
 AMD Radeon HD 4830,,,861,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
 AMD Radeon R5 M435,,,859,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
 AMD Radeon Vega 3 Ryzen Embedded R1606G,,,857,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
@@ -1548,7 +1548,7 @@ GRID M60-0Q,,,827,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
 AMD Radeon Vega 3 Athlon Silver 3050U,,,827,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
 Quadro FX 3800,,,825,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
 AMD Radeon R7 M365X,,,825,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
-NVIDIA GeForce GT 730,,0.19%,824,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
+NVIDIA GeForce GT 730,,0.17%,824,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
 AMD Radeon HD 7640G N HD 7640G + HD 7600M N HD 7600M D,,,824,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes
 Intel UHD Graphics 617,,,822,Yes,No,No,No,No,No,No,No,No,Yes,No,No
 AMD Radeon HD 3850 X2,,,822,Yes,No,No,No,No,No,No,No,No,Yes,No,No
@@ -1749,7 +1749,7 @@ AMD Radeon HD 7610M,,,632,Yes,No,No,No,No,No,No,No,No,Yes,No,No
 Intel HD Graphics P4600/P4700,,,631,Yes,No,No,No,No,No,No,No,No,Yes,No,No
 AMD Radeon HD 7640G + HD 7700M N HD 7700M Dual,,,631,Yes,No,No,No,No,No,No,No,No,Yes,No,No
 AMD Radeon HD 7660G + 7470M Dual,,,631,Yes,No,No,No,No,No,No,No,No,Yes,No,No
-Intel HD Graphics 4600,,0.21%,630,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+Intel HD Graphics 4600,,0.19%,630,Yes,No,No,No,No,No,No,No,No,Yes,No,No
 AMD Radeon HD 8510G + HD 8500M Dual,,,630,Yes,No,No,No,No,No,No,No,No,Yes,No,No
 AMD Radeon R7 PRO A10-9700B,,,629,Yes,No,No,No,No,No,No,No,No,Yes,No,No
 GRID K160Q,,,628,Yes,No,No,No,No,No,No,No,No,Yes,No,No
@@ -2118,7 +2118,7 @@ AMD Radeon HD 8370D,,,316,Yes,No,No,No,No,No,No,No,No,No,No,No
 AMD Radeon HD 7520G,,,315,Yes,No,No,No,No,No,No,No,No,No,No,No
 AMD Radeon R5E,,,315,Yes,No,No,No,No,No,No,No,No,No,No,No
 AMD Radeon R3,,,313,Yes,No,No,No,No,No,No,No,No,No,No,No
-Intel UHD Graphics 600,,0.16%,312,Yes,No,No,No,No,No,No,No,No,No,No,No
+Intel UHD Graphics 600,,0.15%,312,Yes,No,No,No,No,No,No,No,No,No,No,No
 NVIDIA GeForce 9700M GTS,,,312,Yes,No,No,No,No,No,No,No,No,No,No,No
 AMD Radeon HD 7500G,,,311,Yes,No,No,No,No,No,No,No,No,No,No,No
 AMD Radeon HD 7520G + 8600/8700M Dual,,,311,Yes,No,No,No,No,No,No,No,No,No,No,No
@@ -2910,19 +2910,20 @@ Rage 128 Pro,,,1,No,No,No,No,No,No,No,No,No,No,No,No
 RAGE 128 PRO AGP 4X TMDS,,,1,No,No,No,No,No,No,No,No,No,No,No,No
 S3 ProSavageDDR,,,1,No,No,No,No,No,No,No,No,No,No,No,No
 VIA Chrome9 HC3 IGP WDDM 1.1,,,1,No,No,No,No,No,No,No,No,No,No,No,No
-AMD AMD Custom GPU 0405,,0.43%,,No,No,No,No,No,No,No,No,No,No,No,No
-AMD Radeon (TM) Graphics,,0.33%,,No,No,No,No,No,No,No,No,No,No,No,No
-AMD Radeon 780M Graphics,,0.31%,,No,No,No,No,No,No,No,No,No,No,No,No
-AMD Radeon Graphics,,2.07%,,No,No,No,No,No,No,No,No,No,No,No,No
-AMD Radeon Graphics (RADV VANGOGH),,0.36%,,No,No,No,No,No,No,No,No,No,No,No,No
-AMD Radeon RX 570,"Compute: 4.784128 SP TFLOPs, VRAM: 4.0 GB GDDR5",0.45%,,No,No,No,No,No,No,No,No,No,No,No,No
-AMD Radeon Vega 3 Graphics,,0.23%,,No,No,No,No,No,No,No,No,No,No,No,No
-AMD Radeon Vega 8 Graphics,,0.39%,,No,No,No,No,No,No,No,No,No,No,No,No
-AMD Radeon(TM) Graphics,,2.22%,,No,No,No,No,No,No,No,No,No,No,No,No
-Intel Iris Xe Graphics,,1.93%,,No,No,No,No,No,No,No,No,No,No,No,No
-Intel(R) Arc(TM) Graphics,,0.27%,,No,No,No,No,No,No,No,No,No,No,No,No
-Intel(R) Graphics,,0.19%,,No,No,No,No,No,No,No,No,No,No,No,No
-Intel(R) UHD Graphics,,1.77%,,No,No,No,No,No,No,No,No,No,No,No,No
-NVIDIA GeForce RTX 3050,,3.19%,,No,No,No,No,No,No,No,No,No,No,No,No
-NVIDIA GeForce RTX 5060 Ti,,0.78%,,No,No,No,No,No,No,No,No,No,No,No,No
-NVIDIA Graphics Device,,0.70%,,No,No,No,No,No,No,No,No,No,No,No,No
+AMD AMD Custom GPU 0405,,0.39%,,No,No,No,No,No,No,No,No,No,No,No,No
+AMD Radeon (TM) Graphics,,0.30%,,No,No,No,No,No,No,No,No,No,No,No,No
+AMD Radeon 780M Graphics,,0.28%,,No,No,No,No,No,No,No,No,No,No,No,No
+AMD Radeon Graphics,,1.89%,,No,No,No,No,No,No,No,No,No,No,No,No
+AMD Radeon Graphics (RADV VANGOGH),,0.33%,,No,No,No,No,No,No,No,No,No,No,No,No
+AMD Radeon RX 570,"Compute: 4.784128 SP TFLOPs, VRAM: 4.0 GB GDDR5",0.41%,,No,No,No,No,No,No,No,No,No,No,No,No
+AMD Radeon Vega 3 Graphics,,0.21%,,No,No,No,No,No,No,No,No,No,No,No,No
+AMD Radeon Vega 8 Graphics,,0.36%,,No,No,No,No,No,No,No,No,No,No,No,No
+AMD Radeon(TM) Graphics,,2.02%,,No,No,No,No,No,No,No,No,No,No,No,No
+Intel Iris Xe Graphics,,1.76%,,No,No,No,No,No,No,No,No,No,No,No,No
+Intel(R) Arc(TM) Graphics,,0.25%,,No,No,No,No,No,No,No,No,No,No,No,No
+Intel(R) Graphics,,0.17%,,No,No,No,No,No,No,No,No,No,No,No,No
+Intel(R) UHD Graphics,,1.61%,,No,No,No,No,No,No,No,No,No,No,No,No
+NVIDIA GeForce RTX 3050,,2.91%,,No,No,No,No,No,No,No,No,No,No,No,No
+NVIDIA GeForce RTX 5060 Ti,,0.71%,,No,No,No,No,No,No,No,No,No,No,No,No
+NVIDIA Graphics Device,,0.64%,,No,No,No,No,No,No,No,No,No,No,No,No
+Other,,8.85%,,No,No,No,No,No,No,No,No,No,No,No,No

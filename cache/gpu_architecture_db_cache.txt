@@ -96,2822 +96,2823 @@ Cards:
   RX Vega 64: RX Vega 64, 64 CUs, 4096 ALUs, 10.215424 SP TFLOPs, base 1247000000 Hz / turbo 1546000000 Hz, 2048 bits, mem 945000000.0 Hz, 8589934592 bytes, HBM2 type, released on 2017-08-14, vendor AMD, ASIC Vega 10
   Vega Frontier Edition: Vega Frontier Edition, 64 CUs, 4096 ALUs, 11.321344 SP TFLOPs, base 1382000000 Hz / turbo 1600000000 Hz, 2048 bits, mem 945000000.0 Hz, 17179869184 bytes, HBM2 type, released on 2017-06-28, vendor AMD, ASIC Vega 10
 Unknowns:
-  HD 7660G + HD 8670M Dual
-  FireGL V7350
-  HD 7660G + HD 7500M/7600M Dual
-  920MX
-  HD 6320
-  Vega 3 Athlon 300GE
-  Go 6800
-  Ryzen 5 PRO 7445 6-Core
-  HD 2400
-  FireGL V7600
-  FirePro S9050
-  GT 620
-  GTX 950A
-  Matrox G200eR WDDM 2.0
-  SAPPHIRE RADEON 9000 ATLANTIS PRO
-  RTX A4500 Laptop GPU
-  RADEON 9600 Family
-  RTX 3060 12GB
-  Matrox Parhelia APVe
-  Barco MXRT 7600
-  Eng Sample: 100-000000098-40_39/27_Y
-  ALL-IN-WONDER X800 GT
-  GeForce2 Integrated GPU
-  RX Vega 11
-  Ryzen 3 PRO 5475U
-  RTX 5080 Laptop GPU
-  R7 340
-  nForce 750a SLI
-  Ryzen 3 PRO 5450U with Radeon Graphics
-  RX 9060 XT 16GB
-  A40-3Q
-  Quadro K6000
-  HD 8670D + 6670 Dual
-  R7 A10 PRO-7850B
-  Quadro P2000
-  GT 330M
-  Snapdragon X Elite - X1E001DE - Qualcomm Adreno GP
-  HD 6770
-  HD 8570D
-  HD 7310
-  RX Vega 8
-  HD 7660G N HD 7660G + HD 7670M Dual
-  Mobility Radeon HD 2300
-  305M
-  Ryzen 5 Microsoft Surface Edition
-  Ryzen 5 5600GT
-  Intel HD Graphics 620
-  R9 370
-  Intel Iris Plus 640
-  HD 6300M
-  GT 740
-  GTX 850M - MODDED
-  P102-100
-  HD 7660D + 7540D Dual
-  HD 7660D + R5 235 Dual
-  R7 M370
-  HD 7640G N HD 7640G + HD 8570M Dual
-  HD 7730M
-  9100
-  HD 7600G + HD Dual
-  Intel - Express Chipset Q45/Q43
-  TM R9 A360
-  610M Ryzen 9 7940HX
-  Snapdragon X Elite - X1E80100 - Qualcomm Adreno GP
-  GRID T4-16Q
-  FirePro W5100
-  Matrox LUMA A310F
-  9600M GT / GeForce GT 220M
-  Matrox Millennium P690 PCIe x16
-  Vega 8 Ryzen 3 PRO 3200GE w/
-  Ryzen 7 7800X3D 8-Core
-  FirePro M4000
-  7950 GX2
-  8400M G
-  FirePro 3D V8750
-  R7 FX-8800P
-  RTX 4090 D
-  Intel UHD Graphics 730
-  GT 520
-  Ryzen 3 PRO 4300U with Radeon Graphics
-  535DX
-  HD 8450G + HD 8600M Dual
-  Quadro 5010M
-  G200
-  GT 525M
-  FireGL V8600
-  GRID V100D-2Q
-  Ryzen 7 7730U with Radeon Graphics
-  Vega 11 Ryzen 5 PRO 3400G
-  HD 8510G
-  FirePro 2260
-  Ryzen 5 PRO 5675U with Radeon Graphics
-  Ryzen 9 4900HS with Radeon Graphics
-  GTX 280
-  Quadro FX 4700 X2
-  Red Hat QXL controller
-  RTX A4500 Embedded GPU
-  PCI\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C2 Ryzen
-  FireGL V5100
-  GT 550M
-  X1800 GTO
-  RX 6650 XT
-  Intel Infoshock HD
-  Mobility Radeon HD 5000
-  6100 nForce 430
-  Vega 8 Ryzen 5 3550H
-  HD 8650G + HD 8570M Dual
-  FireGL T2-128
-  HD 7520G + 7400M Dual
-  Go 7950 GTX
-  HD 4550
-  HD 7600M + 7600M Dual
-  Quadro4 900 XGL
-  GeForce4 MX 4000
-  Ryzen 7 PRO 7730U with Radeon Graphics
-  RTX 3050 8GB
-  RTX PRO 6000 Blackwell Max-Q Workstation Edition
-  IncrediblE HD
-  FireGL X1
-  RadeonT 680M Ryzen 7 7735HS
-  GRID M60-1B
-  RADEON IGP 345M
-  RTX 5000 Ada Generation
-  Intel UHD 770#0x1c005d839205d7e9#
-  Ryzen 7 4700U
-  FX 5900
-  Mobile Intel 915GM/GMS/910GML Express
-  GTS 360M
-  R5 A6-8500P
-  NVIDIA A10G
-  R7 PRO A10-9700E
-  Ryzen 5 7535U with Radeon Graphics
-  R9 350
-  FireStream 9250
-  GRID P4-4Q
-  Quadro4 380 XGL
-  Pro WX 3100
-  Matrox Millennium P690 Plus LP PCIe x16
-  FireGL V3300
-  HD 7600G
-  HD 8450G + 8670M Dual
-  8500 GT
-  9300 SE
-  RTX 4000 Ada Generation
-  Qualcomm Adreno 685 GPU
-  Intel UHD Graphics 617
-  Ryzen 7 PRO 6850H with Radeon Graphics
-  Pro WX Vega M GL
-  GT 720M
-  Intel Arc
-  GRID P4-1Q
-  HD 8210
-  6600
-  RADEON X800 SE
-  GTX 760 Ti OEM
-  GRID M60-8Q
-  Ryzen 3 5300U
-  RADEON X850 PRO
-  Quadro K4100M
-  HD 7640G + 7400M Dual
-  HD 3470
-  FireMV 2250
-  R9 M470X
-  Quadro FX 350
-  R7 PRO A12-8870E
-  Quadro NVS 135M
-  RTX 3060 8GB
-  GeForce4 Ti 4800
-  HD 7520G N HD 7520G + HD 7500/7600 7500/760
-  MX550
-  GRID M10-1Q
-  X1600 Pro
-  GT 630M
-  FirePro 3D V5800
-  GRID M60-2Q
-  Mobility Radeon HD 5165
-  Ryzen 5 PRO 6650H
-  Intel HD Graphics 500
-  HD 4350
-  GeForce4 440
-  RX 6500
-  HD 7670M
-  R5 PRO A6-9500 2C+6G
-  Mobility Radeon HD 4850
-  Quadro FX 1800
-  R7 A10 Extreme Edition
-  HD 7520G + 7470M Dual
-  MEDION RADEON X740XL
-  Vega 10 Ryzen 7 PRO 3700U w/
-  HD 7660G + 7700M Dual
-  GRID P40-8Q
-  830M
-  Mobility Radeon HD 550v
-  R8 M445DX
-  R7 A10-7870K
-  GT 820M
-  NVIDIA A40-8Q
-  GT 220M
-  Graphics (RADV VANGOGH)
-  RTX 5070 Ti
-  R5 PRO A6-8570 2C+6G
-  Quadro NVS 280 SD
-  HD 3650 AGP
-  FirePro RG220
-  GT 710M
-  Vega 8 Ryzen 5 3500C
-  FX Go5650
-  R5 PRO A6-8500B 2C+4G
-  GRID P4-2Q
-  Quadro P3200 with Max-Q Design
-  R7 A8-7500
-  HD 7290M
-  SAPPHIRE Radeon X1550
-  R5 A10-9630P 4C+6G
-  Vega 8 Ryzen 3 3200G
-  Ryzen 7 5825U with Radeon Graphics
-  X1300 PRO
-  Tesla K80
-  GTX 970XM FORCE
-  RTX 3050 4GB Laptop GPU
-  GTX 275
-  R7 +8G
-  Matrox M9120 PCIe x16
-  HD 7660D + HD 7700 Dual
-  Ryzen 7 7700 8-Core
-  FirePro V8700
-  HD 8280
-  RTX 5880 Ada Generation
-  RX 580X
-  Mobility Radeon HD 4270
-  Ryzen 7 4850U Mobile
-  R9 M265X
-  Intel Iris Plus
-  EIZO Quadro MED-XN92
-  HD 5550
-  Quadro P4200 with Max-Q Design
-  HD 8670D + R7 240 Dual
-  Quadro FX 3600M
-  7050 / nForce 630i
-  Eng Sample: 100-000000082-40_40/17_Y
-  Quadro FX 560
-  Quadro M2000
-  HD 8650G + 8670M Dual
-  Ryzen 3 5300GE with Radeon Graphics
-  RADEON HD6370D
-  Intel Arc Pro B50
-  MOBILITY FireGL V5200
-  HD 7520G + HD 8600/8700M Dual
-  GTX 550 Ti
-  RTX 5000 Ada Generation Laptop GPU
-  HD 7640G + HD 7500/7600 Dual
-  RTX 2070 (Mobile)
-  Quadro P600
-  Ryzen 5 PRO 4500U with Radeon Graphics
-  FirePro S10000
-  Quadro FX 1500M
-  GTX 960A
-  GT 335M
-  A10-12Q
-  Quadro GV100
-  R7 PRO A8-9600
-  GRID RTX8000P-4Q
-  FX 5600 Ultra
-  RADEON 9000 Family
-  GTX 570M
-  IncrediblE HD 4000
-  R5 A10-9620P 4C+6G
-  630
-  Intel HD Graphics 4000
-  ALL-IN-WONDER RADEON 8500DV
-  GTX 880M
-  Quadro 2000 D
-  RTX A500 Laptop GPU
-  7300 LE
-  GT 640M LE
-  X1600 Pro / X1300XT
-  FX Go5700
-  HD 6430M
-  HD 8280G
-  Ryzen 7 Pro 4750G with Radeon Graphics
-  Quadro FX 5600
-  GRID RTX8000P-2Q
-  L4-2A
-  GeForce4 440 Go 64M
-  RTX 2060 with Max-Q Design
-  Tesla M6
-  GTX 295
-  HD 7660D + 6670 Dual
-  MOBILITY RADEON 9200
-  Intel 82845G/GL/GE/PE/GV Controller
-  Quadro FX 4800
-  Xpress 1270
-  RAGE 128 PRO AGP 4X TMDS
-  RadeonT RX 6850M XT
-  Eng Sample: 100-000000544-40_Y
-  HD 3200
-  Tesla M2070-Q
-  Vega 8
-  GT 320M
-  A100-SXM4-40GB
-  9800 GT 1024MB
-  GRID P40-6Q
-  HD 8470D + HD 6450 Dual
-  Meta Virtual Monitor Ryzen 5 7600X 6-Core
-  Eng Sample: 100-000000561-40_Y
-  MOBILITY RADEON 9600
-  Ryzen 5 7600X3D 6-Core
-  Eng Sample: 100-000000149-40_40/30_Y
-  Firepro W4190M
-  GRID K180Q
-  Quadro FX 380 LP
-  HD 8570D + HD 8470 Dual
-  HD 4670
-  Intel(R) Arc(TM) Graphics
-  Ryzen 5 PRO 5650GE
-  Intel UHD Graphics 600
-  RADEON X700 PRO
-  FirePro M5950
-  R9 M385X
-  R5 PRO A6-8500B R5, 6 Compute Cores 2C+4G
-  HD 8600/8700M
-  HD 8670D + 7000 Dual
-  Mobility Radeon X1350
-  GRID P4-8A
-  B8DKMDAP
-  GTX TITAN Black
-  RTX 4050 Laptop GPU
-  HD 8650G + HD 8790M Dual
-  Mobility Radeon HD 540v
-  Intel Iris 540
-  HD 8850M
-  A6 Micro-6500T Quad-Core APU with RadeonR4
-  (TM) Graphics
-  HD 4250
-  Intel Media Accelerator HD
-  RX 560X
-  Mobile Intel 4 Express-Chipsatzfamilie
-  VIA/S3G DeltaChrome IGP
-  FirePro M6100
-  FirePro V5700
-  Tesla K20Xm
-  RTX 5070 Laptop GPU
-  HD 7660G N HD 7660G + HD 7700M N HD 7700M D
-  HD 7520G + HD 8750M Dual
-  HD 8550G + HD 7600M Dual
-  GT 650M
-  RTX 4000 SFF Ada Generation
-  EPYC 4564P 16-Core
-  GRID P100-16Q
-  FX 5700VE
-  FX 5700
-  Ryzen 9 PRO 6950HS with Radeon Graphics
-  HD 7650A
-  Intel HD Graphics P4600/P4700
-  Intel Arc A750
-  NVIDIA A10-4Q
-  R5 A10-9600P RADEON R5, 10 COMPUTE CORES 4C
-  HD 7670
-  R7 + R7 200 Dual
-  USB Mobile Monitor Virtual Display
-  Pro 5700 XT
-  Pro Vega 20
-  RadeonT 660M
-  RADEON XPRESS 200M
-  PHDGD Solo 2 x64
-  Ryzen 7 5800HS Creator Edition
-  FX Go 5200
-  HD 7660D
-  Vega 8 Mobile
-  Ryzen 7 PRO 4750U with Radeon Graphics
-  8800M GTS
-  RX 6400
-  HD 3850 X2
-  RTX 3070 Ti Laptop GPU
-  Pro Vega 48
-  Ryzen 7 5800H
-  HD 7660G + HD 7600M N HD 7600M Dual
-  RadeonT 680M Ryzen 7 6800H
-  RTX 3080 12GB
-  Quadro K5200
-  Ryzen 7 5700U with Radeon Graphics
-  HD 4200
-  Intel UHD Graphics 620
-  Pro 570
-  HDG 4670
-  R7 PRO A10-8750B
-  FirePro V3800
-  Intel HD Graphics P4000
-  Barco MXRT 5600
-  Pro 5500 XT
-  HD 7640G + 7610M Dual
-  RTX 5000 Ada Generation Embedded GPU
-  RADEON 9100 Family
-  TITAN V CEO Edition
-  Intel HD Graphics 4600 manual-gen9_2015-134121
-  HD 7540D + 7500 Dual
-  GT 625
-  7000M
-  Intel 865 Embedded Controller
-  Ryzen 7 7735U
-  Vega 3 Ryzen 3 3200U
-  HD 6970M
-  A16-1Q
-  R7 PRO A10-8770
-  R9 M470
-  OPAL XT/GL
-  HD 6670/7670
-  Eng Sample: 100-000000146-20_37/30_Y
-  GT 425M
-  S3 Chrome 430 ULP
-  Go 6100
-  Ryzen 7 4800U with Radeon Graphics
-  HD 7520G + HD 7670M Dual
-  Quadro FX 1000
-  S3 ProSavageDDR
-  Quadro M500M
-  930A
-  FX 5900 Ultra
-  Pro 465
-  GTX 680M
-  HD 5570
-  Mobility Radeon HD 3470 Hybrid X2
-  Pro WX 2100
-  GT 415M
-  FirePro V7800
-  9800 GTX+
-  HD 8550G + HD 8570M Dual
-  Ryzen 7 4700G
-  Mobility Radeon HD 530v
-  Pro Vega 64X
-  GT 730A
-  T1000
-  Parsec Virtual Display Adapter Ryzen 5 3400G
-  RX 6700S
-  Go 7900 GTX
-  GTX 1650 (Mobile)
-  R5 M315
-  FireGL V7700
-  Mobility Radeon HD 545v
-  HD 5770
-  A10G
-  Ryzen 5 5600U with Radeon Graphics
-  RX 6600
-  RTX 3500 Ada Generation Embedded GPU
-  HD 7480D
-  Intel 2nd Generation SandyBridge HD 3000
-  Quadro K2200M
-  8050S
-  Ryzen 7 5700G with Radeon Graphics
-  X1200
-  HD 8730M
-  RTX 2080 (Mobile)
-  Xpress 1200
-  E8870PCIe
-  Ryzen 9 4900H with Radeon Graphics
-  RX 5700 XT 50th Anniversary
-  RADEON 9800 XT
-  EPYC 4244P 6-Core
-  RTX PRO 3000 Blackwell Generation Laptop GPU
-  G 103M
-  Pro W5500X
-  Ryzen 7 4700GE
-  RX 6700M
-  Ryzen 5 PRO 4400G with Radeon Graphics
-  RX Vega 6
-  Quadro FX 550
-  GRID K160Q
-  Ryzen 3 7335U with Radeon Graphics
-  L4-4Q
-  MX250
-  Mobility Radeon HD 3850
-  GTX 980M
-  Ryzen 7 4800HS with Radeon Graphics
-  FirePro W7100
-  Ryzen 3 PRO 5450U
-  Quadro FX 3800M
-  FireStream 9170
-  NVIDIA TITAN Xp
-  Ryzen 7 7735U with Radeon Graphics
-  RX 6850M XT
-  GRID T4-2Q
-  945M
-  Intel 946GZ Express
-  Quadro FX 360M
-  GTX 570
-  GT 520MX
-  HD 7640G + 8570M Dual
-  PRO W7600
-  RX 7700S
-  RX 7900 XTX
-  FirePro W8000
-  Mobility Radeon HD 3410
-  EPYC 4584PX 16-Core
-  Snapdragon X Elite - X1E84100 - Qualcomm Adreno GP
-  VisionTek Radeon 7000
-  RX Vega 11 PRD
-  Tesla T10
-  GT 130
-  Pro 5300
-  Ryzen 7 6800U
-  R7 M380
-  Mobility Radeon HD 3870 X2
-  HD 7660G + 7470M Dual
-  RTX 5070
-  NVIDIA A40
-  HD 7640G + HD 8570M Dual
-  MOBILITY RADEON 9700
-  Quadro FX 570
-  Quadro K4200
-  R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G
-  Ryzen 7 PRO 7745 8-Core
-  FirePro V7900
-  Quadro FX 3500
-  GRID M60-8A
-  T550 Laptop GPU
-  7100 / nForce 620i
-  Ryzen 3 PRO 4450U with Radeon Graphics
-  GT 710
-  6100
-  RTXA6000-8Q
-  R9 M375X
-  RTX 1000 Ada Generation Laptop GPU
-  Ryzen 3 PRO 7330U with Radeon Graphics
-  R7 A10-7700K
-  Intel G35 Express
-  R7 A10-8750
-  Pro 560X
   RADEON A9800XT
-  Quadro K5100M
-  HD 7600G + 7450M Dual
-  HD 7660D + R7 240 Dual
-  810A
-  X1270
-  6600 GT
-  MOBILITY RADEON X700
-  HD 4850
-  HD 6900M
-  R9 A375
-  FirePro 3D V4800
-  S3 SuperSavage/IXC 1014
-  GRID K280Q
-  Mobility Radeon HD 5650
-  T500
-  R5 A10-9600P 4C+6G
-  Quadro FX 1700
-  GRID M6-8Q
-  HD 7640G + HD 7670M Dual
-  RTX 3070 Laptop GPU
-  R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G
-  9400M
-  GTS 250
-  GRID P4-4A
-  Intel G45/G43/G41 Express Chipset
-  P106-090
-  HD 7660D + HD 6670 Dual
-  Ryzen 7 6800HS with Radeon Graphics
-  Ryzen 7 PRO 5750G with Radeon Graphics
-  Ryzen 7 PRO 5875U with Radeon Graphics
-  Intel Extreme Controller
-  Quadro4 980 XGL
-  EPYC 4364P 8-Core
-  9600M GT
-  Mobility Radeon HD 4300 Serisi
-  FX 5200SE
-  VIA/S3G UniChromeII
-  RTX 4000 Ada Generation Laptop GPU
-  Intel Iris 550
-  R7 A10-7890K
-  RTX A2000
-  X1600 XT
-  MOBILITY FireGL V5000
-  Intel UHD Graphics 770
-  GTX 650
-  HD 6410D
-  IncrediblE HD 4600
-  MOBILITY RADEON X600 SE
-  GRID P40-4Q
-  HD 7800-serie
-  HD 8670D + R7 200 Dual
-  HD 8350
-  HD 4830
-  Pro W5500
-  R9 255
-  Mobility Radeon HD 5450
-  GeForce4 MX 440 with AGP8X
-  RTX 2050
-  RX Vega 11 Ryzen 5 3350GE
-  Quadro FX 3000
-  HD 5470
-  HD 4850 X2
-  RX 470/570
-  Vega 3 Athlon Gold 3150G
-  Quadro 5000
-  Ryzen 9 5900HX with Radeon Graphics
-  VIA/S3G KM400/KN400
-  Quadro NVS 110M
-  730A
-  VNC Mirror Driver
-  Mobility Radeon X1900
-  RX 550X
-  FirePro 3D V8700
-  RADEON IGP 320
-  HD 6370M
-  Quadro 410
-  GTX 460
-  R5 330
-  T400 4GB
-  HD 8650G + 7700M Dual
-  DisplayLink USB Device Ryzen 7 Pro 7735U
-  MX570 A
-  R5 PRO A6-8530B 2C+4G
-  7000M / nForce 610M
-  RadeonT Vega 8
-  R6 A10-9600P 4C+6G
-  L40S-12Q
-  Mobility Radeon HD 4870
-  HD 6570
-  Intel HD Graphics 5300
-  HD 8790M / R9 M290X
-  Quadro FX Go1400
-  Quadro M2000M
-  Mobility Radeon HD 4670
-  HD 8470D + 6450 Dual
-  E6460
-  Ryzen 5 5600U
-  MOBILITY RADEON 7000 IGP
-  R5 M240
-  Go 7800 GTX
-  9400 GT
-  R5 PRO A8-9600B 4C+6G
-  Mobility Radeon HD 560v
-  X1900 CrossFire Edition
-  Winsta0\\Default
-  GT 645
-  HD 7520G + HD 7400M Dual
-  L40S-8Q
-  HD 7640G + 7690M Dual
-  6800 GS
-  RTX A5000
-  HD 7310G
-  6800 XE
-  GTX 645
-  Quadro FX 350M
-  Quadro FX 4500 X2
-  RTXA5000-8Q
-  Vega 3 Athlon Silver 3050e
-  320M
-  RADEON X600 PRO
-  FX 5600
-  HD 8570D + 6670 Dual
-  7200 GS
-  HD 7640G + 8500M Dual
-  Mobility Radeon HD 5470
-  GRID P40-24Q
-  HD 8570D + HD 7700 Dual
-  GTX 560
-  HD 2400 PCI
-  HD 7520G + HD 7500/7600 Dual
-  GTX 750
-  210
-  HD 7640G + HD 8670M Dual
-  NVS 510
-  Ryzen 5 7600X 6-Core
-  GTX 590
-  R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G
-  RTX 4070 Laptop GPU
-  R6 PRO A10-8700B 4C+6G
-  Ryzen 3 7330U
-  740M
-  Intel Arc Pro
-  R7 PRO A6-9500 2C+6G
-  945A
-  Ryzen 7 PRO 6850H
-  RADEON 9500
-  8400
-  Quadro P6000
-  GRID K240Q
-  PCX 5900
-  Vega 9 Ryzen 5 3550H
-  HD 8670D + HD 7600 Dual
-  MX230
-  HD 7560D + R5 235 Dual
-  Vega 6 Ryzen 3 3350U
-  RTX 3060 Laptop GPU
-  Intel Arc A310 LP
-  N16P-GX
-  Mobile Intel 945GM Express
-  HD 7620G
-  8800 GS
-  HD 7640G + 8600/8700M Dual
-  Vega 11 Ryzen 5 PRO 3400GE w/
-  7150 / nForce 630i
-  RX Vega 6 Ryzen 3 3200U
-  GT 740A
-  GTX 775M
-  HD 8570D + R7 240 Dual
-  GeForce3 Ti 500
-  R7 A12-9730P RADEON
-  MX570
-  GRID P40-2B
-  RX 780
-  GTX 460 v2
-  Ryzen 5 Pro 7535U
-  FirePro W7000 Adapter
-  TITAN V
-  GT 610
-  RTX PRO 4000 Blackwell Generation Laptop GPU
-  Intel Arc 130T GPU
-  NVS 3100M
-  HD 7660G
-  HD 5600/5700
-  9300M G
-  SQExtFramebufferUmode Device
-  R9 260
-  GRID M60-1Q
-  R5 240
-  535
-  RX Vega11
-  VIA Chrome9 HC IGP Family WDDM
-  310M
-  Intel Iris Xe MAX 100
-  ION LE
-  NVS 4200M
-  HD 2600 Pro AGP
-  RDPDD Chained DD
-  HD 8550G + 8570M Dual
-  GRID M6-0B
-  Pro 450
-  Ryzen 7 6800H with Radeon Graphics
-  MirrorOp Virtual Adaptor Ryzen 5 Pro 7535U
-  RX 7700 XT
-  FirePro M7740
-  Red Hat VirtIO GPU DOD controller
-  Ryzen 5 PRO 5655GE
-  FireGL V5200
-  Intel Arc A770
-  GT 435M
-  GT 320
-  Quadro 1100M
-  FirePro W2100
-  Ryzen 5 5625U with Radeon Graphics
-  HD 7560D + 6570 Dual
-  HD 7640G + HD 7700M N HD 7700M Dual
-  RADEON 8500 Family
-  GeForce2 Go
-  7900 GTX
-  RadeonT Ryzen 3 3250U
-  Vega 6
-  XiaoMi 9 Adreno 640 GPU
-  R7 250X
-  Go 6600
-  RTX A1000 Laptop GPU
-  FX 5200LE
-  Ryzen 9 PRO 6950H with Radeon Graphics
-  RTX 500 Ada Generation Laptop GPU
-  R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G
-  HD 7570
-  R7 PRO A12-8830B
-  HD 8470D + HD 6670 Dual
-  R5 A6-7480
-  Intel Q35 Express
-  HD 8970M
-  L4-1B
-  RX 6850M
-  M860G with Mobility Radeon 4100
-  WinFast A250 LE
-  GeForce2 MX 100/200
-  FirePro S7000
-  9300 GS
-  MX110
-  7050 PV / nForce 630a
-  Pro WX 4170
-  TITAN Xp COLLECTORS EDITION
-  Intel HD Graphics 5600
-  Ryzen 7 PRO 5755G
-  Ryzen 3 5425U with Radeon Graphics
-  Ryzen 5 PRO 5650U with Radeon Graphics
-  RX 7500
-  9600 GT
-  NVS 300
-  Go 7200
-  Mobility Radeon X2300 HD
-  HD 8450G + HD 8670M Dual
-  RADEON 9550
-  HD 7550M/7650M
-  L4-2B
-  RTX 2060 (Mobile)
-  TRINITY DEVASTATOR MOBILE
-  620
-  HD 7640G + 7600M Dual
-  HD 7560D + 6670 Dual
-  FireGL V3400
-  HD 4650 AGP
-  Ryzen 3 PRO 5475U with Radeon Graphics
-  GTX 870M
-  GTX 1080 with Max-Q Design
-  Matrox G200eh WDDM 1.2
-  NVIDIA GeForce3 Ti200
-  Quadro K5000
-  Vega 10
-  Intel 82945G Express-Chipsatzfamilie
-  Ryzen 5 PRO 5650GE with Radeon Graphics
+  Ryzen 7 6800U
+  X1600 Pro / X1300XT
+  HD 8570 + 8670D Dual
+  Ryzen 5 PRO 4400G
+  T600
   Ryzen 3 PRO 4355GE
-  R7 7850A10-7850K
-  RTX 3050 Laptop GPU
-  Intel(R) UHD Graphics
-  HD 7660D + HD 7000 Dual
-  RTX 3050 6GB
-  Intel Iris Pro 5200
-  Quadro RTX 3000
-  Matrox LUMA A380P
-  MxGPU
-  FirePro V8800
-  HD 7500G + 7550M Dual
-  Pro W5500M
-  Quadro 7000
-  Ryzen 5 PRO 6650U
-  RTX 2080 with Max-Q Design
-  GRID P6-4A
-  GRID RTX6000-4Q
-  R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G
-  GRID P4-8Q
-  7300 GT
-  Ryzen 3 PRO 5350G with Radeon Graphics
-  RTX 4060
-  HD 2400 Pro
-  GTX 1060 with Max-Q Design
-  Intel 2nd Generation SandyBridge HD
-  ALL-IN-WONDER 9000
-  S3 Chrome S25 DDR2
-  HD 7450
-  A16-4Q
-  Qualcomm Adreno X1-85 GPU
-  M535DX
-  RX 7900 XT
-  L40S-24Q
-  Quadro 4000M
-  MOBILITY/RADEON 9000
-  R7 M350
-  MOBILITY FIREGL T2/T2e
-  Intel 946GZ Embedded Chipset
-  RX 9070
-  Eng Sample: 100-000000252-50_Y
-  HD 8550G + 7600M Dual
-  A40-4Q
-  HD 8550G
-  Pro W6900X
-  Eng Sample: 100-000000285-30_Y
-  RTX 3080 Ti Laptop GPU
-  GRID RTX8000-4Q
-  NVIDIA Graphics Device
-  Qualcomm Adreno 8cx Gen 3
-  R5 310
-  HD 4270
-  Ryzen 7 6810U
-  L4-8Q
-  HD 7570M
-  RTX PRO 6000 Blackwell Server Edition
-  HD 7640G + R5 M200 Dual
-  HD 8870M
-  Xpress 1250
-  HD 8330E
-  HD 8650G + 8600/8700M Dual
-  All-in-Wonder X1800XL
-  Ryzen 5 7535HS
-  6200 TurboCache
-  HD 7560D + HD 6570 Dual
-  HD 3670
-  HD 7520G + 8600/8700M Dual
-  HD 7450A
-  Intel HD Graphics 615
-  GTX 760A
-  RX Vega 11 Processor
-  Intel Arc 140V GPU
-  Eng Sample: 100-000000536-40_Y
-  R7 A370
-  GF117
-  NV44
-  Mobile Intel 965 Express
-  HD 8450G + 8600/8700M Dual
-  zxcvIntel HD 620
-  RADEON E2400
-  GRID T4-4Q
-  GTX 1650 with Max-Q Design
-  GeForce4 Ti 4600
-  Intel Iris Pro P580
-  GeForce4 Ti 4200
-  Ryzen 5 4600GE with Radeon Graphics
-  Quadro FX 3700M
-  Eng Sample: 100-000000144-40_38/38_Y
-  Intel UHD Graphics P750
-  7800 GS
-  HD 7660G + HD 8600M Dual
-  HD 6290M
-  Barco MXRT 7100
-  Tesla M40 24GB
-  RX Vega 11 Ryzen 5 3350G
-  Quadro FX 4600
-  A16-8Q
-  HD 7700-serie
-  9800M GTS
-  R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G
-  HD 8570D + 6570 Dual
-  RX 7600M
-  HD 8450G + HD 8750M Dual
-  Intel UHD Graphics
-  9800M GS
-  Intel UHD Graphics P630
-  FireMV 2400 PCIe
-  HD 6800M
-  Intel Q45/Q43 Express-Chipsatz
-  R7 M460
-  Ryzen Embedded V2718
-  Vega 3 Athlon Silver 3050U
-  VE
-  RX 6800M
-  R7 + R7 350 Dual
-  ALL-IN-WONDER 9800
-  Ryzen 5 PRO 5650G with Radeon Graphics
-  9600M GS
-  HD 7600G N HD 7600G + HD ON HD Dual
-  Intel Arc 140T GPU
-  Quadro K2000D
-  HD 8550G N HD 8550G + HD 8600M N HD 8600M D
-  Quadro FX 500/FX 600
-  HD 8550G + HD 8600/8700M Dual
-  Matrox M9148 LP PCIe x16
-  T1000 8GB
-  RTX 5060 Ti 8GB
-  RadeonT RX Vega 11
-  RX Vega 10 Ryzen 7 3750H
-  HD 7560D + 7560D Dual
-  M880G with Mobility Radeon HD 4250
-  820A
-  HD 2900 GT
-  X1950 CrossFire Edition
-  Pro SSG
-  FirePro V5800
-  Matrox LUMA A310FP
-  TENSOR 1.0 Driver Intel HD 630
-  Quadro T1000 with Max-Q Design
-  Athlon Silver 3050U
-  R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G
-  Quadro RTX 5000 (Mobile)
-  Mobility Radeon HD 4225
-  HD 7520G + 8750M Dual
-  7900 GS
-  ZX C-1080
-  L4-1Q
-  Vega 8 Mobile Ryzen 5 3500U
-  Intel Haswell HD - GT2
-  R9 M370X
-  RTX 2000 Ada Generation
-  FireMV 2260
-  RTX 5060 Ti 16GB
-  VIA/S3G Chrome 645/640 GPU
-  HD 8350G
-  T400
-  Eng Sample: 100-000000560-40_Y
-  A10-24Q
-  HD 7620G + HD 8600M Dual
-  Graphics
-  Mobility Radeon 4100
-  Quadro M4000
-  Mobility Radeon HD 5850
-  R9 M275X / M375
-  HD 8870M / R9 M270X / M370X
-  EIZO Quadro MED-XN72
-  FirePro W600
-  FirePro V4900
-  FirePro V5900
-  G210
-  HD 7620G N HD 7620G + HD 8600M N HD 8600M D
-  Intel Iris 650
-  Quadro K610M
-  GTX 460 SE
-  HD 8450G
-  Quadro P1000
-  GTS 350M
-  540
-  8100 / nForce 720a
-  9300GE
-  Ryzen 7 PRO 4750GE with Radeon Graphics
-  HD 7670A
-  Ryzen Embedded V2516
-  Pro Vega II
-  HD 3450
-  L40-8Q
-  RTX A4000
-  Ryzen 5 7430U
-  GTX 1050 (Mobile)
-  680M Ryzen 7 7735HS
-  Ryzen 7 6800HS
-  Microsoft Basic Display Adapter Ryzen 5 5600G
-  FireGL V3200
-  HD 7690M XT
-  HD 8650G + 8570M Dual
-  FirePro 3D V7750
-  7650 GS
-  RX 9060 XT 8GB
-  HD 7600G + HD 7400M Dual
-  9200M GE
-  Intel HD Graphics 530
-  HD 8670D + HD 7000 Dual
-  RADEON XPRESS 200 CROSSFIRE
-  R7 + R7 250 Dual
-  VIA Chrome9 HC IGP Family
-  Mobility Radeon HD 4350
-  Ryzen 7 2700U with Radeon Vega
-  R8 M535DX
-  HD 4300/4500 Serisi
-  PRO Ryzen 5 PRO 6650U
-  GTX 860M
-  R9 M275X
-  Ryzen 5 PRO 5650G
-  GTX 660M
-  RX 6750 GRE 12GB
-  HD 6610M
-  RADEON 9600SE
-  G210M
-  R7 PRO A12-8800B
-  L2
-  FX 5700 Ultra
-  660M Ryzen 3 7335U
-  Quadro FX 370 Low Profile
-  HD 7500G + HD 7500M/7600M Dual
-  Intel Arc Pro 130T GPU
-  HD 6310
-  Ryzen 5 Pro 7535U with Radeon Graphics
-  GT 720A
-  GRID RTX8000P-1B
-  PHDGD Sapphire GR for Mobile Intel 965
-  Quadro FX 4500
-  FireGL V3350
-  Quadro K2100M
-  R6 PRO A8-8600B 4C+6G
-  RTX 4090 Laptop GPU
-  610M Ryzen 9 7945HX3D
-  Snapdragon X Elite - X1E78100 - Qualcomm Adreno GP
-  HD4650
-  OrayIddDriver Device
-  Quadro FX 4000
-  FirePro S9000
-  HD 5850
-  GTS 150M
-  Ryzen 7 4800H
-  GTX 760
-  MirrorOp Virtual Adaptor Ryzen 7 PRO 5850U
-  GTX 670MX
-  HD 7640G + R5 M230 Dual
-  RTX 2000 Ada Generation Laptop GPU
-  RADEON X700
-  Quadro NVS 285
-  Ryzen 5 PRO 4650GE with Radeon Graphics
-  GeForce4 MX 420
-  Intel UHD Graphics 630
-  Ryzen 5 6600U
-  HD 7500G + 7500M/7600M Dual
-  HD 7660G + HD 7670M Dual
-  FireGL V3600
-  Ryzen 7 Pro 7735U with Radeon Graphics
-  Ryzen 7 PRO 4750GE
-  Mobility Radeon HD 4570
-  HD 7560D + HD 7670 Dual
-  GTX 260M
-  HD 6700M
-  Quadro P520
-  Intel HD Graphics P3000
-  Ryzen 7 Pro 7735U
-  HD 8610G + HD 8670M Dual
-  Quadro NVS 285 128MB
-  HD 7670M + 7670M Dual
-  HD 8990
-  PRO W6800
-  Ryzen 7 5800H with Radeon Graphics
-  GRID M10-0B
-  HD 8650G N HD 8650G + HD 8570M Dual
-  TRINITY SCRAPPER MOBILE
-  R9 M280X
-  ASUS V9520-X V62.11
-  EPYC 4484PX 12-Core
-  HD 7560D + 6450 Dual
-  HD 7560D
-  RGH Drivers v3
-  HD 7520G + 7600M Dual
-  X1550 64-bit
-  Intel Iris 5100
-  HD 8450G + 8750M Dual
-  VIA/S3 Chrome 520 IGP
-  CXDisplay Device
-  Ryzen 5 6600HS Creator Edition
-  Matrox C420 LP PCIe x16
-  R9 M375
-  HD 7870 XT
-  Intel G965 Express
-  Mobile Intel 965 Express-Chipsatzfamilie
-  HD 7660G + HD 7700M Dual
-  Intel HD Graphics 4400
-  9500M G
-  GRID P40-1Q
-  6100 nForce 405
-  S3 Chrome S27 DDR3
-  R7 A8-7A8-7600
-  NVS 5100M
-  Intel G41 Express Chipset
-  Parsec Virtual Display Adapter Ryzen 5 5600H
-  GT 120
-  GRID M60-0Q
-  Pro V520 MxGPU
-  RX Vega 11 Ryzen 5 3400G
-  HD 7600G + 8500M/8700M Dual
-  GTX 1070 (Mobile)
-  HD 7640G + HD 7400M Dual
-  PRO W6600M
-  GRID P4-2B
-  R7 A10-7800
-  RX 9070 XT
-  Pro V620 MxGPU
-  FX Go5300
-  RX 640
-  RADEON X800 GTO
-  RTX A5500 Laptop GPU
-  HD 7950 / R9 280
-  8060S
-  R5 M435
-  HD 3850
-  6150SE
-  HD 7340M
-  Mobility Radeon HD 5730
-  GTX 850M
-  Dell 8100
-  HD 7640G + HD 7700M Dual
-  Master X3100 Driver
-  Intel UHD Graphics 615
-  LuminonCore IDDCX Adapter
-  GRID P4-1B
-  Quadro 2000
-  GTX TITAN X
-  Go 7800
-  HD 7770
-  Mobile Intel 45 Express
-  GRID K1
-  R5 PRO A10-8730B 4C+6G
-  R5 M335
-  8200
-  Ryzen 5 5625U
-  Qualcomm Adreno X1-45 GPU
-  RX 5600 OEM
-  HD 7600G + 6400M Dual
-  Seria Mobility Radeon HD 3400
-  MX450
-  Tesla V100-SXM2-16GB
-  Go 6400
-  Quadro P5200
-  9650M GS
-  R7E
-  Ryzen 5 5600H
-  HD 8670D + HD 7700 Dual
-  Mobility Radeon HD 4550
-  X1650 SE
-  HD 8650G + HD 8670M Dual
-  A40-48Q
-  A10-4Q
-  X1950 GT
-  AMD Radeon(TM) Graphics
-  nVidia L40
-  GeForce4 MX 440
-  GT 555M
-  EIZO MED-X5000
-  HD 8330
-  R9 270 / R7 370
-  Diamond X1300-PCIE 256MB
-  RTX 2080 Super with Max-Q Design
-  RX 7600 XT
-  GRID K220Q
-  Pro Vega 16
-  680M Ryzen 9 6900HX
-  Pro W6800X Duo
-  Ryzen 7 9800X3D 8-Core Processor
-  820M
-  Ryzen 5 PRO 6650U with Radeon Graphics
-  Quadro FX 5800
-  GTX 770M
-  GeForce4 448 Go
-  Ryzen 7 PRO 5850U with Radeon Graphics
-  GRID V100-8Q
-  HD 7640G + 8750M Dual
-  GT 740M
-  BASICDISPLAY
-  HD 6250
-  RTX A4000 Laptop GPU
-  9300 / nForce 730i
-  PRO W6400
-  Pro 5500M
-  Ryzen 5 7535H w/
-  GRID V100-2Q
-  Ryzen 7 PRO 6850HS
-  HD 7660G + 8600M Dual
-  R7 + R5 435 Dual A10-9700 RADEON
-  RX 6800S
-  Mobility Radeon HD 5430
-  A16-1B
-  HD 7580D
-  HD8970M
-  PRO Ryzen 7 PRO 6850U
-  Vega 8 Ryzen 3 3200GE
-  550X
-  HD 7340G
-  GTX 765M
-  Ryzen 5 6600H with Radeon Graphics
-  A40-6Q
-  GRID K520
-  7500 LE
-  Vega 3 Ryzen Embedded R1606G
-  Ryzen 9 7900 12-Core
-  HD 7640G + HD 7600M N HD 7600M Dual
-  HD 4890
-  Quadro K5000M
-  GRID M10-8Q
-  705M
-  R3
-  HD 7620G + 8600M Dual
-  GTX 260
-  Intel UHD Graphics 605
-  HD 8690M
-  RTX 5050
-  GT 240M
-  L4
-  MOBILITY RADEON 9550
-  RX Vega Ryzen 5 5600GT
-  GeForce9400M
-  8800 GT
-  HD 8550G + HD 8500M Dual
-  RADEON 9200
-  RTX A2000 Laptop GPU
-  L40S
-  Tesla C2050
-  R7 M445
-  Intel Iris Xe Graphics
-  HD 8650G + HD 7670M Dual
-  Intel HD Graphics manual-gen9_2015-133271
-  8700M GT
-  RIVA TNT2 Model 64/Model 64 Pro
-  Quadro NVS 440
-  Intel G41 Express-Chipsatz
-  FirePro W5000
-  HD 6670
-  8800 GTX
-  GeForce2 MX with DVI-D and TV-out
-  Mobility Radeon X1700
-  GTX 670M
-  R5E
-  Vega 8 Ryzen 3 PRO 3200G
-  RX Vega M GL
-  Vega 3 Athlon PRO 300GE w/
-  HD 4650
-  HD 8510G + HD 8500M Dual
-  Intel 1st Generation Intel HD
-  RTX 5050 Laptop GPU
-  Mobility Radeon. HD 5470
-  HD 8570D + HD 7000 Dual
-  Quadro K510M
-  HD 6950
-  Matrox G200eR
-  Quadro P3000
-  GTS 250M
-  Quadro 4000
-  Quadro P2200
-  Quadro2 Pro
-  MOBILITY RADEON 7500
-  RTX A1000
-  Intel HD Graphics 5000
-  MOBILITY FireGL V5250
-  Ryzen 5 PRO 4655G
-  RTX 3050 Ti
-  8600M GT
-  RX 580 2048SP
-  HD 6550D
-  Quadro K1000M
-  RX 7800 XT
-  Quadro FX 570M
-  HD 7520G + 7610M Dual
-  Vega 3 Athlon 3000G
-  HD 8850M / R9 M265X
-  Ryzen 7 PRO 5875U
-  Ryzen 9 4900H
-  HD 6520G
-  RX 7600
-  7800 GTX
-  Mobility Radeon X2500
-  SudoMaker Virtual Display Adapter
-  6150 LE
-  Citrix Indirect Display Adapter
-  R7 M340
-  Mobile Intel - famiglia Express Chipset 45
-  R4E
-  SiliconMotion SM768 WDDM2.0 Display Driver
-  Quadro P4200
+  HD 6450 + 8470D Dual
+  GTS 360M
+  RX 6500M
+  HD 8550G + 8670M Dual
+  Mobility Radeon HD 2300
   X1050
-  Quadro FX 3400/4400
-  9550 / X1050
-  Quadro K2000
-  Quadro 280 NVS PCIe
-  EIZO MED-XN44
-  Mobility Radeon X1300
-  SAPPHIRE RADEON 9600 ATLANTIS
-  HD 8690A
-  M880G with Mobility Radeon HD 4200
-  CARRIZO 9874
-  7350 LE
-  HD 6320M
-  MOBILITY RADEON XPRESS 200
-  Quadro FX 1300
-  Ryzen 3 PRO 7335U
-  HD 7520G + HD 7700M Dual
-  890M
-  IncrediblE HD 3000
-  Ryzen 5 3550H
-  RTX 4080 Laptop GPU
-  HD 7640G + 8670M Dual
+  Intel UHD Graphics 615
+  Quadro FX 1400
+  605
+  HD 7560D + HD 6570 Dual
+  GT 230
+  Tesla M2070-Q
+  7150M / nForce 630M
+  FireGL V7300
+  GTX 660 Ti
+  7950 GX2
+  Pro Vega II Duo
+  RX Vega 10 Ryzen 5 3500U
+  Quadro FX 370 Low Profile
+  Quadro T1000 with Max-Q Design
+  HD 8670D
+  RX 7600
+  FirePro S7000
+  GT 630M
+  RX 7900M
+  Ryzen 7 4700GE with Radeon Graphics
   R7 FX-9800P RADEON
-  GTX 690
-  Pro 460
-  Ryzen 5 5600H with Radeon Graphics
+  HD 6490M
+  A10-8Q
+  9200
+  HD 7610M
+  FirePro 3D V8800
+  HD 4550
+  Intel UHD Graphics 620
+  LuminonCore IDDCX Adapter
+  MOBILITY RADEON X700
+  9700M GTS
+  HD 8450G + 8600M Dual
+  Intel HD Graphics 530
+  GTX 555
+  Seria Radeon HD 7700
+  R7 PRO A8-8650B
+  HD 7560D + HD 7600 Dual
+  R7 340
+  R5 PRO A6-8570 2C+6G
+  Ryzen 5 5560U with Radeon Graphics
+  FireGL V8650
+  Ryzen 9 4950U Mobile
+  Pro W5500
+  Intel Iris Xe MAX 100
+  @oem27.inf,%winmv2%;mv video hook driver2
+  RADEON 9200
+  X1600
+  NVS 4200M
+  A10-4Q
+  HD 8670D + 7000 Dual
+  Ryzen 7 PRO 7745 8-Core
+  ZX C-1190
+  Intel Coffee Lake UHD
+  RTX 4070 Super
+  7900 GS
+  240M GT
+  HD 7600M + 7600M Dual
+  HD 7800-serie
+  RTX 3080 12GB
+  VNC Mirror Driver
+  Parsec Virtual Display Adapter Ryzen 5 5600H
+  RTX PRO 6000 Blackwell Workstation Edition
+  8600M GT
+  GRID P40-2Q
+  Quadro K1100M
+  HD 5770
+  9300 / nForce 730i
+  NVS 3100M
+  HD 8650G + HD 8600M N HD 8600M Dual
+  ZX C-960
+  VMware Horizon Indirect Display Driver
+  R7 250X
+  HD 8450G
+  VisionTek Radeon 7000
+  6150SE nForce 430
+  RADEON X800 PRO/GTO
+  HD 6530D
+  RX 6700
+  8400
+  Mobile Intel 45 Express-Chipsatzfamilie
+  RX 9060 XT 16GB
+  Intel Extreme Controller
+  Matrox C900 PCIe x16
+  Pro 5300M
+  Quadro FX 1800
+  Quadro FX 350
+  Mobility Radeon HD 5430
+  Quadro K2000
+  HD 7660G N HD 7660G + HD 7670M Dual
+  A16
+  E6760
+  MOBILITY RADEON 7000 IGP
+  Intel Q35 Embedded
+  NVIDIA A40-8Q
+  RX Vega 11 PRD
+  R9 M470
+  HD 7640G + 7600M Dual
+  Ryzen 5 Pro 7535U with Radeon Graphics
+  RX Vega M GH
+  RTX A500 Embedded GPU
+  CONNECT 3D RADEON X300
+  Parsec Virtual Display Adapter
+  R9 M275X / M375
+  Quadro FX 3500
+  HD 7600G + 7500M/7600M Dual
+  GTX 650 Ti
+  R5 235X
+  Ryzen 7 Pro 7735U
+  GeForce4 MX 420
+  Tesla T10
+  HD 5570
+  9300 SE
+  HD 8470D + HD 6670 Dual
+  NVS 5200M
+  EIZO MED-XN43
+  A10-12Q
+  800A
+  GT 710M
+  Vega 8 Graphics
+  HD 3450
+  Quadro FX 4600
+  Ryzen 5 5600U with Radeon Graphics
+  GT 620M
+  R9 M275X
+  PHDGD Ivy 5
+  MX450
+  RX 7700S
+  Quadro 410
+  GRID RTX8000P-2Q
+  FX 5900
+  GT 625M
+  GTX 1650 Ti with Max-Q Design
+  HD 7520G + 8750M Dual
+  GeForce2 GTS/GeForce2 Pro
+  PRO W6400
+  GRID RTX6000-1Q
+  Quadro NVS 280 SD
+  Intel B43 Express Chipset
+  9100
+  spacedesk Adapter
+  9800 GT
+  RTX 5090 Laptop GPU
+  R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G
+  EIZO MED-XN44
+  8400 GS
+  Intel Arc Pro 130T GPU
+  HD 8670D + 7700 Dual
+  Quadro RTX 8000
+  RX 6400
+  GRID RTX8000P-4Q
+  HD 7550M
+  Ryzen 5 PRO 5650G
+  Graphics (RADV VANGOGH)
+  GTX 460 v2
+  RX 6500
+  HD 4870
+  Quadro RTX 4000 with Max-Q Design
+  HD 7640G + 7670M Dual
+  Mobility Radeon HD 3400 Serisi
+  Barco MXRT 1450
+  Ryzen 5 5500U
+  Intel Iris Plus 640
+  Ryzen 7 5700GE with Radeon Graphics
+  RX 6600
+  Quadro 2000M
+  Intel UHD Graphics 730
+  Intel Iris Xe Graphics
+  MX550
+  RTX PRO 5000 Blackwell Generation Laptop GPU
+  R6 M255DX
+  RADEON HD6410D
+  PHDGD Solo 1.2.0 x86
+  GRID M60-0B
+  680M Ryzen 7 Pro 7735U
+  HD 6620G
+  Mobility Radeon HD 2600 XT
+  550
+  FirePro M5100 FireGL V
+  PCI\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C6 Ryzen
+  Ryzen 5 PRO 6650H with Radeon Graphics
+  9800M GTX
+  GT 705
+  Pro
+  FirePro V4900
+  9500 GS
+  Matrox G200eh
+  Ryzen 7 7700X 8-Core
+  GeForce2 Ti
+  GTX 280M
+  HD 6380G
+  R6 PRO A8-8600B 4C+6G
+  RTX 5070 Ti Laptop GPU
+  HD 7640G + 6400M Dual
+  RX 6850M
+  with 3 5300U Ryzen 3 5300U
+  GTX 760
+  930M
+  Tesla K20Xm
+  HD 6970M
+  Ryzen 9 4900HS with Radeon Graphics
+  Vega 8 Mobile Ryzen 5 3500U
+  SUMO 9640
+  Ryzen 7 7700 8-Core
+  R9 M395
+  HD 8650G N HD 8650G + HD 8600/8700M Dual
+  7000 / Radeon VE
+  Go 7200
+  CARRIZO 9874
+  Quadro 2000D
+  550X
+  HD 6770M
+  GT 435M
+  Vega 3 Ryzen 3 3200U
+  HD 8650G + HD 8600M Dual
+  FirePro W4100
+  Quadro NVS 210S
+  RTX PRO 4500 Blackwell
+  GT 220
+  All-in-Wonder X1800XL
+  FireGL V5600
+  Ryzen 7 5800HS
+  RADEON X600 PRO
+  HD 6650A
+  R7 Opteron X3421
+  Ryzen 5 PRO 5675U
+  HD 8610G + 8670M Dual
+  HD 6670/7670
+  R7 PRO A10-9700B
+  HD 7600G + 8500M/8700M Dual
+  RX 7900 XT
+  HD 8650G + HD 7670M Dual
+  HD 7660G + HD 7700M Dual
+  Ryzen 5 4400G
+  R6 Opteron X3418
+  FirePro 3D V7800
+  Qualcomm Adreno 8cx Gen 3
+  920A
+  HD 8570D + HD 6570 Dual
+  7900 MOD - Radeon HD 6520G
+  8300
+  Matrox C420 LP PCIe x16
+  Eng Sample: 100-000000536-40_Y
+  Ryzen 7 PRO 6850H
+  HD 8370D
+  Pro V620 MxGPU
+  8600M GS
+  R2
+  Quadro FX 2700M
+  HD 2600 XT
+  HD 7620G N HD 7620G + HD 8600M N HD 8600M D
+  RADEON 9000
+  Mobility Radeon HD 560v
+  MOBILITY FireGL V5250
+  HD 6630M
+  6610 XL
+  X1900 GT
+  Vega 3 Mobile
+  Beijing Fantasy Technology Fantasy II-M
+  HD 7640G + HD 7670M Dual
+  EAH5450
+  RX Vega 10 Ryzen 7 PRO 3700U w/
+  9800 S
+  RX 5600 OEM
+  HD 7670M + 7670M Dual
+  Intel Arc 140V GPU
+  GT 240M
+  Quadro P5000
+  Ryzen 5 7535HS
+  740M
+  7100 / nForce 630i
+  Quadro P1000
+  HD 7670M
+  Go 6600
+  Vega 2 Athlon Silver 3050U
+  Ryzen 5 4500U with Radeon Graphics
+  HD 8570
+  Mobile Intel 965 Express - BR-0907-0461 v1839
+  FirePro 3D V3800
+  HD 7730
+  R5 PRO A6-9500 2C+6G
+  HD 7520G
+  800M
+  RX Vega 11 Processor
+  GeForce3 Ti 500
+  Vega 11 Ryzen 5 PRO 3400GE w/
+  R5 A10-9600P RADEON R5, 10 COMPUTE CORES 4C
+  FirePro W2100
+  Ryzen 5 PRO 4655G
+  GeForce3 Ti 200
+  8600 GT
+  8200M G
+  FireGL V7100
+  MOBILITY RADEON 9100 IGP
+  Quadro K5100M
+  Quadro 7000
+  HD 3300
+  RADEON 9600 PRO
+  GTX 760M
+  Mobility Radeon HD 4830
+  GTX 295
+  Mobility Radeon HD 4670
+  Pro WX 8200
+  Intel Iris Plus 645
+  7900 GT/GTO
+  MX150
+  7500 LE
+  GTX 880M
+  GRID P4-4Q
+  Ryzen 7 Pro 7735U with Radeon Graphics
+  Pro W6800X Duo
+  RTX PRO 6000 Blackwell Max-Q Workstation Edition
+  6150 LE
+  Quadro4 900 XGL
+  Mobility Radeon HD 2400 XT
+  Quadro M5500
+  820M
+  Quadro NVS 295
+  930A
+  HD 8450G + 8670M Dual
+  R7 +8G
+  R9 M360
+  X1950 Pro
+  Intel Iris Xe
+  Ryzen 7 PRO 4750U with Radeon Graphics
+  L4-4Q
+  HD 8550G + HD 8570M Dual
+  Vega 10 Ryzen 7 PRO 3700U w/
+  HD 7640G + 7470M Dual
+  940A
+  RTX PRO 4000 Blackwell
+  Mobile Intel 965 Express-Chipsatzfamilie
+  Quadro K6000
+  HD 7640G + 7500M/7600M Dual
+  530
+  HD 8570 + HD 7660D Dual
+  GTX 650 Ti BOOST
+  RadeonT 660M
+  MOBILITY RADEON 9200
+  Xpress 1100
+  HD 7650M
+  Intel UHD Graphics 610
+  Pro WX 3200
+  Ryzen 5 6600U with Radeon Graphics
+  FirePro M4000 Mobility Pro
+  HD 8990
+  Quadro P3200
+  Xpress 1250
+  HD 7600G
+  Ryzen 3 3200U
+  HD 4850 X2
+  Ryzen 7 5800U
+  R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G
+  G200
+  RX 7600S
+  VIA Chrome9 HC IGP
+  8400M G
+  Quadro FX 1600M
+  Ryzen 7 4800HS
+  RX 6550M
+  9800 GTX/9800 GTX+
+  HD 7660G + 7730M Dual
+  GT 530
+  FirePro W5100
+  RX 5600
+  Pro Vega 64
+  Pro 580
+  Intel HD Graphics P4600
+  TITAN RTX
+  Quadro FX 3000
+  GTX 645
+  Mobility Radeon HD 4350
+  Quadro M5000M
+  GTX 285
+  7300 LE
+  760M
+  USB Mobile Monitor Virtual Display
+  HD 8650G
+  PRO W6600
+  HD 8670D + HD 7000 Dual
+  XGI Volari Family v1.13.23.D_V
+  HD 8670D + HD 7600 Dual
+  PRO W7900
+  RX Vega 6
+  Intel UHD Graphics 710
+  HD 8550G N HD 8550G + HD 8600M N HD 8600M D
+  Intel G33/G31 Express
+  FirePro W4170M
+  RX Vega 10 Ryzen 7 3700C
+  CMP 40HX
+  HD 6670 + 6670 Dual
+  Quadro P4200 with Max-Q Design
+  R7 450
+  RX 6600 LE
+  HD 7470
+  Quadro NVS 510M
+  Ryzen 5 PRO 7645 6-Core
+  M860G with Mobility Radeon 4100
+  Ryzen 9 PRO 6950HS
+  HD 7660D + 7470 Dual
+  HD 8650G + 8750M Dual
+  R5 PRO A6-8530B R5, 6 COMPUTE CORES 2C+4G
+  RTX PRO 2000 Blackwell Generation Laptop GPU
+  610M Ryzen 9 8940HX
+  NVIDIA Graphics Device
+  Ryzen 5 5600GE
+  Intel Iris Pro P6300
+  Virtual Display Device
+  256
+  Intel Arc A310
+  Pro 450
+  Matrox M9138 LP PCIe x16
+  X1650 SE
+  RX Vega Ryzen 7 5825U
+  AMIGAMERLIN 3.1-R1 For Voodoo 4 4500 PCI
+  R5 A240
+  RTX A1000
+  A40-4Q
+  HD 2400 Pro
+  HD 6480M
+  Quadro K420
+  FireMV 2250
+  9100M G
+  HD 7470M
+  HD 7660D + R5 235 Dual
+  Quadro K610M
+  HD 7340G
+  R6 A8-8600P
+  FirePro V5800
+  Mobility Radeon HD 3410
+  X1270
+  PCI\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C7 Ryzen
+  6750M
+  MOBILITY RADEON 9800
+  9200M GE
   Intel Skylake HD DT GT2
   M880G with Mobility Radeon HD 4225
-  NVS 810
-  Ryzen 5 4600G with Radeon Graphics
-  GTX 970M
-  HD 8570D + HD8490 Dual
-  HD 8570D + HD 8570 Dual
-  HD 7660D + HD 7400 Dual
-  845M
-  X1650 GTO
-  R7 A10-9700E RADEON
-  GRID T4-1Q
-  Ryzen 7 PRO 5800H
-  R5 PRO A6-8570E 2C+4G
-  Athlon Gold PRO 4150GE
-  HD 8470
-  RADEON X850 XT
-  R7 A10-8850
-  Mobile Intel965 Express
-  R7 M260X
-  860M
-  Quadro 400
-  GeForce2 MX
+  GeForce4 420 Go 32M
   9300M GS
-  A10-8Q
-  Go 7300
-  315
-  625
-  HD 8400
-  HD 8650G + R5 M230 Dual
-  Intel Media Accelerator 600
-  7900 GT
-  Quadro GP100
-  R7 + R5 Dual
-  Pro
-  HD 7640G + 7450M Dual
-  Quadro M3000M
-  Quadro P400
-  Intel Media Accelerator 500
-  Quadro 600
-  Intel Iris Xe MAX
-  RADEON X800 XT Platinum Edition
-  HD 3870
-  G105M
-  Mobility Radeon HD 3450
-  RADEON X800 GT
-  GeForce4 Ti 4400
-  Vega 2
-  RTX 3000 Ada Generation Laptop GPU
-  GT 645M
-  GTX 285
-  HD 7600G + HD 8670M Dual
-  GRID P6-2Q
-  R9 M385
-  GT 635M
-  RX Vega 10 Ryzen 7 PRO 3700U w/
-  GT 635
-  Intel HD Graphics 610
-  RADEON IGP 350M
-  HD 7600G + 7500M/7600M Dual
-  mv video hook driver2
-  9800 GT
-  FirePro W9100
-  Quadro FX 3700
-  9450
-  Pro V340 MxGPU
-  Ryzen 9 PRO 6950HS
-  8800 GTS 512
-  Quadro FX 3450
-  HD 7640G + 8600M Dual
-  Quadro RTX 4000 (Mobile)
-  R5 PRO A6-9500B 2C+4G
-  Tesla C2050 / C2070
-  9600 GS
-  Ryzen 5 5560U with Radeon Graphics
-  GRID M10-2B
-  RTX 2000 Ada Generation Embedded GPU
-  Ryzen 5 6600H
-  SuperDisplay Virtual Adapter
-  MOBILITY RADEON X1800
-  Mobility Radeon HD 5870
+  Microsoft Basic Display Adapter Ryzen 5 5600G
+  705M
+  Snapdragon X Elite - X1E84100 - Qualcomm Adreno GP
+  FireMV 2260
+  R5 PRO A6-8500B R5, 6 Compute Cores 2C+4G
   Mobility Radeon HD serie 4200
-  Quadro P2000 with Max-Q Design
-  Intel 4th Generation Haswell HD
-  GTX 1650 Ti with Max-Q Design
-  PHDGD Solo 1.2.0 x86
-  Ryzen 3 4300G with Radeon Graphics
-  GT 735M
-  NVS 310
-  FirePro 3D V8800
-  Intel HD Graphics 510
-  HD 7640G N HD 7640G + HD 7600M N HD 7600M D
-  Quadro NVS 280 PCI
-  HD 6370D
-  Mobile Intel 45 Express-Chipsatzfamilie
-  GRID P100-8Q
-  ABIT Siluro T400
-  RADEON X300SE
-  Quadro P5000
-  HD 7520G + 7500/7600 Dual
-  GeForce4 MX Integrated GPU
-  Ryzen 7 6800H
-  A16
-  9400
-  Quadro FX 2800M
-  HD 8550G + R5 M230 Dual
-  Pro 580
-  Ryzen 9 6900HX with Radeon Graphics
-  Sapphire RADEON X800 GT
-  FirePro W8100
-  Meta Virtual Monitor Ryzen 5 5625U
-  All-in-Wonder X1900
-  Ryzen 5 PRO 5655G
-  Intel Arc A310
-  HD 6230
-  HD 7520G N HD 7520G + HD 7600M N HD 7600M D
-  GT 325M
-  RX Vega 10 Ryzen 7 3700U
-  GTX 480M
-  Quadro FX 1600M
-  Pro WX 5100
-  FirePro 3D V3800
-  Vega 8 Ryzen 5 PRO 3500U w/
-  HD 4330
-  GT 445M
-  Custom GPU 0932
-  Vanta/Vanta LT
-  Ryzen 5 2500U with Radeon Vega
-  Lebo Virtual USB Monitor
-  RADEON 9800
-  Barco MXRT 5500
-  VIA Chrome9 HCM IGP
-  GeCube RADEON 7000
-  R9 M360
-  R7 A8-7690K
-  Matrox Parhelia 128MB
-  R7 FX-9830P RADEON
-  FX 5500
-  RTX 5060
-  HD 7640G + HD 8750M Dual
-  9500 GT
-  710A
-  Go 6200
+  Xpress 1300
+  Intel HD Graphics Modded
+  R5 330
   GTX 1660 Ti with Max-Q Design
-  EPYC 4464P 12-Core
-  RTX 3050 Ti Laptop GPU
-  HD 7660D + 7500 Dual
-  GTX 650 Ti BOOST
-  FirePro S7150
-  VII
-  FirePro M5100 FireGL V
-  CMP 30HX
-  RADEON XPRESS 200
-  L40S-12A
-  Ryzen 5 PRO 5675U
-  Ryzen Embedded V2546
-  HD 8570D + HD 6670 Dual
-  HD 4870
-  R5 M320
-  Meta Virtual Monitor
-  R5 Opteron X3216
-  Ryzen 9 7950X 16-Core
-  RX Vega M GH
-  RTX 3500 Ada Generation Laptop GPU
+  FireStream 9270
+  Quadro FX 3700
+  RIVA TNT2/TNT2 Pro
+  Intel Arc Pro B50
+  GRID K180Q
+  GRID RTX8000P-1B
+  Ryzen 7 PRO 7730U with Radeon Graphics
+  GTS 250M
+  GRID M10-2Q
+  R7 A12-9730P RADEON
+  RTX 5060
+  Intel 82845G Controller
+  Mobility Radeon 4100
+  R7 240 + HD 8570D Dual
+  HD 8570D + R5 235 Dual
+  Ryzen 7 7735HS with Radeon Graphics
+  610M Ryzen 9 7945HX3D
+  HD 2400 XT
+  Ryzen 9 5900HS with Radeon Graphics
+  Eng Sample: 100-000000082-40_40/17_Y
+  Ryzen 7 6800HS Creator Edition
+  HD 7640G + 7500/7600 Dual
+  R7 PRO A10-8770E
+  GRID P40-8Q
+  Ryzen 5 5600H
+  Vega 11 Ryzen 5 PRO 3400G
+  VIA/S3G UniChrome IGP
+  Quadro P3200 with Max-Q Design
+  Ryzen 5 5600GT
+  GTX 1660
+  R7 + R5 340 Dual
+  HD 7560D + 7560D Dual
+  GT 555M
+  HD 4770
+  FirePro W9000
+  Vega 3 Athlon 300GE
+  RadeonT Ryzen 3 3250U
+  HD 6410D
+  GeForce4 MX 440
+  HD 7600G + 6400M Dual
+  X1900 CrossFire Edition
+  HD 7640G + 8750M Dual
+  Go 7800
   HD 7520G + HD 7600M Dual
-  RTX 4070 Super
-  G102M
-  Qualcomm Adreno 7c Gen 3 GPU
-  HD 8500M
-  HD 8550G + 8690M Dual
-  RADEON X800 PRO
-  PRO W6300
-  R7 PRO A12-9800B
-  Quadro NVS 150M
-  GT 540M
-  Intel Graphics
-  GeForce2 MX with TV Out
-  RX 6600S
-  with 3 5300U Ryzen 3 5300U
-  Ryzen Embedded V2748
-  Rage 128 Pro
-  HD 8470D
-  Tesla M60
-  410M
-  Quadro RTX 5000 with Max-Q Design
-  Intel Arc A770M
-  Tesla C2070
-  Mobility Radeon HD 3400 Serisi
-  GT 1030
-  6600M
-  6FDF:FF
-  HD 8670D N HD 8670D + HD 8670D Dual
-  Xpress 1300M
-  Ryzen 7 7735HS
-  Matrox M9128 LP PCIe x16
-  RTX 5090
-  Quadro RTX 3000 with Max-Q Design
+  FirePro 2260
+  GTX 1050 Ti with Max-Q Design
+  Matrox C680 PCIe x16
+  Eng Sample: 100-000000263-50_Y
+  Pro 560X
+  MOBILITY RADEON 9600/9700
+  205
+  HD 7640G + HD 7400M Dual
+  HD 7660G + 7610M Dual
+  GRID K120Q
+  HD 7640G + R5 M230 Dual
+  7150 / nForce 630i
+  L40-6Q
+  HD 8470
+  RADEON IGP 350M
+  GRID P40-1Q
+  Pro W6900X
+  R5 235
+  MOBILITY/RADEON 9000
+  R7 A8 PRO-7600B
+  GRID P40-3Q
+  Ryzen 3 PRO 5450U with Radeon Graphics
+  R5 220
+  X550XTX
+  Mobile Intel965 Express
+  R7 A370
+  GeForce4 Ti 4800
+  RTX PRO 5000 Blackwell
+  HD 7660G + HD 8600/8700M Dual
+  Matrox G200eW3 WDDM 2.0
+  HD 6300M
+  Intel Arc A530M
+  RX 6750 XT
+  FirePro 3D V5800
+  HD 4330
+  HD 3200
+  Barco MXRT 5600
   Vega 3 Athlon 300U
-  FirePro W7000
-  Quadro NVS 140M
-  Ryzen 9 5980HS
-  8300 GS
-  HD 8180
-  Tesla P100-PCIE-16GB
-  Ryzen 5 4600HS with Radeon Graphics
+  Dell 8100
+  Intel Arc A730M
+  Quadro FX 4500 X2
+  NVIDIA A10-4Q
+  Vega 10 Mobile
+  PHDGD Ivy 4
+  Intel - Express Chipset G41
+  Quadro FX 3600M
+  Intel HD Graphics 2000
+  GT 550M
+  RADEON X800 GTO
+  RTX 5060 Ti
+  FirePro R5000
+  7000M / nForce 610M
+  Ryzen 7 7735U with Radeon Graphics
+  PCX 5900
+  R9 M290X
+  7300 GT
+  GTX 580M
+  FirePro M6000 Mobility Pro
   FirePro M6000
-  Quadro RTX 4000
-  Intel Arc A380E
-  8040S
-  R7 A8-7500 4C+6G
-  9800M GTX
-  R6 A10-8700P
-  GTX 280M
-  Vega 3 3020e
-  R7 PRO A10-9700
-  9500M GS
-  Ryzen 5 PRO 4400GE with Radeon Graphics
-  Quadro K4000M
-  VIA Chrome9 HC3 IGP WDDM 1.1
-  3015e
-  Ryzen 7 5800HS with Radeon Graphics
-  GTX 1630
-  HD 8650G + 7600M Dual
-  6800 GT
-  MX150
-  Quadro P4000 with Max-Q Design
-  Intel G45/G43 Express Chipset
-  HD 7550M
-  VIA C9-HD IGP
-  RX 6550M
-  Go 7700
+  HD 8650G + 8670M Dual
+  Meta Virtual Monitor Ryzen 5 5625U
+  R5 Opteron X3216
+  Ryzen 9 5980HS with Radeon Graphics
+  Pro SSG
+  Intel Q35 Express
+  BASICDISPLAY
+  Ryzen 5 PRO 5650GE
+  R5 M240
+  Ryzen 3 5300G with Radeon Graphics
+  7900 GTX
+  6800 XT
+  FireStream 9170
+  6100
+  GeForce4 420 Go
+  FX 5100
+  Intel Iris Xe MAX
+  Fresco Logic IDDCX Adapter
+  Sapphire RADEON X800 GT
+  RX Vega 10 Ryzen 7 3700U
+  GTX 260
+  HD 8350
+  HD 6310
+  Intel HD Graphics 630
+  Eng Sample: 100-000000252-50_Y
+  Mobility Radeon HD 3870 X2
+  T1000
+  MOBILITY RADEON X600 SE
+  X1700 Targa Edition
+  9800 GX2
+  HD 8490
+  RX Vega M GL
+  Eng Sample: 100-000000144-40_38/38_Y
+  NVS 5100M
+  Intel Iris 650
+  L40-8Q
+  HD 7560D + 7670 Dual
+  Firepro W5170M
+  6200 LE
+  Ryzen 7 PRO 6850H with Radeon Graphics
+  FireGL V3600
+  Ryzen 5 PRO 4500U with Radeon Graphics
+  Tesla M40 24GB
+  Quadro P5200
+  RTX 3500 Ada Generation Laptop GPU
+  MCT USB3.0 External Device
+  GTX 1070 with Max-Q Design
+  FX Go5650
+  Ryzen 9 7950X 16-Core
+  Pro W5700X
+  Ryzen 5 PRO 4655GE
+  Ryzen3 5300U Ryzen 3 5300U
+  HD 8670D + R7 240 Dual
+  Ryzen 9 7900X3D 12-Core
+  V9560XT
+  RADEON 9100 IGP
+  Intel HD Graphics 4000
+  710A
+  FireGL V7600
+  RX 470/570
   PCI\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C3 Ryzen
-  @oem27.inf,%winmv2%;mv video hook driver2
-  RADEON X600 SE
-  HD 4810
-  6100 nForce 420
-  RX 7900M
-  HD 8550G + 8670M Dual
-  HD 5830
-  Ryzen 7 PRO 6850HS with Radeon Graphics
-  Ryzen 5 7535U
-  FX 5700LE
-  R5 PRO A6-9500E 2C+4G
-  RadeonT 780M
-  GTX 1050 with Max-Q Design
-  GTX 745
-  R7 M260
-  FirePro M4150
+  HD 7660G + HD 7500/7600 7500/7600 Dual
+  Ryzen 7 PRO 5850U with Radeon Graphics
+  R9 Fury + Fury X
+  G105M
+  256MB DDR Radeon 9800 XT
+  ASUS A7000
+  9600M GS
+  R5 310
+  HD 6320
+  HD 7660G + HD 7500M/7600M Dual
+  FireGL V3200
+  GT 720M
+  Pro VII
+  FX Go5700
+  HD 7520G + HD 8750M Dual
+  GTX 970XM FORCE
+  T600 Laptop GPU
+  GTX 950A
+  MX110
+  L4-2B
+  RADEON 9800
+  EG PARK
+  FireGL V8600
+  R5 M315
+  MOBILITY FireGL V5200
+  Intel Iris Pro 580
+  RADEON E4690
+  Ryzen 3 7335U
+  HD 5470
+  Pro V520 MxGPU
+  FirePro W9100
+  Quadro 4000
+  GT 640
+  HD 8650G N HD 8650G + HD 8570M Dual
+  Mobility Radeon HD 5730
+  HD 2900 GT
   8400 SE
   Intel Q965/Q963 Express
-  Qualcomm Adreno 630 GPU
-  Parsec Virtual Display Adapter Ryzen 7 5825U
-  Embedded Radeon E9173
-  510
-  GRID RTX6000-2Q
-  RTX A4500
-  Mobility Radeon X1400
-  8600 GTS
-  Go 7900 GS
-  R7 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G
-  R7 + HD 7700 Dual
-  HD 8570 + 8670D Dual
-  Quadro NVS 290
-  Intel Media Accelerator
-  Quadro FX 370M
-  R7 A8-7680
-  Mobility Radeon HD 4830
-  FirePro M6000 Mobility Pro
-  RadeonT 660M Ryzen 5 7535HS
-  R7 PRO A10-9700B
-  R4
-  Quadro FX 1500
-  R7 A10-7860K
-  Tesla P4
-  CMP 40HX
-  RTX 3050 A Laptop GPU
-  RTX PRO 5000 Blackwell Generation Laptop GPU
-  Intel Iris Plus 645
-  Quadro FX 3800
-  Vega 3 Athlon Gold 3150U
-  Tesla V100-PCIE-32GB
-  Ryzen 9 5900HS with Radeon Graphics
-  ION
-  QXL KMDOD
-  Ryzen 7 7700X 8-Core
-  GTX 285M
-  TENSOR 1.0 Driver Intel HD 530
-  FirePro W4100
-  Quadro FX 1700M
-  NVIDIA A40-12Q
-  GT 220
-  RX 5600M
-  RTX 5060 Laptop GPU
-  Quadro FX 2000
-  Quadro M1200
-  FirePro W7170M
-  GRID V100D-8Q
-  Quadro M4000M
-  Ryzen 7 5825U
-  MOBILITY RADEON 9100 IGP
-  GRID M60-0B
-  Pro 455
-  GRID K120Q
-  GRID RTX6000P-4Q
-  Matrox M9138 LP PCIe x16
-  RADEON X550XT
-  EG PARK
-  GTX 965M
-  Mobility Radeon HD 2400
-  R7 + R5 330 Dual
-  GRID M10-0Q
-  HD 7660G + HD 7730M Dual
-  HD 7660G + 8670M Dual
-  RTX A2000 Embedded GPU
-  6200A
-  Pro Vega II Duo
-  R9 M270X
-  GT 120M
-  7300 SE/7200 GS
-  HD 6480G
-  Vega 8 Ryzen 5 3580U
-  GRID T4-2B
-  GT 625M
-  HD 7620G + 8670M Dual
-  6800 XT
-  PRO W6600X
-  Quadro FX 2700M
-  HD 6480M
-  6600 LE
-  HD 7570M/HD 7670M
-  Ryzen 7 PRO 6860Z
-  Quadro FX 380M
-  RX 5300
-  Virtual Desktop Monitor
-  CONNECT 3D RADEON X300
-  R5 430
-  HD 7750
-  R7 A365
-  Quadro NVS 510M
-  FireMV 2450
-  R5 220
-  840A
-  9200
-  GTX 580M
-  PHDGD Ivy 4
-  MOBILITY RADEON 9000 IGP
-  X1950 Pro
-  Ryzen 5 PRO 7530U with Radeon Graphics
-  Ryzen 7 9700X 8-Core Processor
-  HD 8610G
-  RX 7900 GRE
-  RX 6750 GRE 10GB
-  RADEON X700 SE
-  6200 A-LE
-  HD 7520G
-  GRID P40-1A
-  Ryzen 7 7736U
-  Intel GMA 3150 Express
-  HD 7660G + 7670M Dual
-  A40-2Q
-  HD 3000
-  HD HD7850M
-  HD 5750
-  FirePro 2450
-  GTX 470M
-  RTX A500 Embedded GPU
-  Intel HD Graphics 2000
-  FireMV 2200 PCIe
-  Intel HD Graphics 520
-  R7 A10-7850K
-  HD 8450G + 8600M Dual
-  Pro WX 9100
-  Vega 3 Mobile
-  SUMO 964A
-  Vega 11
-  Asus GTX 650 FML II EC-EGPU
-  GTS 160M
-  8800 Ultra
-  Ryzen 5 5500GT with Radeon Graphics
-  Pro 560
-  Ryzen 3 4300GE with Radeon Graphics
-  Moore Threads MTT S30
-  Pro Vega 56
-  Ryzen Embedded R2514
-  Pro WX 4100
-  MOBILITY RADEON 9800
-  VIA Chrome9 HC IGP WDDM 1.1
-  Intel Arc A380
-  HD 6450
-  HD 8610G + 8500M Dual
-  GT 420
-  R6
-  HD 8670D + R5 235 Dual
-  VIA/S3G C-645/640 GPU
-  610M
-  HD 7600G + HD 7500M/7600M Dual
-  PCI\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C6 Ryzen
-  GTX 560M
-  HD 7420G
-  Ryzen 5 4400G
-  Quadro T1000
-  GRID RTX8000-2Q
-  Ryzen 7 3700U
-  GT 230M
-  6800 GS/XT
-  FirePro 3D V3750
-  Intel HD Graphics 3000
-  Ryzen 5 5600G with Radeon Graphics
-  Intel HD Graphics P530
-  V9560XT
-  MONSTER GeForce GTX 675M
-  FirePro M5100
-  Vega 11 Ryzen 5 PRO 3350GE
-  HD 7340
-  Ryzen 9 5900H
-  Intel HD Graphics Family
-  MOBILITY RADEON X700 XL
-  Virtual Display Device
-  RX 5700m 8GB 256 bit Ryzen 5 5600U
-  Quadro CX
-  Qualcomm Adreno 675 GPU
-  Pro VII
-  R9 M395
-  R7 A8-7670K
-  Intel Arc 130V GPU
-  Ryzen 7 PRO 5755GE
-  Quadro NVS 295
-  Quadro P5200 with Max-Q Design
-  R7 A8 PRO-7600B
-  GTX 680M KY_Bullet Edition
-  9700M GT
-  930M
-  HD 7730
-  Quadro RTX 6000
-  HD 7660G N HD 7660G + HD 7600M N HD 7600M D
-  RTX 5090 Laptop GPU
-  HD 8610G + 8600M Dual
-  Ryzen 3 5300G with Radeon Graphics
-  X1600
-  HD 2600 XT
-  HD 7970M
-  X1700 Targa Edition
-  Ryzen 5 PRO 4650U with Radeon Graphics
-  R9 M395X
-  R5 M430
-  RX Vega11 Ryzen 7 3750H
-  R7 A8-9600 RADEON
-  HD 7660D + 7470 Dual
-  FX 5600XT
-  Ryzen 5 Pro 4650G with Radeon Graphics
-  L40S-4Q
-  Matrox G200e WDDM 1.2
-  RADEON HD 6350
-  Quadro 1000M
-  RADEON 9600 PRO Family
-  R7 A12-9800E RADEON
-  PCX 5300
-  Rage Fury Pro/Xpert 2000 Pro
-  Mobile Intel 945 Express
-  HD 7660G + HD 7500/7600 7500/7600 Dual
-  HD 8650G + 8500M Dual
-  Ryzen 3 PRO 4200GE with Radeon Graphics
-  660M Ryzen 5 7533HS
-  HD 3870 X2
-  Quadro FX 500/600 PCI
-  Q12U-1
-  Pro 5300M
-  Ryzen 7 6800HS Creator Edition
-  GeForce2 GTS/GeForce2 Pro
-  HD 6750
-  GeForce2 MX/MX 400
-  R9 290 / 390
-  Vega 3 Ryzen 3 3250U
-  FirePro M2000
-  EIZO Quadro MED-XN31LP
-  Ryzen 5 PRO 6650H with Radeon Graphics
-  Mobility Radeon HD 2600
-  8400M GS
-  Ryzen 7 PRO 6850U
-  HD 7650M
-  Miracast display port driver V3
-  RADEON 9800 SE
-  R8 M365DX
-  HD 7620G + HD 8670M Dual
-  Vega 10 Mobile
-  GRID P4-2B4
-  FX Go 5600
-  R5 235 + HD 7560D Dual
-  Vega 3 Athlon Gold PRO 3150GE
-  RTX 2070 with Max-Q Design
-  8800 GTS
-  Intel 82845G Controller
-  Barco MXRT 5400
-  Intel B43 Express Chipset
-  HD 7850M
-  FX 5200
-  HD 7640G + 7470M Dual
-  6700 XL
-  R7 A12-9700P RADEON
-  Qualcomm Adreno 680 GPU
-  Ryzen 5 5600GE with Radeon Graphics
-  R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G
-  MOBILITY RADEON 9000
-  Tesla K40m
-  Vega 6 Ryzen 3 PRO 3300U w/
-  Quadro M5000
-  Ryzen 5 PRO 4655GE
-  HD 7540D + HD 6450 Dual
-  Ryzen 3 3250U
-  Ryzen 3 4300U with Radeon Graphics
-  RX 6600M
-  R9 M390X
-  RADEON 9500 PRO / 9700
-  Ryzen 5 7430U with Radeon Graphics
-  Intel UHD Graphics 610
-  GRID T4-8Q
-  PRO W7900
-  Quadro K1200
-  PRO W7900 Dual Slot
-  RadeonT 660M Ryzen 5 6600H
-  910M
-  Quadro FX 370
-  RADEON 7200
-  Mobility Radeon HD 3650
-  Intel Q35 Embedded
-  Matrox G200e WDDM 2.0
-  Quadro K3100M
-  Matrox C680 PCIe x16
-  GTX 680MX
-  E6465
-  9700 TX w/TV-Out
-  nForce 780a SLI
-  HD 8400E
-  X1550
-  HD 7600G + 7550M Dual
-  Ryzen 7 Microsoft Surface Edition
-  X550XTX
-  NVS 5400M
-  HD 8470D + HD 7500 Dual
-  Ryzen 5 5600GE
-  MX350
-  R7 PRO A8-8650B
-  HD4670
-  FirePro W5130M
-  Qualcomm Adreno 618 GPU
-  HD 8650G + 8750M Dual
-  R9 M295X
-  NVIDIA A10
-  Ryzen 5 4500U with Radeon Graphics
-  660M Ryzen 5 7535HS
-  RADEON 7500 Family
-  RX590 GME
-  HD 7500G
-  RTX 4080 Super
-  GTS 240
-  660M Ryzen 5 6600H
-  RTX 4060 Ti 16GB
-  GeForce3
-  RX 7650 GRE
-  Extreme AX850 PRO
-  HD 8670D + 8570 Dual
-  FirePro 3D V5700
-  HD 8610G + HD 8500M Dual
-  MOBILITY FireGL V3200
-  HD 8450G + R5 M230 Dual
-  RADEON 9600 TX Family
-  FireGL V3100
-  Ryzen 3 5425U
-  680M
-  Intel UHD 770
-  HD 6650A
-  8200M G
-  E8860
-  MX330
-  6150SE nForce 430
-  HD 2400 XT
-  7100 / nForce 630i
-  770M
-  L4-12Q
-  Ryzen 3 PRO 5355GE
-  VMware Horizon Indirect Display Driver
-  GRID RTX6000P-6Q
-  R9 290X / 390X
-  Ryzen 7 4700GE with Radeon Graphics
-  GRID M10-4Q
-  Intel UHD Graphics 710
-  Quadro K420
-  Ryzen 9 9950X 16-Core Processor
-  GT 750M
-  R7 A265
-  Matrox G200eh WDDM 2.0
-  R5 M230
-  HD 8550G + HD 8750M Dual
-  9100M G
-  R7 PRO A8-8670E
-  HD 8570 + HD 7660D Dual
-  GTX 1660
-  VIA Chrome9 HC IGP
-  Quadro FX 370 LP
-  GeForce4 420 Go 32M
-  Firepro W5170M
-  6200
-  RTX 2000E Ada Generation
-  Vega 2 Athlon Silver 3050U
-  Ryzen 7 7735HS with Radeon Graphics
-  RX Vega 11 Ryzen 5 3400GE
-  Glenfly Arise-GT-10C0
-  Xpress 1100
-  HD 7640G + 7500/7600 Dual
-  RX 5600
-  Quadro M1000M
-  Pro 580X
-  RTXA5000-6Q
-  Intel Iris Pro Graphics 6200
-  HD 6990
-  Mobility Radeon X1600
-  Tesla K20m
-  VIA Chrome9 HC IGP Prerelease WDDM 1.1
-  GRID P6-4Q
-  Quadro RTX 5000
-  Mobility Radeon HD 4200
-  EAH5450
-  7950 Xtreme
-  HD 8570D + HD 6570 Dual
-  Ryzen 9 4950U Mobile
-  RTX 3050 6GB Laptop GPU
-  HD 8470D + 6570 Dual
-  Athlon 300GE
-  Quadro RTX 4000 with Max-Q Design
-  RX Vega 11 Ryzen 7 3700U
-  256MB DDR Radeon 9800 XT
-  HD 8670D + R5 330 Dual
-  Matrox M9140 LP PCIe x16
-  Pro W5700X
-  HD 7310 - Carte graphique
-  6200 LE
-  HD 6620G
-  GT 730
-  R6 M255DX
-  GT 340
-  R7 A10-9700 RADEON
-  GRID P40-3Q
-  GT 630
-  940A
-  HD 3850 AGP
-  Ryzen 5 7535HS with Radeon Graphics
-  Mobility Radeon HD 2600 XT
-  MX130
-  GeForce2 Ultra
-  HD 2900 XT
-  GRID P40-1B
-  R5 435
-  FirePro M4000 Mobility Pro
-  Ryzen 7 4800U
-  6800
-  S3 Inc. Savage4
-  FX 5900XT
-  Quadro T2000 with Max-Q Design
-  L40-6Q
-  Quadro K3000M
-  760M
-  GTX 485M
-  HD 7560D + HD 6670 Dual
-  R7 M365X
-  Intel HD Graphics P4600
-  GT 620M
-  Quadro P500
-  Quadro K1100M
-  RADEON X550
-  GeForce4 MX 460
-  Ryzen 7 Extreme Edition
-  Intel Q45/Q43 Express Chipset
-  Ryzen 7 5800HS
-  HD 6450A
-  Ryzen 3 PRO 7330U
-  780M
-  GeForce4 MX 440SE
-  Qualcomm Adreno 7c+ Gen 3
-  RADEON HD6530D
-  L4-2Q
-  R7 M465X
-  MOBILITY RADEON 9600/9700
-  Quadro FX 2700
-  GTX TITAN Z
-  Mobility Radeon X2300
-  Intel 82945G Express
-  HD 8650G + HD 8600/8700M Dual
-  7800 GT
-  G 105M
-  Quadro NVS 320M
-  Pro Vega 64
-  6610 XL
-  Ryzen 5 7530U with Radeon Graphics
-  660M
-  HD 8670D
-  Pro WX 4150
-  Quadro P4000
-  GTX 780M
-  240M GT
-  Quadro K500M
-  HD 8570D + R5 235 Dual
-  R5 M420
-  Pro W5700
-  VirtualMonitor Device
-  GT 705
-  RADEON 9600 PRO
-  HD 7470M
-  RTX 6000 Ada Generation
-  RTX 3080 Laptop GPU
-  SUMO 9644
-  HD 7640G + 7670M Dual
-  Intel(R) Graphics
-  RX 6750 XT
-  R7 PRO A12-9800
-  Mobile Intel HD
-  GT625M
-  R7 M265DX
-  RADEON 9250
-  7300 GS
-  Ryzen3 5300U Ryzen 3 5300U
-  9800 GTX/9800 GTX+
-  HD 8650G + HD 8750M Dual
-  540X
-  L40S-1Q
-  R9 M365X
-  RTXA5000-24Q
-  R9 Fury + Fury X
-  GeForce4 Ti 4800 SE
-  Ryzen 9 6900HS
-  Quadro NVS 120M
-  940M
-  800M
-  GT 440
-  FirePro V3900
+  Ryzen 7 5700G with Radeon Graphics
   GT 755M
-  Quadro M6000
-  RTX PRO 500 Blackwell Generation Laptop GPU
-  ASUS EAH4870x2
-  GRID P40-2Q
-  Intel Haswell
-  HD 8670M
-  PRO W7500
-  Intel US15 Embedded Media and Controller
-  R7 240 + HD 8570D Dual
-  Quadro 3000M
-  Ryzen 9 5980HS with Radeon Graphics
-  GeForce3 Ti 200
-  Intel HD Graphics Modded
-  R7 A8-7600
-  Mobility Radeon HD 3430
-  R3E
-  R7 A360
-  Mobility Radeon HD 5570
-  RADEON 7500
-  HD 6630M
-  HD 8610G + R5 M200 Dual
-  Intel Arc 140T
-  Intel Arc Pro A30M
-  RADEON IGP 34xM
-  GRID RTX6000-8Q
-  Mobility Radeon HD 565v
-  Ryzen 9 9900X 12-Core Processor
-  HD 8650G + R5 M200 Dual
-  FireGL V8650
-  HD 8550D
-  999 GTX
-  Intel Arc Pro A40/A50
-  HD 7640G N HD 7640G + HD 7670M Dual
-  HD 7450M
-  Meta Virtual Monitor Ryzen 5 5500U
-  Mobility Radeon HD 3670
-  GRID P40-2B4
-  Intel Iris Pro 6100
-  HD 7560D + 7570 Dual
-  RADEON X600XT
-  Tesla V100-PCIE-16GB
-  FirePro 3D V9800
-  Microsoft Basic Display Adapter Ryzen 5 3550H
-  Intel Arc Pro A60
-  R5 235 + HD 8570D Dual
-  205
-  Quadro M620
-  Quadro NVS 210S
-  Ryzen 5 5500U
-  Ryzen 5 7533HS
-  A40-24Q
-  RTX 4060 Laptop GPU
-  HD 4770
-  Intel 82915G/915GV/910GL
-  GRID RTX6000-1Q
-  RADEON X800 XL
-  Ryzen 5 5560U
-  HD 7290
-  Ryzen 7 5800U
-  Ryzen 7 4700U with Radeon Graphics
-  X1650 Pro
-  HD 6470M
-  RX 7600S
-  R5 A6-9500 2C+6G
-  IGP 340M
-  6150
-  RTX 3050 OEM
-  Vega 9 Ryzen 5 Microsoft Surface Edition
-  R6 + R7 M265DX Dual
-  Quadro K620
-  Ryzen 7 4800HS
-  HD 8650G + HD 8600M N HD 8600M Dual
-  Xpress 1300
-  Quadro FX 880M
-  HD 6790
-  A16-16A
-  Tesla K40c
-  Ryzen 7 4700G with Radeon Graphics
-  9650M GT
-  HD 6530D
-  HD 7660G + HD 8600/8700M Dual
-  FirePro M4170
-  ZX Chrome 645/640 GPU
-  7900 GT/GTO
-  GRID RTX6000-1B
-  Pro WX 7130
-  HD 6380G
-  RX 6950 XT
-  RX Vega - Renoir Ryzen 3 5300U
-  FX 5900ZT
-  530
-  A16-2B
-  HD 7560D + HD 7000 Dual
-  HD 6490M
-  R7 M360
-  RX 9070 GRE
-  GeForce2 Ti
-  RX 5500M
-  EIZO MED-XN43
-  Snapdragon X Plus - X1P64100 - Qualcomm Adreno GPU
-  Quadro NVS 450
-  6500
-  Intel UHD 630
-  RTX 2070 Super with Max-Q Design
-  Quadro 5000M
-  RADEON X600 256MB HyperMemory
-  P106-100
-  Matrox M9125 PCIe x16
-  Intel HD Graphics 5500
-  HD 7660D + 6570 Dual
-  EPYC 4124P 4-Core
-  8600M GS
-  ZX C-960
-  Intel Arc B570
-  GTX 1660 Ti (Mobile)
-  GTX 660 Ti
-  Vega 11 Ryzen 5 PRO 3350G
-  Quadro NVS 55/280 PCI
-  Intel Arc A530M
-  HD 7610M
-  Moore Threads MTT S80
-  Infoshock 3000
-  920A
-  Ryzen 5 PRO 7645 6-Core
-  Qualcomm Adreno 540 GPU
-  GT 120 / 9500 GT
-  HD 6320 Graphic
-  GRID M60-4Q
-  RX Vega11 Ryzen 7 Microsoft Surface Edition
-  HD 7690M
-  Tesla C2075
-  9500 GS
-  FirePro V7000
-  ASUS A7000
-  RTX A400
-  Intel Poison Ivy
-  Intel 945G Embedded Chipset Function 0
-  VIA/S3G UniChrome IGP
-  Ryzen 9 7950X3D 16-Core
-  GTS 450
-  HD 8250
-  GPU
-  R6 Opteron X3418
-  RTX 5080
-  Intel Arc Pro B60
-  RADEON 9700 PRO
-  X1300
-  FirePro 3D V3700
-  EIZO Quadro MED-XN71
-  Parsec Virtual Display Adapter Ryzen 5 5600GT
-  Quadro K620M
-  RADEON HD6410D
-  RTX PRO 4500 Blackwell
-  Intel Iris Pro P6300
-  RX 5500
-  HD 8240
-  9200M GS
-  GT 745A
-  HD 7640G + HD 8500M Dual
-  Matrox G200eW WDDM 1.2
-  520
-  R9 M275
-  Mobility Radeon HD 2400 XT
-  HD 8750M
-  GT 430
-  GTX 555
-  FireGL V5600
-  R7 A12-9800 RADEON
-  Quadro K2200
-  7950 GT
-  RTX PRO 5000 Blackwell
-  RADEON X850 XT Platinum Edition
-  GT 545
-  RX 6650M XT
-  R5 PRO A6-8530B R5, 6 COMPUTE CORES 2C+4G
-  FirePro W6150M
-  Quadro 2000D
-  Tesla P40
-  VIA Chrome9 HC3 IGP
-  Intel 82845G/GL Controller
-  Barco MXRT 7400
-  Pro WX 3200
-  Intel 915G/915GV/910GL Embedded Controller Functio
-  GTX 760 Ti
-  RTX A1000 Embedded GPU
-  HD 2900 PRO
-  Ryzen 5 7400 6-Core
-  R2
-  FireStream 9270
-  Quadro NVS 210S / GeForce 6150LE
-  7000 / Radeon VE
-  AI PRO R9700
-  GTX 1060 5GB
-  X1250
-  HD 7660G + 7600M Dual
-  Ryzen Embedded R2544
-  Quadro 2100M
-  Quadro P3200
-  Vega 3 Athlon Gold PRO 3150G
-  Athlon Gold 3150U
-  Vega 8 Ryzen 5 3450U
-  Vega 3
-  RX Vega 10 Ryzen 5 3500U
-  Go 7600 GT
-  Matrox Parhelia 256MB
-  HD 8550G + HD 8600M Dual
-  R6 A8-8600P
-  HD 2600 PRO
-  MOBILITY FIREGL 7800
-  R9 M290X
-  R9 M485X
-  Intel - Express Chipset G41
-  RX 6500M
-  XGI Volari Family v1.13.23.D_V
-  nVidia L20
-  N18E-Q1
-  HD 8570
-  GTX 1060
-  IGP 320M
-  HD 6670 + 7660D Dual
-  VIA Chrome9 HC IGP WDDM
-  HD 7600G + HD 7550M Dual
+  Ryzen 5 6600H
+  540
+  RTX 1000 Ada Generation Laptop GPU
+  Ryzen 7 5800HS with Radeon Graphics
+  HD 4850
+  DisplayLink USB Device Ryzen 7 Pro 7735U
+  Pro WX 3100
   GTX 1060 (Mobile)
-  Mobile Intel serie 4 Express
-  GRID M6-1Q
-  Ryzen 5 4600H with Radeon Graphics
-  GeForce4 440 Go
-  Mobility Radeon HD 5000 Serisi
-  Ryzen 3 PRO 4200G with Radeon Graphics
-  6100 nForce 400
-  Matrox G200eh
-  Intel Iris Plus 650
-  610M Ryzen 9 7945HX
-  HD 6670 + 6670 Dual
-  HD 8610G + HD 8600M Dual
-  9800M GT
-  HD 8210E
-  HD 8650G + 7670M Dual
-  RTX 4500 Ada Generation
-  HD 8790M
-  ZX C-1190
-  9700M GTS
-  Ryzen 5 5500U with Radeon Graphics
-  HD 7520G + 7670M Dual
-  GTX 675M
-  940MX
-  Matrox G200eW
-  FX 5100
-  HD 8670D + 7700 Dual
-  FirePro W4170M
-  Ryzen 5 5500H
-  Quadro M2200
-  R5 M255
-  HD 8650G + HD 8600M Dual
-  Ryzen 5 7600 6-Core
-  Tesla M40
-  R5 340
-  840M
-  Seria Radeon HD 7700
-  RX 5300M
-  HD 7660G + HD 8500M Dual
-  Athlon PRO 3045B
-  9800 GX2
-  R5 A6-9500E RADEON R5, 6 COMPUTE CORES 2C+4
-  GRID P100-1B
-  Quadro NVS 420
-  ASUS AGP-V3800PRO v31.40H
-  RX 6700
-  MOBILITY RADEON 9000/9100 IGP
-  FireGL V7200
-  Quadro FX 5500
-  R5 M330
-  R5 230
-  HD 7660G + HD 7600M Dual
-  Quadro FX 770M
-  Ryzen 7 PRO 4700G
-  HD 7560D + HD 7700 Dual
-  Ryzen Embedded R2312
-  Ryzen 9 7900X3D 12-Core
-  HD 8490
-  HD 8550G + 8600M Dual
-  RTX 5070 Ti Laptop GPU
-  R7 PRO A12-8870
-  RX Vega Ryzen 7 5825U
-  Quadro FX 1800M
-  RTX A2000 8GB Laptop GPU
-  Vega 9
-  Ryzen 3 PRO 4350GE with Radeon Graphics
-  Quadro FX 1100
-  GRID T4-1B
-  RTX A1000 6GB Laptop GPU
-  256
-  Pro 555
-  6800 Ultra
-  Tesla T4
-  GRID P40-12Q
-  HD 8550G + HD 8670M Dual
-  Intel Arc A580
-  MIRRORV3
-  930MX
-  Intel 82915G/GV/910GL Advanced v3.5
-  R7 M260DX
-  RTX 5090 D v2
-  8400 GS
-  RADEON 9000
-  RX 570X
-  Ryzen 9 6900HS with Radeon Graphics
-  A16-2Q
-  HD 7400G
-  GTX 460M
-  R7 + R5 340 Dual
-  Ryzen 9 7900X 12-Core
-  Mobility FireGL V5725
-  HD 7660G + 7610M Dual
-  Intel 82915G/GV/910GL Express
-  PRO W7700
-  R7 450
-  RX 6500 XT
-  R5 A6-9500E 2C+4G
-  RX 6600 LE
-  R7 M270DX
-  Quadro FX 2500M
-  FirePro R5000
-  Quadro2 MXR/EX
-  Inspiration CG620 MxGPU
-  7100 GS
-  Barco MXRT 7500
-  RTX 5090 D
-  L40S-48Q
-  Ryzen Z2 Go
-  HD 7640G + 7500M/7600M Dual
-  Quadro FX 580
-  RTX PRO 4000 Blackwell SFF Edition
-  TITAN RTX
-  HD 8650G N HD 8650G + HD 8600/8700M Dual
-  GTX 1050 Ti (Mobile)
-  8600 GS
-  HD 7560D + HD 7600 Dual
-  505
-  Mobility Radeon HD 4650
-  Dell 8200
-  Vega 8 Graphics
-  GTX 675MX
-  RTX A6000
-  Intel Media Accelerator 3150
-  GTX 960M
-  GRID P4-2A
-  L4-24Q
-  R7 PRO A10-8770E
-  HD 7520G + 7700M Dual
-  6800 LE
-  6750M
-  HD 7660G + 7730M Dual
-  HD 7540D + 6570 Dual
-  Quadro FX 3450/4000 SDI
-  Intel 82865G Controller
-  RTX 3050
-  MCT USB3.0 External Device
-  T600 Laptop GPU
-  Intel Arc B580
-  HD 8570M
-  FireStream 9370
-  R5 A10-9630P RADEON R5, 10 COMPUTE CORES 4C
-  FireGL V7100
-  Ryzen 5 9600X 6-Core Processor
-  Tesla M10
-  nForce 760i SLI
-  R7 A12-9720P RADEON
-  HD 8650G
-  RADEON 7000 / RADEON VE Family
-  GRID M10-1B
-  720A
-  MOBILITY RADEON X300
-  R7 430
-  7300 SE
-  RTX A5500
-  Intel HD Graphics 515
-  S3 5400EW
-  Quadro FX 3500M
-  HD 8310E
-  Intel Arc A730M
-  2100
-  PCI\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C7 Ryzen
-  Quadro M5500
-  7050 / nForce 610i
-  FX 5200 Ultra
-  Quadro K600
-  Intel Arc A370M
-  Quadro NVS 130M
-  7050 / nForce 620i
-  HD 8950
-  7900 MOD - Radeon HD 6520G
-  PRO V710 MxGPU
-  Intel UHD Graphics 750
-  9800 GTX
-  HD 7640G + 7650M Dual
-  HD 6850 X2
-  HD 7640G + HD 8600/8700M Dual
-  GT 1010
-  R2E
-  Quadro FX 1400
-  spacedesk Adapter
-  GT 140
-  X1900 GT
-  RV530 PRO
-  HD 7640G + HD 7600M Dual
-  GTX 950M
-  Ryzen 3 5300U with Radeon Graphics
-  9300
-  8400M GT
-  Intel 82915G Express
-  Quadro M5000M
-  Pro 5600M
-  RTX A5000 Laptop GPU
-  R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G
-  Intel HD Graphics P630
-  GT 640
-  GTX 760M
-  MOBILITY FIREGL T2
-  Eng Sample: 100-000000151-40_38/33_Y
-  GT 240
-  Intel Q33 Express
-  S3 Chrome S25
-  Matrox Millennium P650 PCIe 128
-  800A
-  RADEON 9200 SE
-  R7 PRO A10-8850B
-  HD 6550A
-  RX Vega 11 Ryzen 7 3750H
-  GTX 465
-  8300
-  FirePro 2460
-  VIA Chrome9 HD IGP
-  GRID RTX6000-6Q
-  HD 8650G N HD 8650G + HD 8600M N HD 8600M D
-  GeForce4 420 Go
-  PCX 5750
-  Matrox M9188 ATX PCIe x16
-  R7 M265
-  HD 8550G + 8500M Dual
-  GRID RTX8000P-12A
-  3020e
-  RTX 4060 Ti
-  Intel HD Graphics 4600
-  Ryzen 3 5400U with Radeon Graphics
-  GT 745M
-  Beijing Fantasy Technology Fantasy II-M
-  RADEON 9600 XT
-  Mobility Radeon HD 3870
-  Intel 82852/82855 GM/GME Controller
-  AMD Ryzen Z1 Extreme
-  RX 7600M XT
-  7150M / nForce 630M
-  7600 GS
-  Ryzen 3 Pro 4350G with Radeon Graphics
-  Barco MXRT 5450
-  HD 7970 / R9 280X
-  315M
-  HD 6650M
-  Intel Coffee Lake UHD
-  HD 7640G + 6400M Dual
-  R9 285 / 380
-  E6760
-  Vega 6 Ryzen 3 3300U
-  HD 7640G + HD 8500M N HD 8500M Dual
-  9800 S
-  9500M
-  RIVA TNT2/TNT2 Pro
-  Vega 3 Graphics
-  Eng Sample: 100-000000562-40_Y
-  HD 5670
-  NVIDIA TITAN X
-  HD 3300
-  9400M G
-  8800M GTX
-  HD 8610G + 8670M Dual
-  RemotePC Adapter
-  A16-16Q
-  NVS 315
-  Ryzen 9 6900HS Creator Edition
-  RTX PRO 6000 Blackwell Workstation Edition
-  DisplayLink USB Device Ryzen 7 5700U
-  RADEON 9800 PRO
-  Ryzen Embedded R2314
-  HD 6290
-  Barco MXRT 1450
-  Intel Arc Pro 140T GPU
-  Surface Duo Adreno 640 GPU
-  Ryzen 9 4900HSS with Radeon Graphics
-  Barco MXRT 2600
-  Ryzen 7 PRO 4750G
-  Quadro FX 380
-  Xpress 1150
-  R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C
-  Matrox C900 PCIe x16
-  FirePro V9800
-  Quadro M600M
-  Pro WX 7100
-  9600 GSO 512
-  Intel HD Graphics 6000
-  880M
-  RADEON HD7450
-  GTX 1060 3GB
-  RADEON 9200 LE Family
-  Mobility Radeon X1450
-  Ryzen 5 PRO 4400G
-  Parsec Virtual Display Adapter
-  RTX PRO 2000 Blackwell
-  Go 7400
-  HD 7520G + 7650M Dual
-  Go 6800 Ultra
-  GT 520M
-  HD 8570D + R7 200 Dual
-  Ryzen 5 7530U
-  Ryzen 3 7330U with Radeon Graphics
-  PRO W7800
-  RTX 4070 Ti Super
-  R7 A8-8650
-  RTX PRO 4000 Blackwell
-  EPYC 4344P 8-Core
-  HD 7660G + 7400M Dual
-  FirePro 3D V7800
-  Ryzen 5 PRO 4500U
-  Intel HD Graphics 5200
-  HD 6450 + 8470D Dual
-  Matrox M9120 Plus LP PCIe x16
-  GRID GTX P40-6
-  R1E
-  SUMO 9640
-  Mobile Intel 945GM/GU Express
-  RADEON X800 PRO/GTO
-  ZX C960 GPU
-  RADEON X800 XT
-  HD 8280E
-  HD 8550G + R5 M200 Dual
-  GTX 1050 3GB
-  Ryzen 9 PRO 6950H
-  Intel HD Graphics 505
-  HD 8550G + 8600/8700M Dual
-  HD 8650D
-  HD 7660G + HD 7500/7600 Dual
-  RTX PRO 2000 Blackwell Generation Laptop GPU
-  Matrox LUMA A310
-  Ryzen 7 5800U with Radeon Graphics
-  nForce 980a/780a SLI
-  RX Vega 10 Ryzen 7 3700C
-  HD 8410G
-  FirePro M6100 FireGL V
-  G205M
-  RX Vega Ryzen 5 5500U
-  615
-  9600 GSO
-  AMD AMD Custom GPU 0405
-  GRID M10-2Q
-  HD 7540D
-  Mobility Radeon HD 4250
-  HD8530M
-  Ryzen 5 4600U with Radeon Graphics
-  RADEON 9100 IGP
-  GT 330
-  TM
-  PRO W6600
-  Intel Iris Xe
-  GT 130M
-  810M
-  HD 8650G + HD 7600M Dual
-  Matrox G200eR WDDM 1.2
-  Vega 8 Ryzen 5 3500U
-  RADEON X800GT
-  HD 7560D + HD 8570 Dual
-  FirePro W4300
-  HD 7640G
-  Quadro M520
-  HD 7750M
-  Mobility Radeon HD 3470
-  HD 7660D + 7670 Dual
-  R7 A10 PRO-7800B
-  R7 M440
-  HD 8550G + 8750M Dual
-  T600
-  RTX A2000 12GB
-  MOBILITY IGP 9000/9100
-  R5 A240
-  Mobile Intel 965 Express - BR-0907-0461 v1839
-  Custom GPU 0405
-  GTX 1070 with Max-Q Design
-  GeForce4 4200 Go
-  HD 4870 X2
-  EIZO Quadro MED-XN51LP
-  Intel Iris 6100
-  GT 640M
-  GT 610M / GT 620M / GT 710M / GT 720M / GT
-  Sangfor TitanGPU controller
-  HD 6750M
-  FirePro M40003
-  Mirage Driver
-  GTX 1050 Ti with Max-Q Design
-  R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G
-  GT 230
-  VIA/S3G UniChrome Pro IGP
-  HD 7640G + 7700M Dual
-  MOBILITY RADEON 9600 PRO TURBO
-  Vega 3 Ryzen Embedded R1305G
-  GT 720
-  Ryzen 7 5700U
-  830A
-  HD 8770
-  RADEON 9200 PRO Family
-  Ryzen 7 PRO 6860Z with Radeon Graphics
-  710M
-  PHDGD Quantic C3
-  RX Vega Ryzen 3 5300U
-  680M Ryzen 7 Pro 7735U
-  Moore Threads S3000 MTvGPU-1132
-  FirePro W9000
-  Quadro NVS 160M
-  9300 GE
-  HD 8670D + HD 6670 Dual
-  R7 G
-  RX Vega 10
-  Pro WX 8200
-  R5 235
-  Eng Sample: 100-000000295-40_Y
-  Ryzen 7 7735H
-  Intel HD Graphics manual-15.28-1861
-  MOBILITY RADEON X600
-  Quadro 500M
-  Fresco Logic IDDCX Adapter
-  825M
-  610M Ryzen 9 8940HX
-  RadeonT 760M
-  HD 2350
-  780M Graphics
-  Horizon Indirect Display Driver
-  Ryzen 7 PRO 7730U
-  HD 8500M/8700M
-  R9 360
-  550
-  HD 6770M
-  Intel Haswell HD - GT1
-  RTX PRO 1000 Blackwell Generation Laptop GPU
-  GRID K140Q
-  Ryzen 5 6600U with Radeon Graphics
-  Ryzen 3 7335U
-  R7 + R7 240 Dual
-  HD 5450
-  Intel G33/G31 Express
-  GTX 650 Ti
-  Mobility Radeon HD 4330
-  Xabre
-  GRID V100-16Q
-  Go 6600 TE/6200 TE
-  Pro 5700
-  RADEON E4690
-  Quadro T2000
-  PHDGD Ivy 5
-  Qualcomm Adreno 8cx Gen 3 GPU
-  HD 7310M
-  HD 8650G + 8600M Dual
-  Ryzen 7 PRO 4750U
-  6200SE TurboCache
-  R7 M270
-  605
-  GTX 560 SE
-  GT 415
-  7600 GT
-  610M Ryzen 9 7845HX
-  AMIGAMERLIN 3.1-R1 For Voodoo 4 4500 PCI
-  Go 7600
-  NVS 5200M
-  Vega 3 Ryzen Embedded R1505G
-  FireMV 2200 PCI
-  T1200 Laptop GPU
-  R5 235X
-  R5 420
-  Ryzen 7 4800H with Radeon Graphics
-  Ryzen 7 PRO 4700G with Radeon Graphics
-  Racer-Tech USB Display Device
+  VII
+  GRID P6-4Q
+  Quadro FX 1000
+  R9 M395X
   7025 / nForce 630a
-  Intel 915G,910G Express
-  NVIDIA A40-4Q
-  Vega 3 Athlon 320GE
+  RTXA5000-6Q
+  HD 8570D + R7 240 Dual
+  RADEON 9000 Family
+  Quadro4 380 XGL
+  Mobility Radeon HD 5000 Serisi
   HD 7870M
-  Intel Iris Pro 580
-  Go 6150
-  RX 6300
-  920M
-  GT 420M
-  3000
-  Meta Virtual Monitor Ryzen 7 5700U
-  R7 A8-7650K
-  RX 6650M
-  FireGL V7300
-  R7 M465
-  GTX 850A
-  HD 8510G + 8500M Dual
-  Eng Sample: 100-000000263-50_Y
-  Ryzen 9 PRO 7945 12-Core
-  Quadro K2000M
-  Intel Iris Plus 655
+  930MX
+  FireStream 9250
+  FX 5200 Ultra
+  HD 8500M
+  Mobility Radeon HD 2400
+  6FDF:FF
+  Mobility Radeon X2300
+  R5 430
+  ALL-IN-WONDER 9000
+  9800 GTX+
+  6800
+  R7 M360
+  RX 6700S
+  HD 8400
+  Intel Graphics
+  Ryzen 7 4700U with Radeon Graphics
+  410M
+  RADEON HD 6350
+  RTX 5060 Ti 8GB
+  Intel Iris Pro 6100
+  RTX A500 Laptop GPU
+  HD 7620G
+  Vega 3 Athlon Gold PRO 3150G
+  Quadro P4000
+  G210M
+  Quadro NVS 420
+  Ryzen Embedded V2748
+  HD 8650G + HD 7600M Dual
+  9300GE
+  Quadro FX 5600
+  Intel 82845G/GL Controller
+  Tesla K40c
+  Quadro K3000M
+  Quadro FX 1100
+  RTX 500 Ada Generation Laptop GPU
+  Ryzen 5 PRO 5650U with Radeon Graphics
+  EIZO Quadro MED-XN31LP
+  GRID P40-1B
+  Mobility Radeon HD 4870
+  Ryzen 7 2700U with Radeon Vega
+  HD 7660G + 8600M Dual
+  HD 6370D
+  RTX 3050 Ti
+  R8 M535DX
+  nForce 760i SLI
+  Quadro K600
+  HD 7640G + 7450M Dual
+  Intel HD Graphics manual-gen9_2015-133271
   7900 MOD - Radeon HD 6550D
-  RadeonT 610M
-  R7 Opteron X3421
-  RTX A3000 12GB Laptop GPU
-  R9 M380
-  RX 7800M
-  8600 GT
-  Ryzen 5 3450U
-  Quadro RTX 8000
-  RX 6300M
-  NVS 2100M
-  3100
-  310
-  FirePro 2270
-  GTX 1650 Ti
-  Ryzen 3 PRO 5350GE with Radeon Graphics
-  Quadro 6000
-  MEDION RADEON 9800 XXL
-  Ryzen 7 7730U
-  Sky 500
-  Firepro M4100
-  Ryzen 5 5500GT
-  G100
-  GRID K2
-  L4-6Q
-  Ryzen 7 5700GE with Radeon Graphics
-  HD 4290
-  Ryzen 7 6800U with Radeon Graphics
-  GT 730M
-  Mi Pad 5 Adreno 640 GPU
-  Intel HD Graphics 630
-  P104-100
-  Qualcomm Adreno 690 GPU
-  R7 PRO A12-9800E
-  Ryzen 7 PRO 5750GE with Radeon Graphics
-  RTX A3000 Laptop GPU
-  Quadro M6000 24GB
-  Ryzen 5 5600GT with Radeon Graphics
-  Quadro P620
-  Quadro K4000
-  Ryzen 7 PRO 6850U with Radeon Graphics
-  Quadro 2000M
-  HD 7560D + 7700 Dual
-  Intel 3rd Generation IvyBridge HD GT1
-  Matrox G200eW3 WDDM 2.0
-  R7 240 + HD 8670D Dual
-  HD 7350
-  RTX 5060 Ti
-  RTX 2060 12GB
-  HD 7470
-  Ryzen 3 3200U
-  Quadro FX 540
-  GRID K260Q
-  GT 530
-  Instinct MI25 MxGPU
-  HD 7560D + 7670 Dual
-  Pro WX 4130
+  Quadro NVS 140M
+  GRID T4-2B
+  RTX PRO 4000 Blackwell SFF Edition
+  FireGL T2-128
+  Intel Q33 Express
+  Ryzen 7 6810U
+  RTX 3050 Ti Laptop GPU
+  GTX 960M
+  HD 7600G + HD Dual
+  RTX 3050 A Laptop GPU
+  Ryzen 7 3700U
+  GeForce2 Go
+  NVS 810
+  Barco MXRT 7400
+  RTX 5880 Ada Generation
+  RTX 5080
+  8600 GS
+  GTX 850M - MODDED
+  625
+  FireGL V7350
   FX 5950 Ultra
+  GTX 1060
+  nForce 750a SLI
+  R7 A8-7690K
+  Ryzen 5 5600GE with Radeon Graphics
+  HD 8250
+  HD 8650G + HD 8790M Dual
+  R7 A12-9720P RADEON
+  RTX A5000 Laptop GPU
+  R7 M465
+  HD 7290
+  820A
+  E6465
+  HD 8650G + HD 8570M Dual
+  EPYC 4244P 6-Core
+  HD 6370M
+  RX 640
+  GT 720
+  Go 6150
+  8800M GTX
+  HD 8650G N HD 8650G + HD 8600M N HD 8600M D
+  HD 7520G + 7670M Dual
+  R7 + R7 240 Dual
+  PRO W7800
+  RADEON X800 SE
+  HD 7450M
+  9300
+  Quadro K500M
+  HD 6480G
+  R5 A6-8500P
+  HD 8510G + HD 8500M Dual
+  Vega 6 Ryzen 3 3350U
+  HD 8770
+  Moore Threads MTT S80
+  R9 M375
+  Embedded Radeon E9173
+  Mobility Radeon HD 3850
+  Quadro NVS 135M
+  Quadro NVS 210S / GeForce 6150LE
+  HD 8570D + HD 8570 Dual
+  9300 GS
+  nVidia L40
+  Quadro M2000M
+  Quadro RTX 6000
+  Quadro T2000
+  Ryzen 7 6800H with Radeon Graphics
+  RTX 5000 Ada Generation
+  Intel Iris 540
+  315M
+  FirePro 2270
+  HD 7640G N HD 7640G + HD 7600M N HD 7600M D
+  VIA Chrome9 HC IGP WDDM 1.1
+  Ryzen 7 7735U
+  R7 PRO A8-9600
+  RTX 2080 (Mobile)
+  HD HD7850M
+  RX 7800 XT
+  L40S-12Q
+  GTX 690
+  Eng Sample: 100-000000146-20_37/30_Y
+  GTX 570M
+  Tesla P40
+  Racer-Tech USB Display Device
+  RADEON IGP 345M
+  FX 5200LE
+  HD 3850
+  RTX 2060 (Mobile)
+  Intel(R) Arc(TM) Graphics
+  Ryzen 7 PRO 4700G with Radeon Graphics
+  R5 M230
+  GRID P40-4Q
+  T400
+  HD 6700M
+  Intel HD Graphics 510
+  Mobility Radeon HD 5000
+  PCI\VEN_1002&DEV_164E&SUBSYS_D0001458&REV_C2 Ryzen
+  GT 620
+  Ryzen 3 4300U with Radeon Graphics
+  HD 7520G + 7650M Dual
+  HD 8400E
+  HD 7600G + HD 7550M Dual
+  Matrox M9188 ATX PCIe x16
+  RTX 5000 Ada Generation Laptop GPU
+  9600 GSO 512
+  Ryzen 3 4300GE with Radeon Graphics
+  7600 GS
+  Ryzen 7 PRO 5875U with Radeon Graphics
+  VIA Chrome9 HC3 IGP WDDM 1.1
+  R7 A8-8650
+  PRO Ryzen 7 PRO 6850U
+  610M
+  810A
+  Quadro M600M
+  R5 340
+  M880G with Mobility Radeon HD 4250
+  Tesla M60
+  FireGL V5200
+  PRO W7600
+  GTX 960A
+  Vega 6
+  HD 8870M / R9 M270X / M370X
+  Ryzen Embedded R2314
+  GRID K220Q
+  9800M GT
+  Matrox G200eR
+  G 103M
+  MX570
+  Quadro GP100
+  Parsec Virtual Display Adapter Ryzen 5 3400G
+  HD 7600G + HD 7500M/7600M Dual
+  HD 8450G + R5 M230 Dual
+  Tesla K40m
+  FX Go 5200
+  RX 5700 XT 50th Anniversary
+  X1650 GTO
+  HD 7660G + 7470M Dual
+  RTX 3080 Ti Laptop GPU
+  X1950 GT
+  Ryzen 7 PRO 4750U
+  NVIDIA A10
+  Qualcomm Adreno 7c+ Gen 3
+  Ryzen 9 7900X 12-Core
+  HD 8450G + HD 8750M Dual
+  HD 4810
+  HD 7520G + HD 7400M Dual
+  R5 M420
+  890M
+  Ryzen 5 7530U with Radeon Graphics
+  Intel US15 Embedded Media and Controller
+  MEDION RADEON X740XL
+  Intel Arc 140T
+  GeForce4 MX 440SE
+  315
+  Tesla K20m
+  FX 5600XT
+  HD 7340M
+  Pro Vega 64X
+  7050 PV / nForce 630a
+  HD 8550G + 8600M Dual
+  HD 7500G + 7500M/7600M Dual
+  R7 A10-7860K
+  ASUS EAH4870x2
+  Matrox LUMA A380P
+  8800 GTS
+  HD 7660D + 7500 Dual
+  HD 8450G + 8750M Dual
+  RTX 2000 Ada Generation Laptop GPU
+  Matrox G200eh WDDM 2.0
+  GT 415
+  R9 255
+  RX 7600M XT
+  GT 540M
+  Vega 3 Athlon Silver 3050U
+  Intel UHD 630
+  Vega 6 Ryzen 3 PRO 3300U w/
+  X1800 GTO
+  RTX A5000
+  HD 8210
+  R7 + R5 435 Dual A10-9700 RADEON
+  GTX 745
+  HD 8310E
+  Quadro 3000M
+  NVS 510
+  GTX 750
+  Intel G45/G43 Express Chipset
+  S3 5400EW
+  Ryzen 9 7950X3D 16-Core
+  Intel Iris Pro P580
+  Intel 2nd Generation SandyBridge HD 3000
+  Pro 455
+  OrayIddDriver Device
+  Ryzen 7 5700U with Radeon Graphics
+  Quadro K4200
+  GTX 1060 5GB
+  FirePro V8800
+  PHDGD Quantic C3
+  Ryzen 5 6600H with Radeon Graphics
+  920M
+  Quadro 5000M
+  Quadro M4000M
+  Citrix Indirect Display Adapter
+  RX590 GME
+  IGP 340M
+  Quadro FX 4800
+  7800 GTX
+  WinFast A250 LE
+  FX 5600 Ultra
+  Ryzen 5 3450U
+  Quadro M2000
+  Ryzen 3 PRO 4200GE with Radeon Graphics
+  RTX 4060
+  Mobility Radeon HD 4550
+  HD 7640G + HD 7600M Dual
+  Ryzen 5 7600 6-Core
+  HD4650
+  Quadro K5000
+  RTX 2060 12GB
+  GRID M10-4Q
+  RADEON X800 XT
+  Quadro FX 880M
+  Pro WX 4150
+  HD 7560D + 6670 Dual
+  HD 8570D
+  HD 7550M/7650M
+  HD 7600G + HD 8670M Dual
+  R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G
+  9400M
+  RX 7700 XT
+  Mobility Radeon HD 3430
+  A16-16Q
+  Mobility Radeon HD 4850
+  HD 7620G + 8670M Dual
+  RTX 4060 Laptop GPU
+  Xpress 1270
+  GTX 660M
+  HD 8550G + HD 8750M Dual
+  HD 8650G + 7600M Dual
+  Ryzen 9 4900HSS with Radeon Graphics
+  HD 8650G + 7700M Dual
+  Vega 8
+  HD 8690M
+  Mobility Radeon X2500
+  RTX A1000 6GB Laptop GPU
+  GTX 1060 3GB
+  Vega 3 3020e
+  Pro Vega 20
+  Mobility Radeon HD 2600
+  R5 M430
+  L4
+  R5 A6-9500E 2C+4G
+  Intel Arc A380
+  HD 7640G + HD 7500/7600 Dual
+  6700 XL
+  825M
+  Mobility Radeon HD 545v
+  GeCube RADEON 7000
+  RTX 5080 Laptop GPU
+  R7 A10-9700 RADEON
+  GTX 675M
+  R7 PRO A10-9700E
+  GTX 870M
+  GRID P4-2B
+  X1250
+  FirePro M5950
+  Eng Sample: 100-000000295-40_Y
+  780M Graphics
+  Ryzen 3 PRO 5450U
+  MOBILITY FIREGL T2
+  RTX 4090 D
+  Go 6800
+  HD 4870 X2
+  R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G
+  T500
+  Ryzen 5 6600HS Creator Edition
+  GTX 560M
+  HD 6790
+  Mobility Radeon X1600
+  Matrox M9120 Plus LP PCIe x16
+  HD 7520G + 7700M Dual
+  Qualcomm Adreno 8cx Gen 3 GPU
+  GT 520MX
+  RTX 3500 Ada Generation Embedded GPU
+  3000
+  Vega 8 Ryzen 5 3500C
+  RTX 4500 Ada Generation
+  R5 M435
+  7800 GS
+  Quadro FX 2000
+  RADEON 7500 Family
+  HD 7640G + HD 8600/8700M Dual
+  R7 M340
+  Winsta0\\Default
+  RADEON XPRESS 200M
+  R6 PRO A10-8700B 4C+6G
+  Matrox Parhelia 128MB
+  HD 8450G + HD 8670M Dual
+  GTX 560 SE
+  X1650 Pro
+  VIA/S3G Chrome 645/640 GPU
+  FirePro M7740
+  Intel Arc Pro A60
+  RADEON 9250
+  R5E
+  HD 7660D + 6670 Dual
+  Ryzen 3 5400U with Radeon Graphics
+  GRID M60-1B
+  Intel Arc Pro A30M
+  Ryzen 5 4600U with Radeon Graphics
+  HD 8330
+  Intel Iris Pro Graphics 6200
+  FirePro 3D V3700
+  Ryzen 7 6800HS with Radeon Graphics
+  Rage 128 Pro
+  RTX 3080 Laptop GPU
+  Master X3100 Driver
+  Intel 946GZ Embedded Chipset
+  R7 PRO A12-8870E
+  HD 7640G + 8670M Dual
+  P104-100
+  RTX A2000 Embedded GPU
+  Qualcomm Adreno X1-85 GPU
+  FireMV 2400 PCIe
+  Graphics
+  GRID P4-4A
+  HD 7560D + HD 7000 Dual
+  620
+  HD 7570M/HD 7670M
+  RTX 3050 6GB
+  HD 7480D
+  Quadro CX
+  Intel HD Graphics 620
+  R9 270 / R7 370
+  770M
+  Pro WX Vega M GL
+  RadeonT 680M Ryzen 7 6800H
+  Quadro GV100
+  R9 M385
+  Ryzen 7 7736U
+  Tesla M10
+  MOBILITY FireGL V5000
+  NVIDIA TITAN X
+  HD 7520G + 7470M Dual
+  RX 7500
+  RIVA TNT2 Model 64/Model 64 Pro
+  HD 8850M / R9 M265X
+  GeForce3
+  RADEON 9600 Family
+  Intel Iris Plus 655
+  HD 8180
+  305M
+  Quadro T1000
+  HD 8280
+  FirePro M5100
+  Quadro K5000M
+  RADEON 7200
+  RADEON X850 XT
+  Tesla M40
+  RTX A5500
+  GT 415M
+  Quadro FX 5500
+  L40S-8Q
+  Pro W5500X
+  Mobility Radeon HD 4300 Serisi
+  GTX 470M
+  Mobile Intel serie 4 Express
+  RADEON 9800 XT
+  HD 6430M
+  6800 LE
+  RTX A4500 Embedded GPU
+  3100
+  Ryzen 7 4800H
+  R9 290X / 390X
+  R5 PRO A6-8500B 2C+4G
+  HD 7580D
+  IncrediblE HD 3000
+  GTX 485M
+  RV530 PRO
+  HD 8280G
+  RX 6300M
+  Ryzen 3 Pro 4350G with Radeon Graphics
+  Tesla T4
+  Intel HD Graphics 5600
+  Ryzen 9 5980HS
+  ABIT Siluro T400
+  GTX 1650 (Mobile)
+  RADEON X700
+  MX330
+  GTX 460 SE
+  GTX 950M
+  Matrox G200eR WDDM 1.2
+  Quadro 2000 D
+  MOBILITY RADEON 9000 IGP
+  IncrediblE HD 4600
+  Quadro M1000M
+  HD 7660G + HD 7670M Dual
+  8400M GT
+  Go 7600 GT
+  GT 330M
+  HD 6610M
+  Ryzen 7 6800H
+  Ryzen 7 7735HS
+  HD 8650G + HD 8600/8700M Dual
+  RX 9070
+  HD 8240
+  7050 / nForce 610i
+  R9 M470X
+  R3E
+  880M
+  HD 5550
+  6100 nForce 420
+  Quadro P600
+  RADEON X800 XL
+  HD 8510G + 8500M Dual
+  HD 7640G + 8600/8700M Dual
+  HD 7870 XT
+  RTX 4060 Ti 16GB
+  GT 425M
+  HD 7640G + 8500M Dual
+  Athlon Gold PRO 4150GE
+  R5 M330
+  7300 GS
+  HD 6230
+  HD 4350
+  R7 A10-7890K
+  Quadro FX 1300
+  Quadro 280 NVS PCIe
+  Eng Sample: 100-000000285-30_Y
+  L4-8Q
+  Ryzen 7 5825U
+  GRID M10-1B
+  NVS 315
+  Quadro FX 370
+  GRID GTX P40-6
+  Barco MXRT 2600
+  R7 M365X
+  HD 7750M
+  Ryzen 5 PRO 7445 6-Core
+  PRO W6800
+  Ryzen 7 6800HS
+  RTX 3050 8GB
+  RX 5300
+  EPYC 4564P 16-Core
+  GTX 1050 3GB
+  6800 GT
+  FX 5600
+  R7 240 + HD 8670D Dual
+  Ryzen 5 7530U
+  8500 GT
+  RTX A5500 Laptop GPU
+  RADEON 9700 PRO
+  7650 GS
+  HD 7660G
+  GRID P6-2Q
+  R5 230
+  Vega 3 Graphics
+  IncrediblE HD
+  FirePro W600
+  FirePro 3D V9800
+  Infoshock 3000
+  Ryzen 7 PRO 4750GE
+  RTX A2000 Laptop GPU
+  R9 360
+  SudoMaker Virtual Display Adapter
+  R9 260
+  Eng Sample: 100-000000098-40_39/27_Y
+  Parsec Virtual Display Adapter Ryzen 5 5600GT
+  Quadro P4000 with Max-Q Design
+  GeForce4 448 Go
+  Tesla C2070
+  FirePro 3D V8750
+  GRID P100-16Q
+  R4
+  RTX PRO 500 Blackwell Generation Laptop GPU
+  6200SE TurboCache
+  Ryzen 7 4700G
+  HD 6290M
+  GT 335M
+  GeForce2 MX
+  Intel 915G,910G Express
+  Moore Threads MTT S30
+  Intel GMA 3150 Express
+  Mobility Radeon HD 4225
+  RTX 5090 D
+  Ryzen 5 PRO 4650GE with Radeon Graphics
+  HD 8690A
+  GTX 285M
+  R7 A12-9700P RADEON
+  FireMV 2450
+  Ryzen 7 Pro 4750G with Radeon Graphics
+  RX 780
+  NVIDIA A40
+  R5 235 + HD 8570D Dual
+  R7 M380
+  GT 330
+  Quadro FX 360M
+  R7 + R7 200 Dual
+  Quadro M4000
+  Ryzen 9 6900HS
+  HD 8570M
+  RX 7800M
+  Quadro K2200
+  Intel G41 Express-Chipsatz
+  R7 M350
+  R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G
+  A40-48Q
+  Quadro M6000 24GB
+  FirePro V3800
+  Ryzen 9 PRO 6950HS with Radeon Graphics
+  HD 7500G + HD 7500M/7600M Dual
+  FX 5700
+  HD 8550G
+  SUMO 964A
+  HD 7640G
+  GT 610M / GT 620M / GT 710M / GT 720M / GT
+  CXDisplay Device
+  RX 550X
+  Ryzen 5 PRO 4500U
+  GT 240
+  HD 7520G + 7610M Dual
+  R8 M365DX
+  G210
+  GT 120 / 9500 GT
+  RTX 5060 Laptop GPU
+  Quadro M6000
+  Ryzen 7 7730U
+  Quadro 400
+  Ryzen 3 5300GE with Radeon Graphics
+  AMD AMD Custom GPU 0405
+  R7 A10-8750
+  Snapdragon X Elite - X1E78100 - Qualcomm Adreno GP
+  210
+  Quadro FX 500/FX 600
+  Intel HD Graphics 4600
+  FX 5200SE
+  R9 M265X
+  Ryzen 3 5425U with Radeon Graphics
+  R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G
+  MX250
+  Quadro NVS 55/280 PCI
+  HD 6650M
+  RX 6500 XT
+  Mobility Radeon X2300 HD
+  Intel Haswell HD - GT1
+  R7 PRO A12-8800B
+  GRID P40-6Q
+  R7 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G
+  Surface Duo Adreno 640 GPU
+  GRID P4-2Q
+  HD 5600/5700
+  Barco MXRT 5400
+  NVS 310
+  RX 6650 XT
+  Ryzen 5 7533HS
+  7000M
+  840M
+  Quadro2 MXR/EX
+  R7 + HD 7700 Dual
+  RX 5700m 8GB 256 bit Ryzen 5 5600U
+  ALL-IN-WONDER RADEON 8500DV
+  Pro 460
+  MOBILITY RADEON 9000
+  RADEON IGP 34xM
+  FireGL V7200
+  RX Vega Ryzen 3 5300U
+  Mobile Intel 945 Express
+  nForce 780a SLI
+  FX 5700VE
+  Intel HD Graphics 5300
+  Lebo Virtual USB Monitor
+  HD 8550G + HD 8670M Dual
+  Ryzen 7 5700U
+  GTX 760 Ti
+  GTX 965M
+  RTX 5090 D v2
+  R9 370
+  SuperDisplay Virtual Adapter
+  GRID RTX6000-8Q
+  X1600 XT
+  HD 7560D + 7700 Dual
+  RTX 3060 Laptop GPU
+  Seria Mobility Radeon HD 3400
+  EIZO Quadro MED-XN51LP
+  HD 7520G + 8600/8700M Dual
+  NV44
+  HD 8550G + HD 8600/8700M Dual
+  Quadro FX 3400/4400
+  RTX 3050 OEM
+  RX 6850M XT
+  Mobility Radeon HD 4250
+  Meta Virtual Monitor Ryzen 5 7600X 6-Core
+  HD 8670D + HD 6670 Dual
+  Q12U-1
+  Intel Arc A310 LP
+  B8DKMDAP
+  Ryzen Z2 Go
+  A16-16A
+  Ryzen 7 PRO 4750GE with Radeon Graphics
+  HD 8470D + HD 7500 Dual
+  Ryzen 3 PRO 5355GE
+  Matrox M9125 PCIe x16
+  Intel Arc Pro A40/A50
+  S3 Inc. Savage4
+  Quadro FX 3800
+  GT625M
+  Intel Iris 550
+  GeForce4 Ti 4600
+  RADEON X600XT
+  HD 5850
+  HD 6470M
+  HD 7640G + HD 7600M N HD 7600M Dual
+  MX130
+  PRO V710 MxGPU
+  Ryzen 5 PRO 5675U with Radeon Graphics
+  HD 7520G + HD 7500/7600 Dual
+  HD 8970M
+  RX 6650M
+  Rage Fury Pro/Xpert 2000 Pro
+  R7 A8-7650K
+  GTX 460
+  NVIDIA TITAN Xp
+  R9 M275
+  GT 1010
+  6500
+  Ryzen 7 PRO 4700G
+  R5 A10-9630P 4C+6G
+  HD 6320 Graphic
+  R7 7850A10-7850K
+  MOBILITY FireGL V3200
+  RTX 5090
+  HD 7520G + 7400M Dual
+  HD 7660G + 8670M Dual
+  R7 A8-7500
+  Qualcomm Adreno 540 GPU
+  X1550 64-bit
+  N18E-Q1
+  GT 130
+  Firepro M4100
+  FireGL V3400
+  FX 5200
+  Quadro RTX 5000
+  830M
+  RTXA6000-8Q
+  RADEON E2400
+  Intel HD Graphics Family
+  IGP 320M
+  Vega 3 Athlon 320GE
+  Pro Vega 48
+  Ryzen 5 7600X3D 6-Core
+  GeForce4 MX 440 with AGP8X
+  S3 Chrome S27 DDR3
+  Intel UHD Graphics
+  RADEON 9200 PRO Family
+  Quadro P2000
+  FirePro 2450
+  Quadro FX 370 LP
+  Matrox G200eW WDDM 1.2
+  EIZO Quadro MED-XN92
+  Quadro FX 560
+  HD 7640G + 7690M Dual
+  7350 LE
+  Sangfor TitanGPU controller
+  Matrox Parhelia 256MB
+  Quadro P500
+  Athlon PRO 3045B
+  HD 8570D + HD 7700 Dual
+  RADEON IGP 320
+  Snapdragon X Plus - X1P64100 - Qualcomm Adreno GPU
+  Matrox M9120 PCIe x16
+  GTX 560
+  Mobility Radeon HD 3870
+  Eng Sample: 100-000000544-40_Y
+  HD 8550G + HD 7600M Dual
+  RGH Drivers v3
+  HD 7640G + HD 7700M Dual
+  Matrox G200e WDDM 1.2
+  Athlon 300GE
+  A16-2B
+  FX 5700LE
+  HD 8550G + R5 M200 Dual
+  GRID K160Q
+  Intel 82865G Controller
+  RTX A3000 Laptop GPU
+  Ryzen 5 PRO 7530U with Radeon Graphics
+  RX Vega 11
+  780M
+  EIZO Quadro MED-XN71
+  RX Vega 10 Ryzen 7 3750H
+  Quadro K4000M
+  Mobile Intel 915GM/GMS/910GML Express
+  R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G
+  GT 645
+  GTX 680M KY_Bullet Edition
+  Quadro P520
+  Ryzen 7 PRO 6850U with Radeon Graphics
+  9600M GT / GeForce GT 220M
+  Quadro K2200M
+  HD 2600 Pro AGP
+  HD 7670A
+  HD 7520G + HD 8600/8700M Dual
+  ION
+  MOBILITY RADEON 9000/9100 IGP
+  SAPPHIRE Radeon X1550
+  L40S
+  RADEON HD6530D
+  7900 GT
+  RX 6750 GRE 12GB
+  VIA/S3G UniChrome Pro IGP
+  660M
+  Ryzen 3 PRO 7330U with Radeon Graphics
+  Eng Sample: 100-000000560-40_Y
+  GRID P40-1A
+  7050 / nForce 620i
+  R5 PRO A10-8730B 4C+6G
+  Mobile Intel - famiglia Express Chipset 45
+  ALL-IN-WONDER X800 GT
+  HD 8570D + HD8490 Dual
+  Intel Arc A380E
+  GT 120M
+  EIZO Quadro MED-XN72
+  FirePro 3D V5700
+  R7 A10-7700K
+  R7 M460
+  Diamond X1300-PCIE 256MB
+  9450
+  Intel UHD Graphics 605
+  NVIDIA A40-12Q
+  Ryzen 7 PRO 5800H
+  Intel Arc A770M
+  RTX 2050
+  GT 220M
+  R7 FX-8800P
+  945A
+  R6 A10-8700P
+  GT 340
+  SUMO 9644
+  GRID P4-1B
+  HD 7310
+  HD 7310 - Carte graphique
+  Quadro FX 580
+  All-in-Wonder X1900
+  MOBILITY RADEON X600
+  6800 GS/XT
+  Horizon Indirect Display Driver
+  HD 7560D + 6570 Dual
+  VIA/S3 Chrome 520 IGP
+  Ryzen 5 5625U with Radeon Graphics
+  RadeonT RX Vega 11
+  Quadro FX 1500
+  Vega 3
+  R9 M375X
+  RTX 4080 Super
+  HD 8790M / R9 M290X
+  R7 A10-8850
+  GTX 480M
+  GTX 1660 Ti (Mobile)
+  GT 730M
+  GeForce2 Integrated GPU
+  Intel Q45/Q43 Express-Chipsatz
+  GT 635M
+  R7 A8-9600 RADEON
+  HD 8280E
+  Intel Arc
+  RADEON HD6370D
+  RTX 5070 Ti
+  Vega 9 Ryzen 5 3550H
+  NVIDIA A10G
+  Quadro4 980 XGL
+  9800M GS
+  Quadro 600
+  HD 8550G + 8500M Dual
+  Intel HD Graphics manual-15.28-1861
+  Quadro M520
+  RX Vega - Renoir Ryzen 3 5300U
+  HD 6450A
+  RadeonT 680M Ryzen 7 7735HS
+  GRID RTX8000P-12A
+  Ryzen 7 PRO 6860Z
+  610M Ryzen 9 7945HX
+  RTX A4000 Laptop GPU
+  HD 8850M
+  HD 6900M
+  Ryzen 3 PRO 4450U with Radeon Graphics
+  R7 A365
+  9650M GS
+  RX 7650 GRE
+  6200 TurboCache
+  Mobility Radeon HD 5450
+  Intel HD Graphics 615
+  NVS 5400M
+  RX 580X
+  Qualcomm Adreno 7c Gen 3 GPU
+  9500M G
+  RX 5600M
+  Vega 8 Ryzen 3 PRO 3200GE w/
+  HD 3870 X2
+  RTX 4070 Laptop GPU
+  Matrox M9140 LP PCIe x16
+  RX 5300M
+  HD 6670 + 7660D Dual
+  EIZO MED-X5000
+  R9 A375
+  RTX 4050 Laptop GPU
+  HD 7690M
+  Mobile Intel 965 Express
+  Meta Virtual Monitor Ryzen 5 5500U
+  R7 PRO A10-8750B
+  FirePro 3D V3750
+  Quadro FX 4700 X2
+  HD 7500G
+  HD 7660G + 7400M Dual
+  Matrox Millennium P690 Plus LP PCIe x16
+  HD 7540D + 7500 Dual
+  RADEON XPRESS 200
+  RTX 3070 Laptop GPU
+  R7 A10-9700E RADEON
+  RTX 2060 with Max-Q Design
+  Parsec Virtual Display Adapter Ryzen 7 5825U
+  HD 7560D
+  RADEON 9600 XT
+  HD 2400
+  GT 720A
+  910M
+  HD 3470
+  nForce 980a/780a SLI
+  Intel HD Graphics 3000
+  R5 M335
+  GTX 280
+  Ryzen 7 5825U with Radeon Graphics
+  HD 8650D
+  A40-3Q
+  TITAN V
+  Eng Sample: 100-000000151-40_38/33_Y
+  Quadro NVS 280 PCI
+  Pro WX 7130
+  Intel - Express Chipset Q45/Q43
+  8050S
+  R9 M380
+  GTS 450
+  A10-24Q
+  HD 7660G N HD 7660G + HD 7700M N HD 7700M D
+  GT 545
+  RTX 4000 Ada Generation Laptop GPU
+  Ryzen Embedded V2718
+  Quadro K620M
+  HD 7730M
+  Intel G35 Express
+  RTX 4090 Laptop GPU
+  RADEON X700 SE
+  HD 7640G + 7650M Dual
+  AI PRO R9700
+  Quadro K4000
+  GT 325M
+  8800 GS
+  RADEON X550
+  GTS 350M
+  Ryzen 7 7735H
+  Quadro 5000
+  7050 / nForce 630i
+  9800M GTS
+  EPYC 4484PX 12-Core
+  8800 GTX
+  TENSOR 1.0 Driver Intel HD 530
+  MxGPU
+  GT 420M
+  6800 Ultra
+  FirePro 3D V7750
+  Matrox M9128 LP PCIe x16
+  Quadro RTX 3000 with Max-Q Design
+  RADEON X600 SE
+  9400M G
+  NVS 300
+  HD 7660D + HD 7400 Dual
+  R9 M365X
+  FirePro M4000
+  Ryzen 5 3550H
+  Eng Sample: 100-000000149-40_40/30_Y
+  Mobility Radeon HD 3470 Hybrid X2
+  R6
+  Vega 3 Ryzen Embedded R1305G
+  660M Ryzen 5 6600H
+  Mobility Radeon HD 3470
+  940MX
+  660M Ryzen 5 7535HS
+  P106-100
+  Red Hat VirtIO GPU DOD controller
+  HD 7640G + HD 8750M Dual
+  Intel Arc Pro
+  HD 7770
+  Intel HD Graphics 610
+  RX 6600S
+  MirrorOp Virtual Adaptor Ryzen 7 PRO 5850U
+  GTX 1050 with Max-Q Design
+  HD 4270
+  HD 7520G N HD 7520G + HD 7500/7600 7500/760
+  HD 7660D + R7 240 Dual
+  505
+  RADEON 7500
+  GeForce4 440 Go 64M
+  FirePro W7000
+  Inspiration CG620 MxGPU
+  HD 7850M
+  FirePro V5700
+  Intel(R) UHD Graphics
+  Quadro FX 3500M
+  Ryzen 3 7330U
+  FireGL V3350
+  Ryzen 5 Microsoft Surface Edition
+  GRID V100D-8Q
+  FirePro V3900
+  HD 8470D + HD 6450 Dual
+  Ryzen 5 7600X 6-Core
+  6100 nForce 400
+  Ryzen 5 PRO 5655GE
+  Ryzen 5 5500H
+  Ryzen 5 PRO 4400GE with Radeon Graphics
+  FX Go 5600
+  GT 730A
+  GTX 760 Ti OEM
+  HD 2600 PRO
+  FirePro W5130M
+  9600 GS
+  GeForce4 Ti 4800 SE
+  FirePro 2460
+  6150SE
+  HD 7310G
+  Ryzen 5 PRO 5655G
+  GRID P40-2B
+  Intel Arc Pro 140T GPU
+  Pro 5700 XT
+  Intel 4th Generation Haswell HD
+  Ryzen 5 5500GT
+  GRID RTX8000-4Q
+  FireStream 9370
+  MOBILITY FIREGL T2/T2e
+  GPU
+  8700M GT
+  Ryzen 5 7535U
+  RX 6600M
+  Quadro P4200
+  Intel 865 Embedded Controller
+  Intel Media Accelerator 600
+  Intel Poison Ivy
+  Tesla V100-SXM2-16GB
+  Ryzen 5 7535H w/
+  510
+  L2
+  6200 A-LE
+  HD 2900 PRO
+  GRID V100-8Q
+  Ryzen 3 PRO 4350GE with Radeon Graphics
+  6100 nForce 405
+  HD 7560D + 6450 Dual
+  FireGL V3100
+  RTX 3060 8GB
+  Meta Virtual Monitor
+  8200
+  RADEON X850 XT Platinum Edition
+  HDG 4670
+  RTX 3050 6GB Laptop GPU
+  Intel HD Graphics 515
+  Ryzen 7 PRO 6850HS with Radeon Graphics
+  Quadro FX 500/600 PCI
+  HD 6550A
+  L4-6Q
+  GTX 460M
+  Pro 5600M
+  HD8970M
+  S3 Chrome S25 DDR2
+  GTX 860M
+  R5 M255
+  GRID T4-2Q
+  HD 7640G + HD 7700M N HD 7700M Dual
+  Mobility Radeon HD 4570
+  Ryzen 9 9900X 12-Core Processor
+  GRID M6-1Q
+  Ryzen 5 PRO 5650G with Radeon Graphics
+  Ryzen 5 PRO 6650H
+  MX350
+  FirePro V5900
+  S3 Chrome 430 ULP
+  PRO W6600M
+  HD 8410G
+  Ryzen 7 4700GE
+  Vega 8 Mobile
+  Quadro FX 4000
+  610M Ryzen 9 7845HX
+  9800 GTX
+  GeForce4 440
+  RTX A2000 8GB Laptop GPU
+  Quadro NVS 450
+  Vega 3 Athlon Gold PRO 3150GE
+  Intel 3rd Generation IvyBridge HD GT1
+  R9 285 / 380
+  Ryzen 3 7335U with Radeon Graphics
+  Quadro NVS 120M
+  HD 8550G + 8600/8700M Dual
+  RTX 3050 Laptop GPU
+  Mobility Radeon X1700
+  HD 6750
+  Vega 6 Ryzen 3 3300U
+  HD 8650G + 8570M Dual
+  Intel Iris Pro 5200
+  Ryzen 5 7400 6-Core
+  Vega 10
+  HD 7660D + HD 6670 Dual
+  R9 M390X
+  Ryzen 3 PRO 4200G with Radeon Graphics
+  ASUS V9520-X V62.11
+  310M
+  FX 5900XT
+  RX Vega11 Ryzen 7 Microsoft Surface Edition
+  GTX 775M
+  Ryzen 5 2500U with Radeon Vega
+  R7 A12-9800E RADEON
+  Miracast display port driver V3
+  Qualcomm Adreno 680 GPU
+  RADEON HD7450
+  RTX 3050 4GB Laptop GPU
+  Quadro FX 380 LP
+  810M
+  TRINITY DEVASTATOR MOBILE
+  Ryzen Embedded R2544
+  GTX 770M
+  ZX C-1080
+  GeForce4 Ti 4400
+  EPYC 4464P 12-Core
+  Quadro M500M
+  Intel Arc 130V GPU
+  Quadro K4100M
+  Intel HD Graphics P530
+  Vega 2
+  HD 8650G + 8600M Dual
+  HD 8610G + HD 8600M Dual
+  8040S
+  VE
+  Ryzen 7 PRO 5750G with Radeon Graphics
+  Mobility Radeon HD 540v
+  Snapdragon X Elite - X1E001DE - Qualcomm Adreno GP
+  HD 8330E
+  HD 6250
+  GeForce4 MX 460
+  HD 7560D + HD 7670 Dual
+  Ryzen 7 7800X3D 8-Core
+  MirrorOp Virtual Adaptor Ryzen 5 Pro 7535U
+  L4-1Q
+  Mobility Radeon HD 565v
+  NVIDIA A40-4Q
+  Quadro NVS 285
+  Ryzen 7 5800U with Radeon Graphics
+  Ryzen 7 PRO 5750GE with Radeon Graphics
+  Quadro FX 1800M
+  HD 7670
+  GF117
+  660M Ryzen 5 7533HS
+  9400
+  HD 8650G + HD 8670M Dual
+  Pro WX 4130
+  Qualcomm Adreno 675 GPU
+  Intel Iris 6100
+  Ryzen 5 PRO 6650U
+  GRID RTX6000-6Q
+  RADEON X550XT
+  RX 9060 XT 8GB
+  RadeonT Vega 8
+  A6 Micro-6500T Quad-Core APU with RadeonR4
+  Vega 3 Athlon Gold 3150G
+  HD 5450
+  Tesla K80
+  Pro 555
+  Ryzen 7 PRO 6850U
+  RADEON X800 XT Platinum Edition
+  HD 7690M XT
+  Quadro M1200
+  GRID RTX6000P-6Q
+  HD 2900 XT
+  Quadro 1100M
+  680M
+  RTX 5000 Ada Generation Embedded GPU
+  HD 5830
+  GeForce2 MX/MX 400
+  Intel HD Graphics 5500
+  Matrox Millennium P650 PCIe 128
+  RTXA5000-8Q
+  GTX 465
+  FireMV 2200 PCIe
+  HD 7400G
+  Pro W5500M
+  Quadro K2000M
+  Quadro FX Go1400
+  9300 GE
+  HD 7520G N HD 7520G + HD 7600M N HD 7600M D
+  Vega 3 Ryzen 3 3250U
+  8060S
+  R7 PRO A10-9700
+  999 GTX
+  RADEON 9500
+  GT 650M
+  (TM) Graphics
+  Intel HD Graphics P3000
+  Ryzen 7 PRO 6860Z with Radeon Graphics
+  Xabre
+  Intel Haswell HD - GT2
+  FirePro M4170
+  Mobility FireGL V5725
+  GT 320
+  Quadro NVS 290
+  SAPPHIRE RADEON 9600 ATLANTIS
+  9500 GT
+  HD 7750
+  RTX 2000 Ada Generation
+  Mobility Radeon HD 5570
+  GT 420
+  RTX 2070 Super with Max-Q Design
+  Ryzen 5 7535U with Radeon Graphics
+  VIA Chrome9 HC IGP Family
+  Intel G41 Express Chipset
+  RX 6300
+  GRID M60-2Q
+  GRID T4-4Q
+  RTX 5050
+  HD 7600G N HD 7600G + HD ON HD Dual
+  7100 GS
+  HD 7600G + HD 7400M Dual
+  VIA Chrome9 HC IGP Prerelease WDDM 1.1
+  Quadro RTX 4000 (Mobile)
+  Ryzen 5 7430U with Radeon Graphics
+  Pro 570
+  HD 8670D + R5 330 Dual
+  HD 4250
+  HD 6750M
+  Intel HD Graphics P4000
+  M535DX
+  Barco MXRT 7100
+  Pro W5700
+  A16-2Q
+  FirePro M6100 FireGL V
+  MOBILITY RADEON X700 XL
+  RX 7900 GRE
+  Vega 8 Ryzen 5 3450U
+  Ryzen 5 5500U with Radeon Graphics
+  Ryzen Embedded V2516
+  Quadro 1000M
+  FirePro V7900
+  Quadro FX 3450
+  Intel 915G/915GV/910GL Embedded Controller Functio
+  6800 XE
+  GeForce4 MX 4000
+  FirePro S10000
+  GTX 670M
+  Go 6400
+  R7 PRO A10-8770
+  Mobility Radeon HD 3450
+  RX 6800S
+  Quadro K3100M
+  GT 745M
+  R5 PRO A6-8530B 2C+4G
+  R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C
+  GRID P4-2A
+  GRID P6-4A
+  HD 8450G + 8600/8700M Dual
+  RADEON 9600 TX Family
+  IncrediblE HD 4000
+  710M
+  R7 M370
+  GTX 1050 (Mobile)
+  P102-100
+  Vega 3 Athlon Gold 3150U
+  Ryzen 9 9950X 16-Core Processor
+  Quadro P6000
+  Mobility Radeon HD 530v
+  R7 A360
+  GTX 680M
+  840A
+  Go 7800 GTX
+  Ryzen 3 7330U with Radeon Graphics
+  HD 7640G + 7610M Dual
+  MOBILITY RADEON 9600 PRO TURBO
+  Pro WX 5100
+  Qualcomm Adreno X1-45 GPU
+  Ryzen 3 5425U
+  FirePro S9050
+  EPYC 4344P 8-Core
+  Intel 2nd Generation SandyBridge HD
+  6600
+  RTX 5070 Laptop GPU
+  X1550
+  FirePro W8100
+  6200A
+  Ryzen 5 5500GT with Radeon Graphics
+  RX Vega11 Ryzen 7 3750H
+  Intel UHD Graphics P750
+  FirePro W5000
+  R5 PRO A8-9600B 4C+6G
+  FirePro M6100
+  HD 7500G + 7550M Dual
+  GRID P4-8A
+  HD 7520G + HD 7700M Dual
+  FX 5500
+  8300 GS
+  Quadro P5200 with Max-Q Design
+  S3 Chrome S25
+  RX Vega 6 Ryzen 3 3200U
+  Go 7400
+  Ryzen 5 5600H with Radeon Graphics
+  320M
+  RadeonT 780M
+  HD 7560D + 7570 Dual
+  GeForce2 MX with TV Out
+  Quadro FX 2700
+  RTX 5050 Laptop GPU
+  Quadro RTX 4000
+  RX Vega 11 Ryzen 7 3700U
+  Mobility Radeon X1900
+  GTX 1650 with Max-Q Design
+  Matrox G200e WDDM 2.0
+  Ryzen 7 4800U
+  Quadro NVS 440
+  Virtual Desktop Monitor
+  HD 7620G + HD 8600M Dual
+  Ryzen 7 Microsoft Surface Edition
+  Intel 946GZ Express
+  FireGL V7700
+  HD 7650A
+  HD 2400 PCI
+  G 105M
+  GT 230M
+  9700M GT
+  Pro Vega 56
+  Intel HD Graphics 5000
+  VIA/S3G KM400/KN400
+  R7 430
+  7600 GT
+  GRID RTX6000-1B
+  RADEON 9800 PRO
+  GT 640M LE
+  Xpress 1300M
+  GTX 650
+  RTX 2080 Super with Max-Q Design
+  GT 430
+  HD 7660G + HD 7730M Dual
+  GTX 680MX
+  Barco MXRT 5500
+  A16-4Q
+  GeForce2 MX 100/200
+  Ryzen 9 5900H
+  PRO W7700
+  HD 7560D + HD 6670 Dual
+  Quadro 2100M
+  R7 M260DX
+  RTXA5000-24Q
+  Glenfly Arise-GT-10C0
+  Intel Media Accelerator 3150
+  6600M
+  Quadro M620
+  HD 8670D + R7 200 Dual
+  HD 7640G + HD 8670M Dual
+  8100 / nForce 720a
+  E6460
+  Mobility Radeon HD 3670
+  Intel Arc 140T GPU
+  Pro V340 MxGPU
+  Pro WX 2100
+  NVIDIA GeForce3 Ti200
+  6600 GT
+  Intel Arc B570
+  GRID P100-1B
+  HD 7560D + HD 7700 Dual
+  HD 8210E
+  Intel UHD Graphics 770
+  GT 820M
+  R6 A10-9600P 4C+6G
+  Intel UHD Graphics 630
+  HD 8610G + 8600M Dual
+  Ryzen 5 5560U
+  Ryzen 7 9800X3D 8-Core Processor
+  GRID P40-12Q
+  Vega 8 Ryzen 5 3550H
+  X1300 PRO
+  RADEON 9200 LE Family
+  HD 6290
+  GTX 675MX
+  Vega 11
+  HD 7520G + 7500/7600 Dual
+  Ryzen 5 7535HS with Radeon Graphics
+  Ryzen 9 4900H
+  PRO W7500
+  GRID M60-4Q
+  R7 PRO A8-8670E
+  3020e
+  RADEON X850 PRO
+  PCX 5750
+  HD 8550D
+  GT 440
+  615
+  HD 7450A
+  HD 7540D
+  MOBILITY IGP 9000/9100
+  VIA C9-HD IGP
+  Go 7950 GTX
+  Ryzen 7 PRO 5875U
+  R7 A10-7850K
+  Ryzen 9 6900HS with Radeon Graphics
+  Mobility Radeon HD 550v
+  RX 7600M
+  8400M GS
+  Matrox Millennium P690 PCIe x16
+  R9 M280X
+  GTX 550 Ti
+  7300 SE
+  RADEON X800GT
+  310
+  GT 610
+  Tesla V100-PCIE-16GB
+  HD 7660G N HD 7660G + HD 7600M N HD 7600M D
+  RADEON 7000 / RADEON VE Family
+  HD 8670M
+  Ryzen 9 PRO 6950H
+  GRID P100-8Q
+  940M
+  HD 8650G + 7670M Dual
+  Firepro W4190M
+  R5 A10-9620P 4C+6G
+  RTX A2000 12GB
+  GRID M60-8Q
+  PHDGD Solo 2 x64
+  FirePro V8700
+  HD 8610G + 8500M Dual
+  Mobile Intel HD
+  Ryzen 3 PRO 4300U with Radeon Graphics
+  GRID V100D-2Q
+  GTX 1050 Ti (Mobile)
+  GRID M6-0B
+  GT 740
+  TITAN Xp COLLECTORS EDITION
+  XiaoMi 9 Adreno 640 GPU
+  Intel 82915G/GV/910GL Express
+  RTX 5060 Ti 16GB
+  Ryzen 7 PRO 4750G
+  GRID T4-1Q
+  Intel Iris Plus 650
+  HD 8870M
+  GRID M10-0B
+  Quadro NVS 150M
+  VIA Chrome9 HC IGP Family WDDM
+  HD 7660G + 7670M Dual
+  GTX 570
+  RADEON 9600 PRO Family
+  Other
+  Intel Haswell
+  RX 560X
+  7950 GT
+  L4-2Q
+  Xpress 1150
+  Intel UHD Graphics 617
+  GT 745A
+  E8870PCIe
+  RTX PRO 6000 Blackwell Server Edition
+  RADEON X800 GT
+  R7 A10 Extreme Edition
+  HD 8600/8700M
+  Vega 3 Athlon 3000G
+  R5 A6-9500 2C+6G
+  HD 8650G + R5 M200 Dual
+  Ryzen 9 7900 12-Core
+  HD 8510G
+  GRID M10-2B
+  Go 6800 Ultra
+  660M Ryzen 3 7335U
+  Matrox G200eW
+  Ryzen 7 4700U
+  OPAL XT/GL
+  Tesla C2050
+  Go 7600
+  Ryzen 5 PRO 4650U with Radeon Graphics
+  RadeonT RX 6850M XT
+  RX Vega 11 Ryzen 7 3750H
+  Tesla M6
+  HD 7570M
+  ALL-IN-WONDER 9800
+  MOBILITY RADEON XPRESS 200
+  RTX 2070 (Mobile)
+  Ryzen 5 6600U
+  Ryzen 7 PRO 7730U
+  G100
+  Pro Vega II
+  HD 7660G + HD 8600M Dual
+  FirePro S7150
+  Vega 8 Ryzen 3 3200GE
+  VIA/S3G UniChromeII
+  R3
+  Quadro K620
+  RX 7600 XT
+  GeForce4 440 Go
+  Vega 8 Ryzen 3 3200G
+  RTX 4080 Laptop GPU
+  HD 6770
+  R7 M440
+  Ryzen 9 5900HX with Radeon Graphics
+  GRID T4-16Q
+  GeForce4 Ti 4200
+  RTX 4000 Ada Generation
+  HD 8650G + HD 8750M Dual
+  HD 8570D + R7 200 Dual
+  Intel HD Graphics 520
+  Mobility Radeon X1450
+  Quadro M3000M
+  FirePro 3D V4800
+  Quadro K1000M
+  Matrox M9148 LP PCIe x16
+  Go 7900 GS
+  FireGL V5100
+  HD4670
+  R7 A8-7A8-7600
+  GTX 970M
+  860M
+  PRO W6300
+  Quadro P400
+  SiliconMotion SM768 WDDM2.0 Display Driver
+  GeForce2 MX with DVI-D and TV-out
+  X1950 CrossFire Edition
+  HD 7660G + HD 7600M N HD 7600M Dual
+  9800 GT 1024MB
+  HD 8570D + 6570 Dual
+  FirePro W8000
+  GTX TITAN Z
+  GRID P4-1Q
+  GRID V100-2Q
+  GTX 275
+  Quadro NVS 110M
+  HD 7350
+  R7 + R7 350 Dual
+  GTX 260M
+  T550 Laptop GPU
+  Ryzen 5 4600G with Radeon Graphics
+  Go 7900 GTX
+  RadeonT 610M
+  FireMV 2200 PCI
+  RAGE 128 PRO AGP 4X TMDS
+  HD 6850 X2
+  RX 5500M
+  L4-1B
+  Ryzen 9 4900H with Radeon Graphics
+  Ryzen 9 PRO 6950H with Radeon Graphics
+  Quadro RTX 3000
+  HD 7970M
+  Red Hat QXL controller
+  Extreme AX850 PRO
+  Vega 8 Ryzen 5 3580U
+  Ryzen 5 Pro 7535U
+  Quadro FX 1700M
+  GRID RTX6000-2Q
+  T1200 Laptop GPU
+  Intel HD Graphics 4400
+  Quadro K2100M
+  GT 740M
+  R7 M260
+  7800 GT
+  GT 130M
+  HD 8610G + R5 M200 Dual
+  Pro 5300
+  R7 G
+  HD 8670D + 6670 Dual
+  680M Ryzen 9 6900HX
+  Eng Sample: 100-000000562-40_Y
+  RTX 3060 12GB
+  Xpress 1200
+  R9 M295X
+  A100-SXM4-40GB
+  RX 6750 GRE 10GB
+  Matrox LUMA A310F
+  8800 Ultra
+  Quadro FX 350M
+  GRID P4-2B4
+  HD 8470D
+  Matrox G200eh WDDM 1.2
+  Mobility Radeon X1350
+  HD 8610G
+  HD 8730M
+  Ryzen 9 6900HS Creator Edition
+  9500M
+  2100
+  PCX 5300
+  Pro Vega 16
+  GRID M60-8A
+  Asus GTX 650 FML II EC-EGPU
+  RTX 3070 Ti Laptop GPU
+  Intel Arc 130T GPU
+  HD 7660G + HD 8500M Dual
+  GRID RTX6000-4Q
+  Quadro FX 3700M
+  R4E
+  845M
+  Intel 82852/82855 GM/GME Controller
+  Intel HD Graphics 500
+  HD 6320M
+  Intel 1st Generation Intel HD
+  RADEON 9800 SE
+  NVS 2100M
+  Tesla P4
+  HD 3850 AGP
+  RTX A1000 Laptop GPU
+  GTS 150M
+  RadeonT 660M Ryzen 5 7535HS
+  Ryzen 9 PRO 7945 12-Core
+  Intel HD Graphics 4600 manual-gen9_2015-134121
+  Ryzen 7 4800U with Radeon Graphics
+  GT 1030
+  AMD Radeon(TM) Graphics
+  Mobility Radeon X1300
+  R5 PRO A6-8570E 2C+4G
+  Intel Media Accelerator
+  Pro WX 4170
+  Qualcomm Adreno 690 GPU
+  FireGL X1
+  Ryzen 7 4800H with Radeon Graphics
+  Quadro FX 3450/4000 SDI
+  Instinct MI25 MxGPU
+  Quadro FX 770M
+  FirePro V7800
+  R7 M265DX
+  Ryzen 7 PRO 5755G
+  HD 8650G + 8500M Dual
+  RX 9070 GRE
+  Go 6200
+  VIA Chrome9 HD IGP
+  Pro 580X
+  Ryzen 7 6800U with Radeon Graphics
+  R7 PRO A12-9800E
+  MX570 A
+  9600 GSO
+  Quadro NVS 320M
+  HD 7660G + HD 7600M Dual
+  RX Vega 8
+  ION LE
+  R9 M370X
+  HD 7660D + HD 7700 Dual
+  Ryzen 7 4850U Mobile
+  GTX 1060 with Max-Q Design
+  GTX 670MX
+  Ryzen 7 7730U with Radeon Graphics
+  RADEON 9600SE
+  R2E
+  R7 A8-7600
+  Ryzen 9 6900HX with Radeon Graphics
+  MOBILITY RADEON 9700
+  L4-2A
+  Go 7700
+  X1300
+  HD 7970 / R9 280X
+  Ryzen 7 9700X 8-Core Processor
+  Athlon Silver 3050U
+  MOBILITY RADEON 7500
+  RTX 4060 Ti
+  RTX 4070 Ti Super
+  Quadro 6000
+  HD 7660G + 7700M Dual
+  R7 A12-9800 RADEON
+  GRID M6-8Q
+  GT 445M
+  HD 7660D + 7540D Dual
+  nVidia L20
+  RTX A6000
+  Mobility Radeon HD 3650
+  RX Vega Ryzen 5 5500U
+  HD 7640G N HD 7640G + HD 7670M Dual
+  Quadro FX 550
+  T400 4GB
+  HD 7640G + HD 8500M N HD 8500M Dual
+  HD 8670D + R5 235 Dual
+  Intel UHD Graphics P630
+  GTX 780M
+  Quadro K510M
+  Vega 8 Ryzen 5 3500U
+  GTX 1650 Ti
+  PRO W6600X
+  RTX 6000 Ada Generation
+  GT 640M
+  S3 SuperSavage/IXC 1014
+  HD 8470D + 6570 Dual
+  HD 8570D + 6670 Dual
+  SAPPHIRE RADEON 9000 ATLANTIS PRO
+  FirePro W7000 Adapter
+  T1000 8GB
+  ASUS AGP-V3800PRO v31.40H
+  GRID M60-0Q
+  GT 630
+  Intel Q45/Q43 Express Chipset
+  945M
+  HD 4890
+  Intel 82945G Express
+  Vega 11 Ryzen 5 PRO 3350G
+  R7 A8-7680
+  L40S-48Q
+  R1E
+  9500M GS
+  GRID K280Q
+  GT 750M
+  Intel 82915G Express
+  HD 7660D + 7670 Dual
+  Pro 5500M
+  8800 GTS 512
+  HD 5670
+  Go 6600 TE/6200 TE
+  R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G
+  9550 / X1050
+  Mobility Radeon X1400
+  Ryzen 5 4600H with Radeon Graphics
+  VirtualMonitor Device
+  Quadro 5010M
+  Intel Media Accelerator 500
+  R7 A265
+  Tesla C2075
+  Barco MXRT 7500
+  TM
+  Moore Threads S3000 MTvGPU-1132
+  FX 5900 Ultra
+  Quadro FX 2500M
+  GRID K2
+  RX 6950 XT
+  7100 / nForce 620i
+  HD 7290M
+  GRID K240Q
+  VIA Chrome9 HCM IGP
+  GT 710
+  RTX PRO 4000 Blackwell Generation Laptop GPU
+  RDPDD Chained DD
+  3015e
+  HD 8550G + R5 M230 Dual
+  RX Vega11
+  HD 7660D + 6570 Dual
+  RTX 2000 Ada Generation Embedded GPU
+  Quadro T2000 with Max-Q Design
+  R7 A10 PRO-7850B
+  HD 7640G + HD 8500M Dual
+  FirePro V7000
+  GeForce9400M
+  Mobile Intel 945GM Express
+  HD 3870
+  Ryzen 5 9600X 6-Core Processor
+  Intel UHD 770#0x1c005d839205d7e9#
+  R5 435
+  RX Vega Ryzen 5 5600GT
+  R8 M445DX
+  FireGL V3300
+  Quadro K2000D
+  HD 6520G
+  HD 7640G + R5 M200 Dual
+  HD 8570D + HD 8470 Dual
+  Quadro FX 570
+  Intel Arc A580
+  RADEON 9550
+  Intel Arc A750
+  HD 3670
+  Ryzen 5 5625U
+  FirePro S9000
+  7950 Xtreme
+  R7 PRO A12-9800B
+  R5 A10-9630P RADEON R5, 10 COMPUTE CORES 4C
+  Pro 5500 XT
+  RADEON X700 PRO
+  HD 7640G + 8570M Dual
+  HD 8790M
+  Quadro FX 380M
+  R7 A10-7800
+  RTX A4500 Laptop GPU
+  HD 7570
+  Intel Infoshock HD
+  R7 PRO A10-8850B
+  A40-24Q
+  Mobility Radeon HD 5850
+  RTX A2000
+  Quadro 4000M
+  Tesla C2050 / C2070
+  Eng Sample: 100-000000561-40_Y
+  Custom GPU 0932
+  HD 3000
+  Vega 9 Ryzen 5 Microsoft Surface Edition
+  Quadro M2200
+  Vega 11 Ryzen 5 PRO 3350GE
+  Vega 8 Ryzen 5 PRO 3500U w/
+  L40S-4Q
+  GRID K140Q
+  Ryzen 3 4300G with Radeon Graphics
+  HD 7520G + 7600M Dual
+  Quadro FX 3800M
+  R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G
+  Ryzen 3 5300U
+  Quadro 500M
+  TM R9 A360
+  HD 8610G + HD 8500M Dual
+  FirePro M40003
+  HD 8650G + 8600/8700M Dual
+  Ryzen 5 PRO 5650GE with Radeon Graphics
+  RX 9070 XT
+  730A
+  A40-6Q
+  Ryzen Embedded V2546
+  Quadro K1200
+  RemotePC Adapter
+  Ryzen 7 PRO 5755GE
+  Ryzen 3 PRO 5475U with Radeon Graphics
+  Snapdragon X Elite - X1E80100 - Qualcomm Adreno GP
+  FirePro 3D V8700
+  GTX 980M
+  Qualcomm Adreno 618 GPU
+  FirePro RG220
+  Microsoft Basic Display Adapter Ryzen 5 3550H
+  TITAN V CEO Edition
+  Matrox G200eR WDDM 2.0
+  GTS 160M
+  HD 8570D + HD 6670 Dual
+  HD 7540D + 6570 Dual
+  Quadro FX 570M
+  630
+  Ryzen 7 4700G with Radeon Graphics
+  R9 M385X
+  GRID T4-8Q
+  Vega 3 Athlon PRO 300GE w/
+  Intel Iris Plus
+  Vega 3 Ryzen Embedded R1505G
+  6800 GS
+  RX Vega 10
+  HD 7600G + 7450M Dual
+  Intel 82915G/GV/910GL Advanced v3.5
+  GRID M60-1Q
+  R5 A10-9600P 4C+6G
+  Ryzen 3 PRO 5350GE with Radeon Graphics
+  HD 7620G + HD 8670M Dual
+  RX 6650M XT
+  Barco MXRT 7600
+  Quadro NVS 285 128MB
+  R7 A8-7500 4C+6G
+  Intel HD Graphics 6000
+  Ryzen 7 Extreme Edition
+  SQExtFramebufferUmode Device
+  Pro WX 4100
+  HD 7640G + 7700M Dual
+  Ryzen 7 5800H
+  HD 4670
+  680M Ryzen 7 7735HS
+  RadeonT 660M Ryzen 5 6600H
+  Mobility Radeon HD 5650
+  Intel HD Graphics P4600/P4700
+  540X
+  RX Vega 11 Ryzen 5 3400GE
+  Quadro P620
+  Ryzen 5 5600GT with Radeon Graphics
+  Quadro FX 370M
+  GRID V100-16Q
+  GT 120
+  Quadro FX 5800
+  R6 + R7 M265DX Dual
+  R5 420
+  Intel(R) Graphics
+  9200M GS
+  R7 A10-7870K
+  RTX 3050
+  RX 7900 XTX
+  L4-12Q
+  VIA Chrome9 HC IGP WDDM
+  HD 7640G N HD 7640G + HD 8570M Dual
+  Quadro FX 1500M
+  R7 + R5 Dual
+  Vega 3 Ryzen Embedded R1606G
+  HD 7450
+  Quadro P3000
+  HD 8950
+  HD 8550G + 8690M Dual
+  Ryzen 3 PRO 7330U
+  GTS 240
+  RADEON X800 PRO
+  Qualcomm Adreno 685 GPU
+  Pro 560
+  FirePro W7100
+  Mobility Radeon HD 5870
+  R9 M485X
+  7200 GS
+  Barco MXRT 5450
+  X1200
+  Vega 9
+  R5 A6-9500E RADEON R5, 6 COMPUTE CORES 2C+4
+  GT 625
+  HD 8500M/8700M
+  Sky 500
+  MIRRORV3
+  L40S-24Q
+  HD 8670D + 8570 Dual
+  6100 nForce 430
+  RADEON XPRESS 200 CROSSFIRE
+  HD 5750
+  HD 8550G + 7600M Dual
+  9600M GT
+  Mobility Radeon HD 4330
+  A10G
+  G102M
+  HD 6800M
+  Intel 82845G/GL/GE/PE/GV Controller
+  MX230
+  HD 6550D
+  HD 7560D + R5 235 Dual
+  R7 PRO A6-9500 2C+6G
+  8800 GT
+  RX 6700M
+  RADEON 8500 Family
+  7300 SE/7200 GS
+  HD 4290
+  Quadro FX 540
+  FirePro W7170M
+  GeForce2 Ultra
+  RTX A1000 Embedded GPU
+  Ryzen 5 PRO 6650U with Radeon Graphics
+  RTX PRO 3000 Blackwell Generation Laptop GPU
+  Quadro M5000
+  6150
+  Qualcomm Adreno 630 GPU
+  535DX
+  HD 7640G + HD 8570M Dual
+  HD 7640G + 7400M Dual
+  HD 4200
+  R7E
+  HD 7600G + 7550M Dual
+  HD 7560D + HD 8570 Dual
+  Quadro P2000 with Max-Q Design
+  HD 4830
+  Pro 5700
+  HD 7660D + HD 7000 Dual
+  CMP 30HX
+  Intel 82945G Express-Chipsatzfamilie
+  Intel Iris 5100
+  RTX A400
+  FX 5700 Ultra
+  GRID K520
+  HD 8350G
+  R7 M445
+  Vega 8 Ryzen 3 PRO 3200G
+  S3 ProSavageDDR
+  HD8530M
+  RTX 4000 SFF Ada Generation
+  R7 M465X
+  FirePro W6150M
+  GRID T4-1B
+  HD 7420G
+  520
+  QXL KMDOD
+  GT 140
+  HD 4650 AGP
+  G205M
+  Quadro NVS 130M
+  Matrox LUMA A310FP
+  MOBILITY RADEON 9550
+  MONSTER GeForce GTX 675M
+  Mobility Radeon HD 4650
+  9650M GT
+  6200
+  RTX 3000 Ada Generation Laptop GPU
+  Ryzen 5 5600U
+  RadeonT 760M
+  HD 8550G + HD 8500M Dual
+  GT 520
+  GT 740A
+  Ryzen 5 5600G with Radeon Graphics
+  PRO W7900 Dual Slot
+  830A
+  A40-2Q
+  Tesla P100-PCIE-16GB
+  HD 8570D + HD 7000 Dual
+  R9 290 / 390
+  A16-1Q
+  Ryzen Embedded R2514
+  RX Vega 11 Ryzen 5 3400G
+  Pro 465
+  Quadro P2200
+  9300M G
+  R7 PRO A12-9800
+  FX Go5300
+  HD 7660G + 7600M Dual
+  A16-8Q
+  Intel G965 Express
+  L40S-12A
+  HD 8610G + HD 8670M Dual
+  HD 4650
+  GT 735M
+  GTS 250
+  Intel Media Accelerator HD
+  R7 M260X
+  HD 4300/4500 Serisi
+  HD 7660G + HD 7500/7600 Dual
+  GTX 1630
+  HD 3650 AGP
+  R5 PRO A6-9500B 2C+4G
+  Ryzen Embedded R2312
+  GRID P40-24Q
+  Intel UHD Graphics 750
+  R5 240
+  FirePro W4300
+  AMD Ryzen Z1 Extreme
+  L40S-1Q
+  R5 PRO A6-9500E 2C+4G
+  HD 8650G + R5 M230 Dual
+  Ryzen 5 7430U
+  Mobile Intel 945GM/GU Express
+  L4-24Q
+  R7 A8-7670K
+  6600 LE
+  GT 320M
+  R7 FX-9830P RADEON
+  FirePro M2000
+  MOBILITY RADEON X1800
+  A16-1B
+  RADEON 9500 PRO / 9700
+  GT 645M
+  GRID P40-2B4
+  HD 7640G + 8600M Dual
+  Intel Arc A770
+  RTX PRO 2000 Blackwell
+  Mobility Radeon HD 5165
+  GTX 760A
+  HD 2350
+  R5 A6-7480
+  Quadro FX 1700
+  R7 PRO A12-8830B
+  GRID K260Q
+  TENSOR 1.0 Driver Intel HD 630
+  RADEON X600 256MB HyperMemory
+  HD 7660D
+  Go 6100
+  535
+  RADEON 9200 SE
+  HD 6570
+  Mi Pad 5 Adreno 640 GPU
+  R7 + R7 250 Dual
+  ZX C960 GPU
+  RX 6800M
+  GT 525M
+  R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G
   405
-  HD 8370D
+  Intel 945G Embedded Chipset Function 0
+  Go 7300
+  GRID RTX8000-2Q
+  Athlon Gold 3150U
+  Ryzen 5 PRO 4400G with Radeon Graphics
+  HD 6670
+  HD 8450G + HD 8600M Dual
+  GT 520M
+  Quadro NVS 160M
+  HD 6450
+  EPYC 4584PX 16-Core
+  M880G with Mobility Radeon HD 4200
+  Ryzen 7 5800HS Creator Edition
+  Ryzen 7 PRO 6850HS
+  FirePro V9800
+  Ryzen 5 Pro 4650G with Radeon Graphics
+  N16P-GX
+  Ryzen 3 PRO 5475U
+  ZX Chrome 645/640 GPU
+  Quadro FX 2800M
+  GTX 1070 (Mobile)
+  Mobility Radeon HD 4270
+  RTX 2070 with Max-Q Design
+  Tesla V100-PCIE-32GB
+  HD 7520G + HD 7670M Dual
+  Ryzen 3 PRO 7335U
+  Intel Arc B580
+  GRID M10-1Q
+  R7 M270
+  Vanta/Vanta LT
+  HD 7310M
+  RX Vega 11 Ryzen 5 3350GE
+  HD 7660G + HD 8670M Dual
+  GTX 850A
+  PHDGD Sapphire GR for Mobile Intel 965
+  E8860
+  HD 8470D + 6450 Dual
+  R9 M270X
+  MOBILITY RADEON 9600
+  GRID M10-0Q
+  Quadro2 Pro
+  Quadro FX 4500
+  HD 8750M
+  RX 5500
+  R9 350
+  HD 7540D + HD 6450 Dual
+  DisplayLink USB Device Ryzen 7 5700U
+  X1600 Pro
+  P106-090
+  GT 635
+  Vega 3 Athlon Silver 3050e
+  GRID RTX6000P-4Q
+  RTX A3000 12GB Laptop GPU
+  EPYC 4364P 8-Core
+  Intel UHD 770
+  Custom GPU 0405
+  RADEON X300SE
+  9400 GT
+  R7 A10 PRO-7800B
+  GTX TITAN X
+  Mobility Radeon. HD 5470
+  Pro WX 9100
+  Quadro K5200
+  GRID M10-8Q
+  Intel HD Graphics 5200
+  RTX A4000
+  GTX 1080 with Max-Q Design
+  GRID K1
+  EPYC 4124P 4-Core
+  RX 580 2048SP
+  Ryzen 5 4600GE with Radeon Graphics
+  PRO Ryzen 5 PRO 6650U
+  R5 235 + HD 7560D Dual
+  HD 8550G + HD 8600M Dual
+  GeForce4 4200 Go
+  Intel UHD Graphics 600
+  Ryzen 7 4800HS with Radeon Graphics
+  HD 7700-serie
+  8600 GTS
+  RTX 2080 with Max-Q Design
+  RX Vega 11 Ryzen 5 3350G
+  HD 7340
+  RTX PRO 1000 Blackwell Generation Laptop GPU
+  zxcvIntel HD 620
+  9600 GT
+  Pro WX 7100
+  Mobile Intel 4 Express-Chipsatzfamilie
+  RTX 2000E Ada Generation
+  Ryzen 3 3250U
+  9700 TX w/TV-Out
+  Mirage Driver
+  Intel 82915G/915GV/910GL
+  HD 8550G + 8750M Dual
+  GTX 850M
+  R7 PRO A12-8870
+  HD 7620G + 8600M Dual
+  610M Ryzen 9 7940HX
+  Mobility Radeon HD 5470
+  Ryzen 5 4600HS with Radeon Graphics
+  Mobility Radeon HD 4200
+  R7 + R5 330 Dual
+  R5 M320
+  Mobile Intel 45 Express
+  R7 M265
+  VIA/S3G DeltaChrome IGP
+  HD 8670D + HD 7700 Dual
+  mv video hook driver2
+  GeForce4 MX Integrated GPU
+  RTX 5070
+  720A
+  Intel Arc Pro B60
+  Ryzen 3 5300U with Radeon Graphics
+  RADEON 9100 Family
+  GTX 590
+  Dell 8200
+  R7 M270DX
+  HD 6950
+  HD 6990
+  HD 8670D N HD 8670D + HD 8670D Dual
+  Intel HD Graphics 505
+  Ryzen 7 5800H with Radeon Graphics
+  GTX TITAN Black
+  8800M GTS
+  HD 7950 / R9 280
+  FirePro M4150
+  FX 5900ZT
+  Matrox LUMA A310
+  RTX A4500
+  920MX
+  RX 570X
+  VIA Chrome9 HC3 IGP
+  HD 3850 X2
+  HD 8550G + 8570M Dual
+  Quadro FX 380
+  MOBILITY RADEON X300
+  GTX 765M
+  VIA/S3G C-645/640 GPU
+  Quadro RTX 5000 with Max-Q Design
+  Intel Arc A370M
+  Intel HD Graphics P630
+  Intel G45/G43/G41 Express Chipset
+  Matrox Parhelia APVe
+  TRINITY SCRAPPER MOBILE
+  MEDION RADEON 9800 XXL
+  Quadro 2000
+  Meta Virtual Monitor Ryzen 7 5700U
+  Quadro RTX 5000 (Mobile)
+  GT 730
+  Ryzen 3 PRO 5350G with Radeon Graphics
+  GRID P4-8Q
+  MOBILITY FIREGL 7800

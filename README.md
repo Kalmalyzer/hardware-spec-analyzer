@@ -10,6 +10,8 @@ We have a list of machines and their specs.
 
 This program then computes what % of Steam's userbase is covered by each machine specification.
 
+Currently, this only looks at GPU specs.
+
 # Usage
 
 Run this under Linux.
