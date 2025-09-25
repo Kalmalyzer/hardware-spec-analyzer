@@ -1,0 +1,14 @@
+{
+  "Minspec (NVIDIA)": "NVIDIA GeForce GTX 750",
+  "Minspec (AMD)": "AMD Radeon HD 8950",
+  "Recommended Spec (NVIDIA)": "NVIDIA GeForce RTX 2060",
+  "Recommended Spec (AMD)": "AMD Radeon RX 5700 XT",
+  "Valorant Minspec (Intel)": "Intel HD Graphics 4000",
+  "Valorant Minspec (AMD)": "AMD Radeon R5 200",
+  "Valorant Recommended Spec (NVIDIA)": "NVIDIA GeForce GT 730",
+  "Valorant Recommended Spec (AMD)": "AMD Radeon R7 240",
+  "Valorant High-End Spec (NVIDIA)": "NVIDIA GeForce GTX 1050 Ti",
+  "Valorant High-End Spec (AMD)": "AMD Radeon R7 370",
+  "CS2 Minspec (NVIDIA)": "NVIDIA GeForce 610M",
+  "CS2 Recommended Spec (AMD)": "NVIDIA GeForce RTX 2070"
+}

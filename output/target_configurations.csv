@@ -1,0 +1,13 @@
+Configuration,GPU Name,GPU description,Market coverage,G3D mark (performance metric)
+Minspec (NVIDIA),NVIDIA GeForce GTX 750,,80.31%,3327
+Minspec (AMD),AMD Radeon HD 8950,,80.31%,2825
+Recommended Spec (NVIDIA),NVIDIA GeForce RTX 2060,"Compute: 5.2416 SP TFLOPs, VRAM: 6.0 GB GDDR6",60.00%,14114
+Recommended Spec (AMD),AMD Radeon RX 5700 XT,"Compute: 8.2176 SP TFLOPs, VRAM: 8.0 GB GDDR6",53.02%,16230
+Valorant Minspec (Intel),Intel HD Graphics 4000,,82.53%,344
+Valorant Minspec (AMD),AMD Radeon R5 200,,,
+Valorant Recommended Spec (NVIDIA),NVIDIA GeForce GT 730,,82.33%,824
+Valorant Recommended Spec (AMD),AMD Radeon R7 240,"Compute: 0.4672 SP TFLOPs, VRAM: 1.0 GB GDDR5",81.90%,905
+Valorant High-End Spec (NVIDIA),NVIDIA GeForce GTX 1050 Ti,"Compute: 1.98144 SP TFLOPs, VRAM: 4.0 GB GDDR5",79.07%,6343
+Valorant High-End Spec (AMD),AMD Radeon R7 370,"Compute: 1.8944 SP TFLOPs, VRAM: 2.0 GB GDDR5",80.07%,4486
+CS2 Minspec (NVIDIA),NVIDIA GeForce 610M,,82.70%,293
+CS2 Recommended Spec (AMD),NVIDIA GeForce RTX 2070,"Compute: 6.49728 SP TFLOPs, VRAM: 8.0 GB GDDR6",53.72%,16086
